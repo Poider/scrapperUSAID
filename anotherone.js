@@ -1,0 +1,42 @@
+const puppeteer = require('puppeteer');
+
+async function runBrowser() {
+  const browser = await puppeteer.launch({
+    headless: `true`, // Set headless mode to true for production
+  });
+  return browser;
+}
+
+async function runPage(browser, link) {
+  const page = await browser.newPage();
+  await page.goto(link);
+  return page;
+}
+
+async function main() {
+  let browser = await runBrowser();
+  const page = await runPage(browser, 'https://results.usaid.gov/results');
+
+  await page.waitForSelector('.button.button-icon-before');
+
+  console.log("Found selector");
+
+  const buttonElement = await page.$('.button.button-icon-before');
+
+  const downloadPath = '/mnt/c/Users/User/Desktop/Work/pupeteering/downloads/';
+
+  const client = await page.target().createCDPSession();
+  await client.send('Page.setDownloadBehavior', {
+    behavior: 'allow',
+    downloadPath: downloadPath,
+  });
+
+  await buttonElement.click(); // Clicking on the button to trigger the download
+
+
+  await page.waitForTimeout(10000);
+
+  await browser.close();
+}
+
+main();
