@@ -31,7 +31,7 @@ async function main() {
     downloadPath: downloadPath,
   });
 
-  await buttonElement.click(); // Clicking on the button to trigger the download
+  await buttonElement.click(); 
 
 
   await page.waitForTimeout(10000);

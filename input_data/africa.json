@@ -1,0 +1,1036 @@
+[
+	{
+		"name": "Algeria",
+		"code": "DZ",
+		"capital": "Algiers",
+		"region": "AF",
+		"currency": {
+			"code": "DZD",
+			"name": "Algerian dinar",
+			"symbol": "د.ج"
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/dza.svg",
+		"dialling_code": "+213",
+		"isoCode": "012"
+	},
+	{
+		"name": "Angola",
+		"code": "AO",
+		"capital": "Luanda",
+		"region": "AF",
+		"currency": {
+			"code": "AOA",
+			"name": "Angolan kwanza",
+			"symbol": "Kz"
+		},
+		"language": {
+			"code": "pt",
+			"name": "Portuguese"
+		},
+		"flag": "https://restcountries.eu/data/ago.svg",
+		"dialling_code": "+244",
+		"isoCode": "024"
+	},
+	{
+		"name": "Benin",
+		"code": "BJ",
+		"capital": "Porto-Novo",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/ben.svg",
+		"dialling_code": "+229",
+		"isoCode": "204"
+	},
+	{
+		"name": "Botswana",
+		"code": "BW",
+		"capital": "Gaborone",
+		"region": "AF",
+		"currency": {
+			"code": "BWP",
+			"name": "Botswana pula",
+			"symbol": "P"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/bwa.svg",
+		"dialling_code": "+267",
+		"isoCode": "072"
+	},
+	{
+		"name": "British Indian Ocean Territory",
+		"code": "IO",
+		"capital": "Diego Garcia",
+		"region": "AF",
+		"currency": {
+			"code": "USD",
+			"name": "United States dollar",
+			"symbol": "$"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/iot.svg",
+		"dialling_code": "+246",
+		"isoCode": "086"
+	},
+	{
+		"name": "Burkina Faso",
+		"code": "BF",
+		"capital": "Ouagadougou",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/bfa.svg",
+		"dialling_code": "+226",
+		"isoCode": "854"
+	},
+	{
+		"name": "Burundi",
+		"code": "BI",
+		"capital": "Bujumbura",
+		"region": "AF",
+		"currency": {
+			"code": "BIF",
+			"name": "Burundian franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/bdi.svg",
+		"dialling_code": "+257",
+		"isoCode": "108"
+	},
+	{
+		"name": "Cameroon",
+		"code": "CM",
+		"capital": "Yaoundé",
+		"region": "AF",
+		"currency": {
+			"code": "XAF",
+			"name": "Central African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/cmr.svg",
+		"dialling_code": "+237",
+		"isoCode": "120"
+	},
+	{
+		"name": "Cabo Verde",
+		"code": "CV",
+		"capital": "Praia",
+		"region": "AF",
+		"currency": {
+			"code": "CVE",
+			"name": "Cape Verdean escudo",
+			"symbol": "Esc"
+		},
+		"language": {
+			"code": "pt",
+			"iso639_2": "por",
+			"name": "Portuguese",
+			"nativeName": "Português"
+		},
+		"flag": "https://restcountries.eu/data/cpv.svg",
+		"dialling_code": "+238",
+		"isoCode": "132"
+	},
+	{
+		"name": "Central African Republic",
+		"code": "CF",
+		"capital": "Bangui",
+		"region": "AF",
+		"currency": {
+			"code": "XAF",
+			"name": "Central African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/caf.svg",
+		"dialling_code": "+236",
+		"isoCode": "140"
+	},
+	{
+		"name": "Central African Republic",
+		"code": "CF",
+		"capital": "Bangui",
+		"region": "AF",
+		"currency": {
+			"code": "XAF",
+			"name": "Central African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/caf.svg",
+		"dialling_code": "+236",
+		"isoCode": "140"
+	},
+	{
+		"name": "Comoros",
+		"code": "KM",
+		"capital": "Moroni",
+		"region": "AF",
+		"currency": {
+			"code": "KMF",
+			"name": "Comorian franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/com.svg",
+		"dialling_code": "+269",
+		"isoCode": "174"
+	},
+	{
+		"name": "Congo",
+		"code": "CG",
+		"capital": "Brazzaville",
+		"region": "AF",
+		"currency": {
+			"code": "XAF",
+			"name": "Central African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/cog.svg",
+		"dialling_code": "+242",
+		"isoCode": "178"
+	},
+	{
+		"name": "Congo (Democratic Republic of the)",
+		"code": "CD",
+		"capital": "Kinshasa",
+		"region": "AF",
+		"currency": {
+			"code": "CDF",
+			"name": "Congolese franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/cod.svg",
+		"dialling_code": "+243",
+		"isoCode": "180"
+	},
+	{
+		"name": "Djibouti",
+		"code": "DJ",
+		"capital": "Djibouti",
+		"region": "AF",
+		"currency": {
+			"code": "DJF",
+			"name": "Djiboutian franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/dji.svg",
+		"dialling_code": "+253",
+		"isoCode": "262"
+	},
+	{
+		"name": "Egypt",
+		"code": "EG",
+		"capital": "Cairo",
+		"region": "AF",
+		"currency": {
+			"code": "EGP",
+			"name": "Egyptian pound",
+			"symbol": "£"
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/egy.svg",
+		"dialling_code": "+20",
+		"isoCode": "818"
+	},
+	{
+		"name": "Equatorial Guinea",
+		"code": "GQ",
+		"capital": "Malabo",
+		"region": "AF",
+		"currency": {
+			"code": "XAF",
+			"name": "Central African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "es",
+			"iso639_2": "spa",
+			"name": "Spanish",
+			"nativeName": "Español"
+		},
+		"flag": "https://restcountries.eu/data/gnq.svg",
+		"dialling_code": "+240",
+		"isoCode": "226"
+	},
+	{
+		"name": "Eritrea",
+		"code": "ER",
+		"capital": "Asmara",
+		"region": "AF",
+		"currency": {
+			"code": "ERN",
+			"name": "Eritrean nakfa",
+			"symbol": "Nfk"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/eri.svg",
+		"dialling_code": "+291",
+		"isoCode": "232"
+	},
+	{
+		"name": "Ethiopia",
+		"code": "ET",
+		"capital": "Addis Ababa",
+		"region": "AF",
+		"currency": {
+			"code": "ETB",
+			"name": "Ethiopian birr",
+			"symbol": "Br"
+		},
+		"language": {
+			"code": "am",
+			"name": "Amharic"
+		},
+		"flag": "https://restcountries.eu/data/eth.svg",
+		"dialling_code": "+251",
+		"isoCode": "231"
+	},
+	{
+		"name": "Gabon",
+		"code": "GA",
+		"capital": "Libreville",
+		"region": "AF",
+		"currency": {
+			"code": "XAF",
+			"name": "Central African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/gab.svg",
+		"dialling_code": "+241",
+		"isoCode": "266"
+	},
+	{
+		"name": "Gambia",
+		"code": "GM",
+		"capital": "Banjul",
+		"region": "AF",
+		"currency": {
+			"code": "GMD",
+			"name": "Gambian dalasi",
+			"symbol": "D"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/gmb.svg",
+		"dialling_code": "+220",
+		"isoCode": "270"
+	},
+	{
+		"name": "Ghana",
+		"code": "GH",
+		"capital": "Accra",
+		"region": "AF",
+		"currency": {
+			"code": "GHS",
+			"name": "Ghanaian cedi",
+			"symbol": "₵"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/gha.svg",
+		"dialling_code": "+233",
+		"isoCode": "288"
+	},
+	{
+		"name": "Guinea",
+		"code": "GN",
+		"capital": "Conakry",
+		"region": "AF",
+		"currency": {
+			"code": "GNF",
+			"name": "Guinean franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/gin.svg",
+		"dialling_code": "+224",
+		"isoCode": "324"
+	},
+	{
+		"name": "Guinea-Bissau",
+		"code": "GW",
+		"capital": "Bissau",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "pt",
+			"name": "Portuguese"
+		},
+		"flag": "https://restcountries.eu/data/gnb.svg",
+		"dialling_code": "+245",
+		"isoCode": "624"
+	},
+	{
+		"name": "Côte d'Ivoire",
+		"code": "CI",
+		"capital": "Yamoussoukro",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/civ.svg",
+		"dialling_code": "+225",
+		"isoCode": "384"
+	},
+	{
+		"name": "Kenya",
+		"code": "KE",
+		"capital": "Nairobi",
+		"region": "AF",
+		"currency": {
+			"code": "KES",
+			"name": "Kenyan shilling",
+			"symbol": "Sh"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/ken.svg",
+		"dialling_code": "+254",
+		"isoCode": "404"
+	},
+	{
+		"name": "Lesotho",
+		"code": "LS",
+		"capital": "Maseru",
+		"region": "AF",
+		"currency": {
+			"code": "LSL",
+			"name": "Lesotho loti",
+			"symbol": "L"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/lso.svg",
+		"dialling_code": "+266",
+		"isoCode": "426"
+	},
+	{
+		"name": "Liberia",
+		"code": "LR",
+		"capital": "Monrovia",
+		"region": "AF",
+		"currency": {
+			"code": "LRD",
+			"name": "Liberian dollar",
+			"symbol": "$"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/lbr.svg",
+		"dialling_code": "+231",
+		"isoCode": "430"
+	},
+	{
+		"name": "Libya",
+		"code": "LY",
+		"capital": "Tripoli",
+		"region": "AF",
+		"currency": {
+			"code": "LYD",
+			"name": "Libyan dinar",
+			"symbol": "ل.د"
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/lby.svg",
+		"dialling_code": "+218",
+		"isoCode": "434"
+	},
+	{
+		"name": "Madagascar",
+		"code": "MG",
+		"capital": "Antananarivo",
+		"region": "AF",
+		"currency": {
+			"code": "MGA",
+			"name": "Malagasy ariary",
+			"symbol": "Ar"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/mdg.svg",
+		"dialling_code": "+261",
+		"isoCode": "450"
+	},
+	{
+		"name": "Malawi",
+		"code": "MW",
+		"capital": "Lilongwe",
+		"region": "AF",
+		"currency": {
+			"code": "MWK",
+			"name": "Malawian kwacha",
+			"symbol": "MK"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/mwi.svg",
+		"dialling_code": "+265",
+		"isoCode": "454"
+	},
+	{
+		"name": "Mali",
+		"code": "ML",
+		"capital": "Bamako",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/mli.svg",
+		"dialling_code": "+223",
+		"isoCode": "466"
+	},
+	{
+		"name": "Mauritania",
+		"code": "MR",
+		"capital": "Nouakchott",
+		"region": "AF",
+		"currency": {
+			"code": "MRO",
+			"name": "Mauritanian ouguiya",
+			"symbol": "UM"
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/mrt.svg",
+		"dialling_code": "+222",
+		"isoCode": "478"
+	},
+	{
+		"name": "Mauritius",
+		"code": "MU",
+		"capital": "Port Louis",
+		"region": "AF",
+		"currency": {
+			"code": "MUR",
+			"name": "Mauritian rupee",
+			"symbol": "₨"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/mus.svg",
+		"dialling_code": "+230",
+		"isoCode": "480"
+	},
+	{
+		"name": "Mayotte",
+		"code": "YT",
+		"capital": "Mamoudzou",
+		"region": "AF",
+		"currency": {
+			"code": "EUR",
+			"name": "Euro",
+			"symbol": "€"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/myt.svg",
+		"dialling_code": "+262",
+		"isoCode": "175"
+	},
+	{
+		"name": "Morocco",
+		"code": "MA",
+		"capital": "Rabat",
+		"region": "AF",
+		"currency": {
+			"code": "MAD",
+			"name": "Moroccan dirham",
+			"symbol": "د.م."
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/mar.svg",
+		"dialling_code": "+212",
+		"isoCode": "504"
+	},
+	{
+		"name": "Mozambique",
+		"code": "MZ",
+		"capital": "Maputo",
+		"region": "AF",
+		"currency": {
+			"code": "MZN",
+			"name": "Mozambican metical",
+			"symbol": "MT"
+		},
+		"language": {
+			"code": "pt",
+			"name": "Portuguese"
+		},
+		"flag": "https://restcountries.eu/data/moz.svg",
+		"dialling_code": "+258",
+		"isoCode": "508"
+	},
+	{
+		"name": "Namibia",
+		"code": "NA",
+		"capital": "Windhoek",
+		"region": "AF",
+		"currency": {
+			"code": "NAD",
+			"name": "Namibian dollar",
+			"symbol": "$"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/nam.svg",
+		"dialling_code": "+264",
+		"isoCode": "516"
+	},
+	{
+		"name": "Niger",
+		"code": "NE",
+		"capital": "Niamey",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/ner.svg",
+		"dialling_code": "+227",
+		"isoCode": "562"
+	},
+	{
+		"name": "Nigeria",
+		"code": "NG",
+		"capital": "Abuja",
+		"region": "AF",
+		"currency": {
+			"code": "NGN",
+			"name": "Nigerian naira",
+			"symbol": "₦"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/nga.svg",
+		"dialling_code": "+234",
+		"isoCode": "566"
+	},
+	{
+		"name": "Réunion",
+		"code": "RE",
+		"capital": "Saint-Denis",
+		"region": "AF",
+		"currency": {
+			"code": "EUR",
+			"name": "Euro",
+			"symbol": "€"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/reu.svg",
+		"dialling_code": "+262",
+		"isoCode": "638"
+	},
+	{
+		"name": "Rwanda",
+		"code": "RW",
+		"capital": "Kigali",
+		"region": "AF",
+		"currency": {
+			"code": "RWF",
+			"name": "Rwandan franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "rw",
+			"name": "Kinyarwanda"
+		},
+		"flag": "https://restcountries.eu/data/rwa.svg",
+		"dialling_code": "+250",
+		"isoCode": "646"
+	},
+	{
+		"name": "Saint Helena, Ascension and Tristan da Cunha",
+		"code": "SH",
+		"capital": "Jamestown",
+		"region": "AF",
+		"currency": {
+			"code": "SHP",
+			"name": "Saint Helena pound",
+			"symbol": "£"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/shn.svg",
+		"dialling_code": "+290",
+		"isoCode": "654"
+	},
+	{
+		"name": "Sao Tome and Principe",
+		"code": "ST",
+		"capital": "São Tomé",
+		"region": "AF",
+		"currency": {
+			"code": "STD",
+			"name": "São Tomé and Príncipe dobra",
+			"symbol": "Db"
+		},
+		"language": {
+			"code": "pt",
+			"name": "Portuguese"
+		},
+		"flag": "https://restcountries.eu/data/stp.svg",
+		"dialling_code": "+239",
+		"isoCode": "678"
+	},
+	{
+		"name": "Senegal",
+		"code": "SN",
+		"capital": "Dakar",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/sen.svg",
+		"dialling_code": "+221",
+		"isoCode": "686"
+	},
+	{
+		"name": "Seychelles",
+		"code": "SC",
+		"capital": "Victoria",
+		"region": "AF",
+		"currency": {
+			"code": "SCR",
+			"name": "Seychellois rupee",
+			"symbol": "₨"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/syc.svg",
+		"dialling_code": "+248",
+		"isoCode": "690"
+	},
+	{
+		"name": "Sierra Leone",
+		"code": "SL",
+		"capital": "Freetown",
+		"region": "AF",
+		"currency": {
+			"code": "SLL",
+			"name": "Sierra Leonean leone",
+			"symbol": "Le"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/sle.svg",
+		"dialling_code": "+232",
+		"isoCode": "694"
+	},
+	{
+		"name": "Somalia",
+		"code": "SO",
+		"capital": "Mogadishu",
+		"region": "AF",
+		"currency": {
+			"code": "SOS",
+			"name": "Somali shilling",
+			"symbol": "Sh"
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/som.svg",
+		"dialling_code": "+252",
+		"isoCode": "706"
+	},
+	{
+		"name": "South Africa",
+		"code": "ZA",
+		"capital": "Pretoria",
+		"region": "AF",
+		"currency": {
+			"code": "ZAR",
+			"name": "South African rand",
+			"symbol": "R"
+		},
+		"language": {
+			"code": "en",
+			"iso639_2": "eng",
+			"name": "English",
+			"nativeName": "English"
+		},
+		"flag": "https://restcountries.eu/data/zaf.svg",
+		"dialling_code": "+27",
+		"isoCode": "710"
+	},
+	{
+		"name": "Sudan",
+		"code": "SD",
+		"capital": "Khartoum",
+		"region": "AF",
+		"currency": {
+			"code": "SDG",
+			"name": "Sudanese pound",
+			"symbol": "ج.س."
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/sdn.svg",
+		"dialling_code": "+249",
+		"isoCode": "729"
+	},
+	{
+		"name": "Swaziland",
+		"code": "SZ",
+		"capital": "Lobamba",
+		"region": "AF",
+		"currency": {
+			"code": "SZL",
+			"name": "Swazi lilangeni",
+			"symbol": "L"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/swz.svg",
+		"dialling_code": "+268",
+		"isoCode": "748"
+	},
+	{
+		"name": "Tanzania, United Republic of",
+		"code": "TZ",
+		"capital": "Dodoma",
+		"region": "AF",
+		"currency": {
+			"code": "TZS",
+			"name": "Tanzanian shilling",
+			"symbol": "Sh"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/tza.svg",
+		"dialling_code": "+255",
+		"isoCode": "834"
+	},
+	{
+		"name": "Togo",
+		"code": "TG",
+		"capital": "Lomé",
+		"region": "AF",
+		"currency": {
+			"code": "XOF",
+			"name": "West African CFA franc",
+			"symbol": "Fr"
+		},
+		"language": {
+			"code": "fr",
+			"name": "French"
+		},
+		"flag": "https://restcountries.eu/data/tgo.svg",
+		"dialling_code": "+228",
+		"isoCode": "768"
+	},
+	{
+		"name": "Tunisia",
+		"code": "TN",
+		"capital": "Tunis",
+		"region": "AF",
+		"currency": {
+			"code": "TND",
+			"name": "Tunisian dinar",
+			"symbol": "د.ت"
+		},
+		"language": {
+			"code": "ar",
+			"name": "Arabic"
+		},
+		"flag": "https://restcountries.eu/data/tun.svg",
+		"dialling_code": "+216",
+		"isoCode": "788"
+	},
+	{
+		"name": "Uganda",
+		"code": "UG",
+		"capital": "Kampala",
+		"region": "AF",
+		"currency": {
+			"code": "UGX",
+			"name": "Ugandan shilling",
+			"symbol": "Sh"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/uga.svg",
+		"dialling_code": "+256",
+		"isoCode": "800"
+	},
+	{
+		"name": "Zambia",
+		"code": "ZM",
+		"capital": "Lusaka",
+		"region": "AF",
+		"currency": {
+			"code": "ZMW",
+			"name": "Zambian kwacha",
+			"symbol": "ZK"
+		},
+		"language": {
+			"code": "en",
+			"name": "English"
+		},
+		"flag": "https://restcountries.eu/data/zmb.svg",
+		"dialling_code": "+260",
+		"isoCode": "894"
+	},
+	{
+		"name": "Zimbabwe",
+		"code": "ZW",
+		"capital": "Harare",
+		"region": "AF",
+		"currency": {
+			"code": "BWP",
+			"name": "Botswana pula",
+			"symbol": "P"
+		},
+		"language": {
+			"code": "en",
+			"iso639_2": "eng",
+			"name": "English",
+			"nativeName": "English"
+		},
+		"flag": "https://restcountries.eu/data/zwe.svg",
+		"dialling_code": "+263",
+		"isoCode": "716"
+	}
+]

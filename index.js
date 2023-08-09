@@ -3,7 +3,7 @@ const unzipper = require('unzipper');
 const {pathMaker} = require('./path');
 const fs = require('fs');
 const path = require('path');
-const { get } = require('http');
+const AdmZip = require('adm-zip');
 const XLSX = require('xlsx');
 
 
@@ -18,16 +18,19 @@ function getFolderFiles(folderPath) {
   }
 }
 
-async function directoryCleaner(directoryPath) {
+ function directoryCleaner(directoryPath) {
   const directoryFiles =  getFolderFiles(directoryPath);
   console.log("cleaning directory", directoryPath, " of ", directoryFiles.length, " files");
   if(directoryFiles.length > 0) {
     directoryFiles.forEach(file => {
       const filePath = path.join(directoryPath, file);
-      fs.unlink(filePath, (err) => {
-        if (err) throw err;
-        console.log(`${file} was deleted`);
-      });
+      try {
+        fs.unlinkSync(filePath);
+        console.log(`${filePath} was deleted`);
+      } catch (err) {
+        console.error(`Error deleting ${filePath}:`, err);
+      }
+      
     })
   }
 }
@@ -92,28 +95,92 @@ async function fileUnzipper(downloadPath) {
   
   const filePath = path.join(downloadPath, FilesArr[0]);
   //check if it ends with zip else throw
-  fs.createReadStream(filePath)
-      .pipe(unzipper.Extract({ path: unzipPath }));
+  const zip = new AdmZip(filePath);
+  zip.extractAllTo(unzipPath, /*overwrite=*/true);
+  return 
+}
+
+function AfricaJsonFiltering(xslxJsonData){
+  africanJsonDataPath = pathMaker('input_data', 'africa_filtered.json');
+  const AfricanCountriesdata = fs.readFileSync(africanJsonDataPath, 'utf8');
+  const africanCoutnriesArr = JSON.parse(AfricanCountriesdata);
+  const AfricanCountries = {};
+  africanCoutnriesArr.forEach(element => {
+    
+  AfricanCountries[element] = true;
+  });
+  
+  const xslxFilteredData = xslxJsonData.filter(item => AfricanCountries[item.country_name]);
+  
+//json data to a string
+
+return xslxFilteredData;
+}
+
+function getAllDataCountries(xslxJsonData)
+{
+  let xslxFilteredData = xslxJsonData.map((item) =>{
+    return item.country_name;
+  });
+
+  xslxFilteredData = [...new Set(xslxFilteredData)];
+  return xslxFilteredData;
 }
 
 async function jsonize(jsonizedPath, unzipPath, xls_unzipped_files) {
-  
+  const filePath = path.join(unzipPath, xls_unzipped_files[0]);
+  console.log(filePath)
+  try{
+
+  const workbook = XLSX.readFile(filePath);
+  const sheet_name_list = workbook.SheetNames;
+  const sheetName = sheet_name_list[0]
+  const worksheet = workbook.Sheets[sheetName];
+  const xslxJsonData = XLSX.utils.sheet_to_json(worksheet, { raw: true });
+    
+  //use to get All countries used in the data
+  // const Countries = getAllDataCountries(xslxJsonData);
+
+  const xslxFilteredData = AfricaJsonFiltering(xslxJsonData);
+
+  const stringifiedXslxFiltered = JSON.stringify(xslxFilteredData, null, 2);
+    
+  if (!fs.existsSync(jsonizedPath)) 
+    fs.mkdirSync(jsonizedPath, { recursive: true });
+  jsonizedPath = path.join(jsonizedPath, 'data.json');
+  fs.writeFileSync(jsonizedPath, stringifiedXslxFiltered);
+  console.log(`Data written to ${jsonizedPath}`);
+
+  } catch (err) {
+    console.log((`Error: jsonize can't find the folder ${unzipPath} or the file ${xls_unzipped_files[0]}`));
+  }
 }
 
 async function main() {
-  const downloadPath = pathMaker('downloads', 'zip');
-  const unzipPath = pathMaker('downloads', 'unzipped_files');
+  const downloadPath = pathMaker('downloads','USAID_ZIP', 'zip');
+  const unzipPath = pathMaker('downloads', 'USAID_ZIP','unzipped_files');
   const jsonizedPath = pathMaker('downloads', 'jsonized');
 
 
-  // await zipDownloader(downloadPath);
-  // await fileUnzipper(downloadPath);
+  await zipDownloader(downloadPath);
+  await fileUnzipper(downloadPath);
   
-  const unzipped_files = getFolderFiles(unzipPath);
+
+  const unzipped_files =  getFolderFiles(unzipPath);
   const xls_unzipped_files  = unzipped_files.filter(file => file.endsWith('.xlsx'));
-  jsonize(jsonizedPath,unzipPath,xls_unzipped_files);
-  //Jsonize with africa filtering
-  // scrapCountryInfos // promise all with first
+  await jsonize(jsonizedPath,unzipPath,xls_unzipped_files);
+  
+ 
+
 }
 
+async function extraDataScrapper()
+{
+
+}
+
+
 main();
+
+ // scrapCountryInfos // promise all with first
+//'unzipped_files' in .env
