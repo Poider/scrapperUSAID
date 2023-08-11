@@ -6,3 +6,4 @@ exports.pathMaker = function (...files) {
 
     return path.join(workingdir, ...files)
 }
+
