@@ -43,8 +43,11 @@ async function runBrowser() {
 }
 
 async function runPage(browser, link) {
+  // console.log('creating new page')
   const page = await browser.newPage();
+  // console.log("opening page");
   await page.goto(link);
+  // console.log("gone to the link");
   return page;
 }
 
@@ -227,11 +230,51 @@ async function AutoDataScrapper()
 }
 
 
-async function ManualDataScrapper()
+
+
+async function getCountryDropDown(browser, year)
 {
+  const page = await browser.newPage();
+
+  await page.goto(`https://results.usaid.gov/results/country?fiscalYear=${year}`); // Replace with the URL of the page
+
+  // Click the element to trigger the dropdown
+  await page.waitForSelector('#app-entry-point > div > div.row.navigation-bar > div.column.small-12.nb-selected.data-select > div > div > span')
+  await page.click('#app-entry-point > div > div.row.navigation-bar > div.column.small-12.nb-selected.data-select > div > div > span');
+
+  console.log('clicked')
+
+  const dropdownValues = await page.$$eval('.data-selector-option-name', (optionElements) => {
+    const values = [];
+  
+    for (const option of optionElements) {
+      const trimmedText = option.textContent.trim();
+      if (trimmedText !== 'Worldwide') {
+        values.push(trimmedText);
+      }
+    }
+  
+    return values;
+  });
+
+  // Output the captured content (you can process it as needed)
+  // const s = dropdownValues.has('Albania')
+  const mySet = new Set(dropdownValues);
+  
+
+  // Perform an action to make the dropdown disappear (e.g., clicking somewhere else)
+  await page.click('body'); // You can replace 'body' with the appropriate selector
+
+  await page.close();
+  return(mySet)
+}
+
+
+
+async function ManualDataScrapper() {
 
   let browser = await runBrowser();
-  
+
   const AllData = [];
   const thisYear = new Date().getFullYear();
   const thisMonth = new Date().getMonth();
@@ -241,56 +284,71 @@ async function ManualDataScrapper()
   const countries = fs.readFileSync(pathMaker('input_data', 'africa_filtered.json'), 'utf8');
   const countriesArr = JSON.parse(countries);
   let i = 0
-  for (let year = 2014; year <= effectiveYear; i++){
-    const availableCountries = [];
+  for (let year = 2014; year <= effectiveYear; i++) {
+
+
+    const availableCountries = await getCountryDropDown(browser, year);
+
     for (country of countriesArr) {
+      if (availableCountries.has(country)) {
+
+        console.log(country, year)
+        //circle on the countries, and check their years
+        const cleanCountry = country.toLowerCase().replace(' ','-').replace('.','-').replace('(','').replace(')','').replace('/','-');
+        let dataLink = `https://results.usaid.gov/results/country/${cleanCountry}?fiscalYear=${year}`
+        console.log(dataLink)
+        const page = await runPage(browser, dataLink);
+        const Selector = '#selected_bar_height > div.row.sb-details-wrapper > div.column.small-12.medium-5.xlarge-6 > div > div > div.quicklook-container > div > div:nth-child(4) > div'
+        console.log('taking a screenshot')
+        await page.screenshot({ path: pathMaker('downloads', `${year}.png`) });
+        console.log('awaiting selector');
+        await page.waitForSelector(Selector);
+        console.log('found selector');
+        await page.screenshot({ path: pathMaker('downloads', `${year}${country}.png`) });
+        const info = await page.evaluate(() => {
+          const selector = '#selected_bar_height > div.row.sb-details-wrapper > div.column.small-12.medium-5.xlarge-6 > div > div > div.quicklook-container > div > div:nth-child(4) > div';
+          const element = document.querySelector(selector);
+          const textContent = element.innerHTML; // Use innerHTML to get the raw HTML content
+
+          // Replace the <br> tag with a space
+          let cleanedText = textContent.replace('<span class="ql-text">', '');
+          cleanedText = cleanedText.replace('</span>', '');
+
+          cleanedText = cleanedText.replace('<br>', ' ');
+
+          return cleanedText.trim();
+        });
+
+        let infoArr = info.split(' ');
+        AllData.push({
+          country: country,
+          year: year,
+          Human_Development_Index: {
+            score: +infoArr[1],
+            level: infoArr[3]
+          }
+        });
+        page.close();
+      }
 
     }
-    //   console.log(i++)
-    //   //circle on the countries, and check their years
-    //   // let year = 2014;
-    //   // let country = 'pakistan'
-    //   let dataLink = `https://results.usaid.gov/results/country/${country}?fiscalYear=${year}`
-    //   const page = await runPage(browser, dataLink);
-    //   const Selector = '#selected_bar_height > div.row.sb-details-wrapper > div.column.small-12.medium-5.xlarge-6 > div > div > div.quicklook-container > div > div:nth-child(4) > div'
-    //   page.screenshot({ path: pathMaker('downloads', `${year}.png`) });
-    //   await page.screenshot({ path: pathMaker('downloads', `${year}${country}.png`) });
-    //   await page.waitForSelector(Selector);
-    //   const info = await page.evaluate(() => {
-    //     const selector = '#selected_bar_height > div.row.sb-details-wrapper > div.column.small-12.medium-5.xlarge-6 > div > div > div.quicklook-container > div > div:nth-child(4) > div';
-    //     const element = document.querySelector(selector);
-    //     const textContent = element.innerHTML; // Use innerHTML to get the raw HTML content
-
-    //     // Replace the <br> tag with a space
-    //     let cleanedText = textContent.replace('<span class="ql-text">', '');
-    //     cleanedText = cleanedText.replace('</span>', '');
-
-    //     cleanedText = cleanedText.replace('<br>', ' ');
-    //     page.close();
-    //     return cleanedText.trim();
-    //   });
-    //   let infoArr = info.split(' ');
-    //   AllData.push({
-    //     country: country,
-    //     year: year,
-    //     Human_Development_Index: {
-    //       score: +infoArr[1],
-    //       level: infoArr[3]
-    //     }
-    //   });
-    // }
   }
-  console.log('done');
+  console.log('done', AllData);
 
   fs.writeFileSync(pathMaker('downloads', 'human-development-index.json'), JSON.stringify(AllData, null, 2));
   //write all data to json
-  // page.close();
+  
   browser.close();
 
 
 }
 
 ManualDataScrapper();
+
+
+
+
+// getCountryDropDown();
 // AutoDataScrapper();
 
 // main();
