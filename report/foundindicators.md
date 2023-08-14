@@ -1,6 +1,6 @@
 feels like usaiD is doing the same thing as the app we tryna make, it takes the data and does calcualtions on it, so we could use it sometimes as reference
 
-https://roadmaps.usaid.gov/country/algeria:
+https://roadmaps.usaid.gov/country/algeria:(only last year's data)
 
             Corruption index : Absence of Corruption
 
@@ -19,7 +19,7 @@ https://roadmaps.usaid.gov/country/algeria:
             GDP per capita : GDP Per Capita (PPP)
 
 
-https://www.foreignassistance.gov/cd/albania/ :
+https://www.foreignassistance.gov/cd/albania/ : (you can choose the year)
 
             Official Development Assistance (ODA) and Grants:  ODA (Official Development Assistance)
 
