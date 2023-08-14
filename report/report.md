@@ -84,3 +84,8 @@ check if stuff in here can be needed?
 https://roadmaps.usaid.gov/country/algeria
 https://idea.usaid.gov/cd/albania/education
 https://www.foreignassistance.gov/cd/albania
+
+USAID Sources:
+WorldBank
+
+idea: put in averages just for user to have an idea to scale that data using the average perspective (get the average from all countries with that data of that year);
