@@ -19,7 +19,7 @@ async function dataFetcher(indicator, ...args)
 async function main()
 {
 
-    data = await dataFetcher('NGDP_RPCH', 'DZA')
+    data = await dataFetcher('LP','MAR')
     stringified = JSON.stringify(data, null, 2)
     console.log(stringified)
 }
