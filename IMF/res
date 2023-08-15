@@ -1,0 +1,7 @@
+https://www.imf.org/external/datamapper/api/v1/FDSAOP_PCH/DZA
+{
+  "api": {
+    "version": "1",
+    "output-method": "json"
+  }
+}
