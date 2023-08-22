@@ -711,7 +711,7 @@
     "description": "     ",
     "source": "AFR Regional Economic Outlook (April 2023)",
     "unit": "Annual percent change",
-    "dataset": "AFRREO"
+    "dataset": "AFRREO" 
   },
   "NGDPRPC_PCH": {
     "label": "Real Per Capita GDP Growth",

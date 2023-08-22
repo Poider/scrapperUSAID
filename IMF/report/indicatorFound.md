@@ -29,8 +29,6 @@ Foreign Direct Investment (FDI) Inflows:
 Taux de chômage:
     Unemployment rate
 
-% Emplois dans l'agriculture:
-    Claims on Nonfinancial Private Sector (% of GDP)
 
 Réserve de change:
     Reserves (Months of Imports)

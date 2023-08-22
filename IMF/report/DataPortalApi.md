@@ -1,6 +1,9 @@
 "https://datahelp.imf.org/knowledgebase/articles/667681-using-json-restful-web-service"
 datasets: "https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42&sid=1479329132316"
 
+Example:
+https://datahelp.imf.org/knowledgebase/articles/1968408-how-to-use-the-api-python-and-r
+
 Dataflow Method:
     Arguments: None
     Returns: A list of available dataset names.

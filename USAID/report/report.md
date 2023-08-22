@@ -50,7 +50,7 @@ eg : https://data.usaid.gov/resource/sf8i-fzzw.json
     has gdp from 1980 to 2016
 
 
-thats what that global result is sorta random, cus their data are gathered from multiple different datasets
+thats what that global result is sorta random, caus their data are gathered from multiple different datasets
 
 
 
@@ -62,21 +62,20 @@ To browse dataSets :
 
 
 
-                                                    SCRAPPED::::
+                                                    SCRAPPED::::                            
 
 for scavanging stuff, I since we're tryna visualize, a user can't rely on smth that would show you data for a certain year for a country and next year that info is missing, saying the user is tracking X country to see if theres inflation through years and would find infos on graph bout 2014 nnone on 2015 then again 2016
 
 
 
-after research, i found usaid gathers infos from worldbank for term of 'INCOME GROUP, GROSS NATIONAL INCOME' and 'POPULATION, 'Human Development Index' from (UN Development Program (UNDP), Human Development Report + UN Population Division, World Population Prospects)
+after research, i found usaid gathers infos from worldbank for term of 'INCOME GROUP, GROSS NATIONAL INCOME' and 'POPULATION, 'Human Development Index' from (UN Development Program (UNDP), Human Development Report + UN Population Division, World Population Prospects) ----> the only data thats consistent for each year and each country
 
-^ the only data thats consistent for each year and each country
-Other data : Spending by sector -> then multiple specifics on that sector spending
+Other data works like : sectors money was spent on --> Spending by sector -> then multiple specifics on that sector spending
     eg. Agriculture: X$
         how many annual sales of farms 
         how many investments to support food security
 
-Imma take from it for now the Human Dev index
+I shall take from it for now the Human Dev index (scrap that info) 
 
 
 

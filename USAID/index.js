@@ -346,11 +346,4 @@ async function ManualDataScrapper() {
 ManualDataScrapper();
 
 
-
-
-// getCountryDropDown();
-// AutoDataScrapper();
-
-// main();
-
-//'unzipped_files' in .env
+main();

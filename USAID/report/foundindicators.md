@@ -1,6 +1,6 @@
 feels like usaiD is doing the same thing as the app we tryna make, it takes the data and does calcualtions on it, so we could use it sometimes as reference
 
-https://roadmaps.usaid.gov/country/algeria:(only last year's data)
+    :(only last year's data)
 
 d          Corruption index : Absence of Corruption
 
@@ -27,9 +27,11 @@ d            Percentage of the agriculture sector in the economy of the country 
 
 
 
-
-
 Employment in agriculture (percentage of total employment) (modeled ILO estimate) ->>> "https://idea.usaid.gov/cd/albania/" ->>>>>> WORLDBANK MOST OF EM
+
+
+
+
 
 
 ideaUSAID : compares WORLDBANK DATA VS AVERAGE DATA FROM World Development Indicators (WDI) (World average vs income group average)
@@ -55,3 +57,8 @@ d                               Liberal Democracy:Varieties of Democracy: Libera
 d                               Civil Society & Media Effectiveness: Varieties of Democracy: Core civil society index, model estimates (0-1, higher indicates stronger electoral principles of democracy)
 d                               Environmental Policy : Environmental Performance Index (EPI): Environmental Health: Air Quality, score (0-100, higher is better)
 d                               Information & Communication Technology (ICT) Adoption : Mobile Connectivity Index, score (0-100, higher is better)
+
+
+
+
+d -> different ressource than worldBank
