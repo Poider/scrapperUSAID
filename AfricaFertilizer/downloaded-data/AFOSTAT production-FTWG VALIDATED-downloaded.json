@@ -1,0 +1,785 @@
+{
+    "dataSource": {
+        "type": "json",
+        "data": [
+            [
+                "Year",
+                "Country",
+                "Amount",
+                "FTWG Validated",
+                "Product Name"
+            ],
+            [
+                2010,
+                "Nigeria",
+                69561,
+                true,
+                "Urea"
+            ],
+            [
+                2011,
+                "Nigeria",
+                143348,
+                true,
+                "Urea"
+            ],
+            [
+                2012,
+                "Nigeria",
+                370000,
+                true,
+                "Urea"
+            ],
+            [
+                2013,
+                "Nigeria",
+                235000,
+                true,
+                "Urea"
+            ],
+            [
+                2014,
+                "Nigeria",
+                170000,
+                true,
+                "Urea"
+            ],
+            [
+                2015,
+                "Nigeria",
+                281750,
+                true,
+                "Urea"
+            ],
+            [
+                2016,
+                "Nigeria",
+                695000,
+                true,
+                "Urea"
+            ],
+            [
+                2017,
+                "Nigeria",
+                1420325,
+                true,
+                "Urea"
+            ],
+            [
+                2018,
+                "Nigeria",
+                1595935,
+                true,
+                "Urea"
+            ],
+            [
+                2019,
+                "Nigeria",
+                1473858,
+                true,
+                "Urea"
+            ],
+            [
+                2020,
+                "Nigeria",
+                1435193,
+                true,
+                "Urea"
+            ],
+            [
+                2017,
+                "Cote D'ivoire",
+                5000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2021,
+                "Ghana",
+                4624,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2022,
+                "Kenya",
+                null,
+                true,
+                "Urea"
+            ],
+            [
+                2021,
+                "Nigeria",
+                2701279,
+                true,
+                "Urea"
+            ],
+            [
+                2019,
+                "Tanzania",
+                13487,
+                true,
+                "Minjingu Organic Hyperphosphate"
+            ],
+            [
+                2019,
+                "Tanzania",
+                10678,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2019,
+                "Tanzania",
+                3979,
+                true,
+                "Other NP Compound"
+            ],
+            [
+                2020,
+                "Tanzania",
+                22982,
+                true,
+                "Minjingu Organic Hyperphosphate"
+            ],
+            [
+                2020,
+                "Tanzania",
+                6572,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2018,
+                "Tanzania",
+                2375,
+                true,
+                "Minjingu Organic Hyperphosphate"
+            ],
+            [
+                2018,
+                "Tanzania",
+                6967,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2018,
+                "Tanzania",
+                766,
+                true,
+                "Other NP Compound"
+            ],
+            [
+                2021,
+                "Cote D'ivoire",
+                4562,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2020,
+                "Cote D'ivoire",
+                1500,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2019,
+                "Cote D'ivoire",
+                18800,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2018,
+                "Cote D'ivoire",
+                15000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2021,
+                "Burkina Faso",
+                3500,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2021,
+                "Burkina Faso",
+                2400,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2020,
+                "Burkina Faso",
+                1700,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2020,
+                "Burkina Faso",
+                2803,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2019,
+                "Burkina Faso",
+                3100,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2019,
+                "Burkina Faso",
+                1800,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2018,
+                "Burkina Faso",
+                1000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2018,
+                "Burkina Faso",
+                1320,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2021,
+                "Tanzania",
+                30253,
+                true,
+                "Minjingu Organic Hyperphosphate"
+            ],
+            [
+                2021,
+                "Tanzania",
+                3142,
+                true,
+                "NP 27-10-0 + 15CaO"
+            ],
+            [
+                2021,
+                "Tanzania",
+                10997,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2021,
+                "Senegal",
+                30000,
+                true,
+                "Diammonium Phosphate"
+            ],
+            [
+                2021,
+                "Senegal",
+                55000,
+                true,
+                "Monoammonium Phosphate"
+            ],
+            [
+                2021,
+                "Senegal",
+                105000,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2021,
+                "Senegal",
+                1400,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2021,
+                "Senegal",
+                553447,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2020,
+                "Senegal",
+                31928,
+                true,
+                "Diammonium Phosphate"
+            ],
+            [
+                2020,
+                "Senegal",
+                139615,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2020,
+                "Senegal",
+                3900,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2020,
+                "Senegal",
+                306642,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2019,
+                "Senegal",
+                16015.5,
+                true,
+                "Diammonium Phosphate"
+            ],
+            [
+                2019,
+                "Senegal",
+                158975.4,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2019,
+                "Senegal",
+                3990,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2019,
+                "Senegal",
+                587216,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2018,
+                "Senegal",
+                88086,
+                true,
+                "Diammonium Phosphate"
+            ],
+            [
+                2018,
+                "Senegal",
+                66073,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2018,
+                "Senegal",
+                2000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2018,
+                "Senegal",
+                500126,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2017,
+                "Senegal",
+                126815,
+                true,
+                "Diammonium Phosphate"
+            ],
+            [
+                2017,
+                "Senegal",
+                69885,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2017,
+                "Senegal",
+                2337,
+                true,
+                "Other phosphate"
+            ],
+            [
+                2017,
+                "Senegal",
+                525000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2016,
+                "Senegal",
+                28880,
+                true,
+                "Diammonium Phosphate"
+            ],
+            [
+                2016,
+                "Senegal",
+                56405,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2016,
+                "Senegal",
+                1000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2016,
+                "Senegal",
+                7718,
+                true,
+                "Other phosphate"
+            ],
+            [
+                2021,
+                "Benin",
+                15000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2021,
+                "Mali",
+                58000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2021,
+                "Mali",
+                65000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2015,
+                "Mali",
+                31000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2016,
+                "Mali",
+                36500,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2016,
+                "Mali",
+                50000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2017,
+                "Mali",
+                41000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2017,
+                "Mali",
+                41000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2018,
+                "Mali",
+                47950,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2018,
+                "Mali",
+                45000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2019,
+                "Mali",
+                40374,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2019,
+                "Mali",
+                110000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2020,
+                "Mali",
+                69000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2020,
+                "Mali",
+                57600,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2017,
+                "Tanzania",
+                10168,
+                true,
+                "Minjingu Organic Hyperphosphate"
+            ],
+            [
+                2017,
+                "Tanzania",
+                9066,
+                true,
+                "Other NP Compound"
+            ],
+            [
+                2016,
+                "Tanzania",
+                2300,
+                true,
+                "Minjingu Organic Hyperphosphate"
+            ],
+            [
+                2016,
+                "Tanzania",
+                3900,
+                true,
+                "Other NP Compound"
+            ],
+            [
+                2015,
+                "Tanzania",
+                35000,
+                true,
+                "Minjingu Organic Hyperphosphate"
+            ],
+            [
+                2014,
+                "Tanzania",
+                15000,
+                true,
+                "Other NP Compound"
+            ],
+            [
+                2013,
+                "Tanzania",
+                35000,
+                true,
+                "Other NP Compound"
+            ],
+            [
+                2021,
+                "Togo",
+                1456368,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2020,
+                "Togo",
+                1321345,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2019,
+                "Togo",
+                703773,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2018,
+                "Togo",
+                1020121,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2017,
+                "Togo",
+                732503,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2016,
+                "Togo",
+                850076,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2015,
+                "Togo",
+                1150194,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2022,
+                "Nigeria",
+                3458740,
+                true,
+                "Urea"
+            ],
+            [
+                2022,
+                "Burkina Faso",
+                2500,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2022,
+                "Burkina Faso",
+                463,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2022,
+                "Ghana",
+                210,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2022,
+                "Cote D'ivoire",
+                15000,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2022,
+                "Mali",
+                84206,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2022,
+                "Mali",
+                100000,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2022,
+                "Senegal",
+                3116,
+                true,
+                "Diammonium Phosphate"
+            ],
+            [
+                2022,
+                "Senegal",
+                89003,
+                true,
+                "NPK unspecified"
+            ],
+            [
+                2022,
+                "Senegal",
+                7725,
+                true,
+                "Organic Fertilizer"
+            ],
+            [
+                2022,
+                "Senegal",
+                487145,
+                true,
+                "Phosphate Rock"
+            ],
+            [
+                2023,
+                "Nigeria",
+                1785611,
+                false,
+                "Urea"
+            ]
+        ]
+    },
+    "slice": {
+        "reportFilters": [
+            {
+                "uniqueName": "FTWG Validated"
+            }
+        ],
+        "rows": [
+            {
+                "uniqueName": "Country"
+            },
+            {
+                "uniqueName": "Product Name"
+            }
+        ],
+        "columns": [
+            {
+                "uniqueName": "Year",
+                "filter": {
+                    "exclude": [
+                        "year.[2010]",
+                        "year.[2011]",
+                        "year.[2012]",
+                        "year.[2013]",
+                        "year.[2014]",
+                        "year.[2015]"
+                    ]
+                }
+            },
+            {
+                "uniqueName": "[Measures]"
+            }
+        ],
+        "measures": [
+            {
+                "uniqueName": "Amount",
+                "aggregation": "sum",
+                "format": "-11j4uftfwqge00"
+            }
+        ]
+    },
+    "formats": [
+        {
+            "name": "-11j4uftfwqge00",
+            "thousandsSeparator": ",",
+            "decimalPlaces": 2
+        }
+    ],
+    "localization": "https://cdn.flexmonster.com/loc/en.json",
+    "version": "2.9.55",
+    "creationDate": "2023-08-24T10:22:38.685Z"
+}

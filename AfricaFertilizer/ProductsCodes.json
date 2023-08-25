@@ -1,0 +1,1115 @@
+[
+    {
+        "id": 11,
+        "name": "Calcium Nitrate",
+        "nameTrn": {
+            "id": 3432749,
+            "entries": [
+                {
+                    "id": 3432750,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "Nitrate de calcium"
+                },
+                {
+                    "id": 3432751,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Nitrato de cálcio"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10007,
+            "label": "Top dressing",
+            "labelTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            },
+            "name": "Top dressing",
+            "nameTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            }
+        },
+        "shortName": "Cal. nitrate",
+        "shortNameTrn": {
+            "id": 3432752
+        },
+        "nitrogen": 15.5,
+        "phosphorus": 0.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 287,
+        "name": "Organic Fertilizer",
+        "nameTrn": {
+            "id": 3436258,
+            "entries": [
+                {
+                    "id": 3436259,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "Engrais organique"
+                },
+                {
+                    "id": 3436260,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Fertilizante orgânico"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "shortNameTrn": {
+            "id": 3436261
+        },
+        "nitrogen": 0.0,
+        "phosphorus": 0.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 17,
+        "name": "Monoammonium Phosphate",
+        "nameTrn": {
+            "id": 3434066,
+            "entries": [
+                {
+                    "id": 3434067,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "MAP (Phosphate monoammonique)"
+                },
+                {
+                    "id": 3473073,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Dihidrogenofosfato de amônio"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "shortName": "MAP",
+        "shortNameTrn": {
+            "id": 3434068
+        },
+        "nitrogen": 11.0,
+        "phosphorus": 52.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 285,
+        "name": "Calcium Ammonium Nitrate",
+        "nameTrn": {
+            "id": 3432724,
+            "entries": [
+                {
+                    "id": 3432725,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "Nitrate d'ammonium de calcium"
+                },
+                {
+                    "id": 3432726,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Nitrato de amónio e cálcio"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10007,
+            "label": "Top dressing",
+            "labelTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            },
+            "name": "Top dressing",
+            "nameTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            }
+        },
+        "shortName": "CAN",
+        "shortNameTrn": {
+            "id": 3432727
+        },
+        "nitrogen": 27.0,
+        "phosphorus": 0.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 274,
+        "name": "Sulphate of Potash",
+        "nameTrn": {
+            "id": 3445170,
+            "entries": [
+                {
+                    "id": 3445171,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "Sulfate de potasse"
+                },
+                {
+                    "id": 3445172,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Sulfato de potássio"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "shortName": "SOP",
+        "shortNameTrn": {
+            "id": 3445173
+        },
+        "nitrogen": 0.0,
+        "phosphorus": 0.0,
+        "potassium": 50.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 13,
+        "name": "Diammonium Phosphate",
+        "nameTrn": {
+            "id": 3432861,
+            "entries": [
+                {
+                    "id": 3432862,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "DAP (Phosphate diammonique)"
+                },
+                {
+                    "id": 3432863,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Fosfato de diamónio"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "shortName": "DAP",
+        "shortNameTrn": {
+            "id": 3432864,
+            "entries": [
+                {
+                    "id": 3457993,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "DAP"
+                }
+            ]
+        },
+        "nitrogen": 18.0,
+        "phosphorus": 46.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 281,
+        "name": "Urea",
+        "nameTrn": {
+            "id": 3445208,
+            "entries": [
+                {
+                    "id": 3445209,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "Urée"
+                },
+                {
+                    "id": 3445210,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Ureia"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10007,
+            "label": "Top dressing",
+            "labelTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            },
+            "name": "Top dressing",
+            "nameTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            }
+        },
+        "shortNameTrn": {
+            "id": 3445211
+        },
+        "nitrogen": 46.0,
+        "phosphorus": 0.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 276,
+        "name": "Single Super Phosphate",
+        "nameTrn": {
+            "id": 3445155,
+            "entries": [
+                {
+                    "id": 3445156,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "Superphosphate simple"
+                },
+                {
+                    "id": 3445157,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Superfosfato simples"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "shortName": "SSP",
+        "shortNameTrn": {
+            "id": 3445158
+        },
+        "nitrogen": 0.0,
+        "phosphorus": 18.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 21,
+        "name": "Muriate of Potash",
+        "nameTrn": {
+            "id": 3434088,
+            "entries": [
+                {
+                    "id": 3434089,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "KCl (Muriate de potasse)"
+                },
+                {
+                    "id": 3434090,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Muriato de potássio"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "shortName": "MOP",
+        "shortNameTrn": {
+            "id": 3434091,
+            "entries": [
+                {
+                    "id": 3457984,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "KCl"
+                }
+            ]
+        },
+        "nitrogen": 0.0,
+        "phosphorus": 0.0,
+        "potassium": 60.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 278,
+        "name": "Triple Super Phosphate",
+        "nameTrn": {
+            "id": 3445201,
+            "entries": [
+                {
+                    "id": 3445202,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "TSP (Triple Super Phosphate)"
+                },
+                {
+                    "id": 3445203,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Superfosfato triplo"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "shortName": "TSP",
+        "shortNameTrn": {
+            "id": 3445204
+        },
+        "nitrogen": 0.0,
+        "phosphorus": 46.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 7,
+        "name": "Ammonium Sulphate",
+        "nameTrn": {
+            "id": 3432281,
+            "entries": [
+                {
+                    "id": 3432282,
+                    "language": {
+                        "id": 1947012,
+                        "code": "fr",
+                        "label": "French",
+                        "name": "French"
+                    },
+                    "text": "Sulfate d'ammonium"
+                },
+                {
+                    "id": 3432283,
+                    "language": {
+                        "id": 3208773,
+                        "code": "pt",
+                        "label": "Portuguese",
+                        "name": "Portuguese"
+                    },
+                    "text": "Sulfato de amónio"
+                }
+            ]
+        },
+        "fertilizerApplicationType": {
+            "id": 10007,
+            "label": "Top dressing",
+            "labelTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            },
+            "name": "Top dressing",
+            "nameTrn": {
+                "id": 3431240,
+                "entries": [
+                    {
+                        "id": 3431241,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Saupoudrage"
+                    },
+                    {
+                        "id": 3431242,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Cobertura"
+                    }
+                ]
+            }
+        },
+        "shortName": "SoA",
+        "shortNameTrn": {
+            "id": 3432284
+        },
+        "nitrogen": 21.0,
+        "phosphorus": 0.0,
+        "potassium": 0.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 52,
+        "name": "NPK",
+        "fertilizerApplicationType": {
+            "id": 10006,
+            "label": "Basal",
+            "labelTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            },
+            "name": "Basal",
+            "nameTrn": {
+                "id": 3427172,
+                "entries": [
+                    {
+                        "id": 3427173,
+                        "language": {
+                            "id": 1947012,
+                            "code": "fr",
+                            "label": "French",
+                            "name": "French"
+                        },
+                        "text": "Basal"
+                    },
+                    {
+                        "id": 3427174,
+                        "language": {
+                            "id": 3208773,
+                            "code": "pt",
+                            "label": "Portuguese",
+                            "name": "Portuguese"
+                        },
+                        "text": "Basal"
+                    }
+                ]
+            }
+        },
+        "nitrogen": 17.0,
+        "phosphorus": 17.0,
+        "potassium": 17.0,
+        "sulphur": 0.0,
+        "other": 0.0
+    },
+    {
+        "id": 0,
+        "name": "Others"
+    }
+]

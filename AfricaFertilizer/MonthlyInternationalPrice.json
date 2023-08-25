@@ -1,0 +1,1910 @@
+[
+  {
+    "locationName": {
+      "id": 760812,
+      "name": "KaTembe",
+      "geoNameId": 10685831,
+      "vifaaName": "KaTembe",
+      "latitude": -26.02985,
+      "longitude": 32.53204
+    },
+    "latitude": -26.02985,
+    "longitude": 32.53204,
+    "value": 3750,
+    "adminOneName": "Cidade de Maputo",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 716801,
+      "name": "Pemba",
+      "geoNameId": 1028918,
+      "vifaaName": "Pemba",
+      "latitude": -12.97395,
+      "longitude": 40.51775
+    },
+    "latitude": -12.97395,
+    "longitude": 40.51775,
+    "value": 3500,
+    "adminOneName": "Cabo Delgado Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 728501,
+      "name": "Maputo",
+      "geoNameId": 1040652,
+      "vifaaName": "Maputo",
+      "latitude": -25.96553,
+      "longitude": 32.58322
+    },
+    "latitude": -25.96553,
+    "longitude": 32.58322,
+    "value": 3458.4,
+    "adminOneName": "Cidade de Maputo",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 760751,
+      "name": "Xai-Xai District",
+      "geoNameId": 9408663,
+      "vifaaName": "Xai-Xai District",
+      "latitude": -25.02526,
+      "longitude": 33.74983
+    },
+    "latitude": -25.02526,
+    "longitude": 33.74983,
+    "value": 3000,
+    "adminOneName": "Gaza Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 716317,
+      "name": "Quelimane",
+      "geoNameId": 1028434,
+      "vifaaName": "Quelimane",
+      "latitude": -17.87861,
+      "longitude": 36.88833
+    },
+    "latitude": -17.87861,
+    "longitude": 36.88833,
+    "value": 3000,
+    "adminOneName": "Província de Zambézia",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 760656,
+      "name": "Namacurra District",
+      "geoNameId": 8714615,
+      "vifaaName": "Namacurra District",
+      "latitude": -17.49137,
+      "longitude": 37.02607
+    },
+    "latitude": -17.49137,
+    "longitude": 37.02607,
+    "value": 3000,
+    "adminOneName": "Província de Zambézia",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 751110,
+      "name": "Sussundenga",
+      "geoNameId": 1096284,
+      "vifaaName": "Sussundenga",
+      "latitude": -19.40389,
+      "longitude": 33.29028
+    },
+    "latitude": -19.40389,
+    "longitude": 33.29028,
+    "value": 3550,
+    "adminOneName": "Manica Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 727387,
+      "name": "Maxixe",
+      "geoNameId": 1039536,
+      "vifaaName": "Maxixe",
+      "latitude": -23.85972,
+      "longitude": 35.34722
+    },
+    "latitude": -23.85972,
+    "longitude": 35.34722,
+    "value": 3800,
+    "adminOneName": "Inhambane Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 721228,
+      "name": "Nampula",
+      "geoNameId": 1033356,
+      "vifaaName": "Nampula",
+      "latitude": -15.11646,
+      "longitude": 39.2666
+    },
+    "latitude": -15.11646,
+    "longitude": 39.2666,
+    "value": 3468.89,
+    "adminOneName": "Nampula",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 760571,
+      "name": "Guro District",
+      "geoNameId": 7874045,
+      "vifaaName": "Guro District",
+      "latitude": -16.964,
+      "longitude": 33.569
+    },
+    "latitude": -16.964,
+    "longitude": 33.569,
+    "value": 3550,
+    "adminOneName": "Manica Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 760573,
+      "name": "Chokwe District",
+      "geoNameId": 7874104,
+      "vifaaName": "Chokwe District",
+      "latitude": -24.52248,
+      "longitude": 33.00457
+    },
+    "latitude": -24.52248,
+    "longitude": 33.00457,
+    "value": 2943.33,
+    "adminOneName": "Gaza Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 760575,
+      "name": "Lichinga District",
+      "geoNameId": 7874115,
+      "vifaaName": "Lichinga District",
+      "latitude": -13.37184,
+      "longitude": 35.14302
+    },
+    "latitude": -13.37184,
+    "longitude": 35.14302,
+    "value": 3125,
+    "adminOneName": "Niassa Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 760609,
+      "name": "Milange District",
+      "geoNameId": 7874712,
+      "vifaaName": "Milange District",
+      "latitude": -16.09992,
+      "longitude": 35.77578
+    },
+    "latitude": -16.09992,
+    "longitude": 35.77578,
+    "value": 3500,
+    "adminOneName": "Província de Zambézia",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 740936,
+      "name": "Alto Molocue",
+      "geoNameId": 1053143,
+      "vifaaName": "Alto Molocue",
+      "latitude": -15.63556,
+      "longitude": 37.68833
+    },
+    "latitude": -15.63556,
+    "longitude": 37.68833,
+    "value": 3000,
+    "adminOneName": "Província de Zambézia",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 760661,
+      "name": "Bilene Macia District",
+      "geoNameId": 9072735,
+      "vifaaName": "Bilene Macia District",
+      "latitude": -25.01612,
+      "longitude": 33.16889
+    },
+    "latitude": -25.01612,
+    "longitude": 33.16889,
+    "value": 3150,
+    "adminOneName": "Gaza Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 739985,
+      "name": "Boane",
+      "geoNameId": 1052191,
+      "vifaaName": "Boane",
+      "latitude": -26.04236,
+      "longitude": 32.33027
+    },
+    "latitude": -26.04236,
+    "longitude": 32.33027,
+    "value": 3427.5,
+    "adminOneName": "Maputo Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 737070,
+      "name": "Chimoio",
+      "geoNameId": 1049261,
+      "vifaaName": "Chimoio",
+      "latitude": -19.11639,
+      "longitude": 33.48333
+    },
+    "latitude": -19.11639,
+    "longitude": 33.48333,
+    "value": 3310,
+    "adminOneName": "Manica Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  },
+  {
+    "locationName": {
+      "id": 740240,
+      "name": "Barue District",
+      "geoNameId": 1052446,
+      "vifaaName": "Barue District",
+      "latitude": -17.81047,
+      "longitude": 33.17267
+    },
+    "latitude": -17.81047,
+    "longitude": 33.17267,
+    "value": 3550,
+    "adminOneName": "Manica Province",
+    "product": {
+      "id": 281,
+      "name": "Urea",
+      "nameTrn": {
+        "id": 3445208,
+        "entries": [
+          {
+            "id": 3445209,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Urée"
+          },
+          {
+            "id": 3445210,
+            "language": {
+              "id": 3208773,
+              "code": "pt",
+              "label": "Portuguese",
+              "name": "Portuguese"
+            },
+            "text": "Ureia"
+          }
+        ]
+      },
+      "fertilizerApplicationType": {
+        "id": 10007,
+        "label": "Top dressing",
+        "labelTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        },
+        "name": "Top dressing",
+        "nameTrn": {
+          "id": 3431240,
+          "entries": [
+            {
+              "id": 3431241,
+              "language": {
+                "id": 1947012,
+                "code": "fr",
+                "label": "French",
+                "name": "French"
+              },
+              "text": "Saupoudrage"
+            },
+            {
+              "id": 3431242,
+              "language": {
+                "id": 3208773,
+                "code": "pt",
+                "label": "Portuguese",
+                "name": "Portuguese"
+              },
+              "text": "Cobertura"
+            }
+          ]
+        }
+      },
+      "shortNameTrn": {
+        "id": 3445211
+      },
+      "nitrogen": 46,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sulphur": 0,
+      "other": 0
+    }
+  }
+]
