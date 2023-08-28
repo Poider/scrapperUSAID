@@ -28,19 +28,29 @@ Other countries (exists in data by Topic):
 
 
 
+
+
+
 ----Data Per Topic CATALOGUE
-	{ "data": "Annual Import Volumes by Country", "description": "" },
-	{ "data": "Annual Export Volumes by Product", "description": "" },
-	{ "data": "Total Import Volumes by Country Over Time", "description": "" },
-	{ "data": "Total Export Volumes by Country Over Time", "description": "" },
-	{ "data": "Annual Production Volumes by Country", "description": "" },
-	{ "data": "Fertilizer production volumes by country over time", "description": "" },
-	{ "data": "Apparent Fertilizer Consumption by Country", "description": "" },
-	{ "data": "Total Apparent Fertilizer Consumption over Time", "description": "" },
-	{ "data": "Historical International Price Trends", "description": "" },
-	{ "data": "Monthly International Price (Fertilizer USD)", "description": "" },
-	{ "data": "National Average Price of Urea", "description": "" },
-	{ "data": "National Average Price of Urea Over Time", "description": "" }
+Trade Data:
+	{ "data": "Annual Import Volumes by Country", "description": "-" },
+	{ "data": "Annual Export Volumes by Product", "description": " compare annual fertilizer export data by product" },
+	{ "data": "Total Import Volumes by Country Over Time", "description": "The total import volumes across countries over a 10 year period" },
+	{ "data": "Total Export Volumes by Country Over Time", "description": "- },
+
+Production Data:
+	{ "data": "Annual Production Volumes by Country", "description": "annual fertilizer production data by product" },
+	{ "data": "Fertilizer production volumes by country over time", "description": "fertilizer production data by country" },
+
+Consumption Data:
+	{ "data": "Apparent Fertilizer Consumption by Country", "description": "The total apparent consumption is calculated by imports added to the production volumes less exports and non-fertilizer use." },
+	{ "data": "Total Apparent Fertilizer Consumption over Time", "description": "The total apparent consumption is calculated by imports added to the production volumes less exports and non-fertilizer use. This chart shows the total apparent consumption volumes across countries over a 10 year period." },
+
+Price Statistics:
+	{ "data": "Historical International Price Trends", "description": "International free-on-board price from the key ports servicing the major fertilizer manufacturers. This does not include freight and insurance costs. This chart shows information from the last 10 years of available data for select products." },
+	{ "data": "Monthly International Price (Fertilizer USD)", "description": "International free-on-board price from the key ports servicing the major fertilizer manufacturers. This does not include freight and insurance costs. This chart shows information from the last 12 months of available data." },
+	{ "data": "National Average Price of Urea", "description": "AFO collects commercial prices for a variety of fertilizer products weekly from agro-dealers across a number of Sub-Saharan African countries. The price shown for each subnational location is calculated by averaging weekly commercial prices for each product across one or more agro-dealers in that location. The price shown for each country is an average taken for each product across all agro-dealers surveyed in that country." },
+	{ "data": "National Average Price of Urea Over Time", "description": "AFO collects commercial prices for a variety of fertilizer products weekly from agro-dealers across a number of Sub-Saharan African countries. The price shown for each subnational location is calculated by averaging weekly commercial prices for each product across one or more agro-dealers in that location. The price shown for each country is an average taken for each product across all agro-dealers surveyed in that country." }
 
 
 products : 
@@ -73,10 +83,10 @@ Country : {
 		}
 -----------------------------------
 CATALOGUE of the data you may find down there :
---note : countries may differ on data, e.g. you may find a graph in a country and not in another. (not so many differs) --
+!--note : countries may differ on data, e.g. you may find a graph in a country and not in another. (not so many differs) --
 
-(studies that's uses crop land/per crops are up until 2016)
 
+data catalogue by country :
 { "Data": "Annual Government Contribution to Subsidy Price by Product", "description": "" },
 { "Data": "Annual Fertilizer Imports by Product", "description": "" },
 { "Data": "Quarterly International and Kenya Retail Price Trends", "description": "" },
@@ -118,7 +128,7 @@ CATALOGUE of the data you may find down there :
 { "Data": "Top Fertilizer-Consuming Crops", "description": "" }
 
 
-
+(studies that's uses crop land/per crops are up until 2016)
 
 
 ---------------------------------------
