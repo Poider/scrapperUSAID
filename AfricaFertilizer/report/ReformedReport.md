@@ -1,6 +1,6 @@
 Data guide : AfricaFertilizer Data Documentation - 4 Data Catalogues-
 
-ALL DATA IS MAINLY FOR FERTLIZERS -NOT CROPS-
+>>ALL DATA IS MAINLY FOR FERTLIZERS -NOT CROPS-
 
 Countries with dashboards : (main countries with data)
 			Kenya
@@ -31,7 +31,7 @@ Other countries (exists in data by Topic):
 
 
 
-----Data Per Topic CATALOGUE
+----<Data Per Topic CATALOGUE>
 Trade Data:
 	{ "data": "Annual Import Volumes by Country", "description": "-" },
 	{ "data": "Annual Export Volumes by Product", "description": " compare annual fertilizer export data by product" },
@@ -69,7 +69,7 @@ products :
 		-Others
 
 
----Data per country report FORMAT -----------------------------------------------------------------------------------------------------------------------
+---<Data per country report FORMAT> -----------------------------------------------------------------------------------------------------------------------
 Country : {
 			Fertilizer Price Data : [...dataFound/graphsNames],
 "
@@ -86,7 +86,7 @@ CATALOGUE of the data you may find down there :
 !--note : countries may differ on data, e.g. you may find a graph in a country and not in another. (not so many differs) --
 
 
-data catalogue by country :
+<data catalogue by country> :
 { "Data": "Annual Government Contribution to Subsidy Price by Product", "description": "" },
 { "Data": "Annual Fertilizer Imports by Product", "description": "" },
 { "Data": "Quarterly International and Kenya Retail Price Trends", "description": "" },

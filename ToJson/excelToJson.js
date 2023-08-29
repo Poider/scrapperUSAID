@@ -10,7 +10,7 @@ async function jsonize(jsonizedPath, unzipPath, xls_unzipped_files) {
   
   const workbook = XLSX.readFile(filePath);
   const sheet_name_list = workbook.SheetNames;
-  const sheetName = sheet_name_list[1]
+  const sheetName = sheet_name_list[0]
   const worksheet = workbook.Sheets[sheetName];
   const xslxJsonData = XLSX.utils.sheet_to_json(worksheet, { raw: true });
     
@@ -31,7 +31,7 @@ async function jsonize(jsonizedPath, unzipPath, xls_unzipped_files) {
 
 async function main() {
 	//TO BE SET
-  const fileName = 'CRU FERTILIZER WEEK-Historical Prices Averages-Weekly Report (20230707)-60431[1].xlsx'
+  const fileName = 'Fertilizer Week Premium - report[1].xlsx'
   const jsonizedPath = pathMaker('..','toJson','json');
   const filePath = pathMaker('..','toJson','xlsx');
   

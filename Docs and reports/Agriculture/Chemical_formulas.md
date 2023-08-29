@@ -33,3 +33,4 @@ Fertilizer Week premium + CRU Fertilizer week:
 
 Blending plants africa :
 	-NPKs: NPKs (Nitrogen, Phosphorus, and Potassium fertilizers) No single chemical formula, as it varies (%N %P %K).
+

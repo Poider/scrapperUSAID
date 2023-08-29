@@ -3,7 +3,7 @@ const path = require('path');
 const XlsxPopulate = require('xlsx-populate');
 const fs = require('fs');
 
-async function jsonize(jsonizedPath, unzipPath, xls_unzipped_files, pageNum) {
+async function openSheet(jsonizedPath, unzipPath, xls_unzipped_files, pageNum) {
 	jsonizedPath = jsonizedPath; // hehe
 	const filePath = path.join(unzipPath, xls_unzipped_files[0]);
   console.log(filePath);
@@ -16,7 +16,7 @@ async function jsonize(jsonizedPath, unzipPath, xls_unzipped_files, pageNum) {
 	return xlsxJsonData
     
   } catch (err) {
-    console.log(`Error: jsonize can't find the folder ${unzipPath} or the file ${xls_unzipped_files[0]}`);
+    console.log(`Error: openSheet can't find the folder ${unzipPath} or the file ${xls_unzipped_files[0]}`);
   }
 }
 
@@ -31,13 +31,27 @@ async function writingJson(jsonizedPath, xlsxData) {
     console.log(`Data written to ${jsonizedFilePath}`);
 
 }
+
+const excelSerialNumberToJsDate = (serialNumber) => {
+	// Convert Excel serial number to JavaScript Date, accounting for Excel's incorrect leap year in 1900
+	const jsDate = new Date(Date.UTC(1900, 0, serialNumber - 1));
+	return jsDate;
+  };
+
+  const formatDate = (date) => {
+	const month = String(date.getMonth() + 1).padStart(2, '0'); // Month is zero-based
+	const day = String(date.getDate()).padStart(2, '0');
+	const year = date.getFullYear();
+  
+	return `${day}/${month}/${year}`;
+  };
 async function main() {
   // TO BE SET
   const fileName = 'CRU FERTILIZER WEEK-Historical Prices Averages-Weekly Report (20230707)-60431[1].xlsx';
   const jsonizedPath = pathMaker('..', 'Strategic', 'json');
   const filePath = pathMaker('..', 'Strategic', 'xlsx');
   const pageNum = 1;
-  const CruData = await jsonize(jsonizedPath, filePath, [fileName], pageNum);
+  const CruData = await openSheet(jsonizedPath, filePath, [fileName], pageNum);
   let Product = [...CruData[0]]
   let Spot = [...CruData[1]]
   let bulkPricing = [...CruData[2]]
@@ -55,15 +69,8 @@ let allData = []
 		const year = CruData[i][0];
 		const quarter = CruData[i][1];
 		const month = CruData[i][2];
-		const price_date = CruData[i][3];
+		const price_date = formatDate(excelSerialNumberToJsDate(CruData[i][3]));
 
-		// for(let n = 4; i < CruData.length; n += 3){
-		// 	if (CruData[n]) {
-		// 	console.log(CruData.length)
-		// 	}
-		// }
-		// return
-		// console.log("year: ", year, "quarter: ", quarter, "month: ", month, "price_date: ", price_date)
 		let j = 0;
 		// const cols_length = 1893;
 		for(let n = 4; n < CruData[i].length; n += 3){
@@ -82,12 +89,12 @@ let allData = []
 			j++;
 		}
 	}
-	console.log(JSON.stringify(allData, null, 2))
+	// console.log(JSON.stringify(allData, null, 2))
 	//their count is 317 elements each
   //! Check if data is like usual, if not throw error
 
   
-//   writingJson(jsonizedPath, CruData);
+  writingJson(jsonizedPath, allData);
 }
 
 main();
