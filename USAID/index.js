@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 const unzipper = require('unzipper');
-const {pathMaker} = require('./path');
+const {pathMaker} = require('../utils/path.js');
 const fs = require('fs');
 const path = require('path');
 const AdmZip = require('adm-zip');
@@ -104,7 +104,7 @@ async function fileUnzipper(downloadPath) {
 }
 
 function AfricaJsonFiltering(xslxJsonData){
-  africanJsonDataPath = pathMaker('input_data', 'africa_filtered.json');
+  africanJsonDataPath = pathMaker('..','USAID','input_data', 'africa_filtered.json');
   const AfricanCountriesdata = fs.readFileSync(africanJsonDataPath, 'utf8');
   const africanCoutnriesArr = JSON.parse(AfricanCountriesdata);
   const AfricanCountries = {};
@@ -179,9 +179,9 @@ async function jsonize(jsonizedPath, unzipPath, xls_unzipped_files) {
 }
 
 async function main() {
-  const downloadPath = pathMaker('downloads','USAID_ZIP', 'zip');
-  const unzipPath = pathMaker('downloads', 'USAID_ZIP','unzipped_files');
-  const jsonizedPath = pathMaker('downloads', 'jsonized');
+  const downloadPath = pathMaker('..','USAID','downloads','USAID_ZIP', 'zip');
+  const unzipPath = pathMaker('..','USAID','downloads', 'USAID_ZIP','unzipped_files');
+  const jsonizedPath = pathMaker('..','USAID','downloads', 'jsonized');
 
 
   await zipDownloader(downloadPath);
@@ -221,7 +221,7 @@ async function AutoDataScrapper()
     const response2 = await page.waitForResponse(response => {console.log(response.url())});
 
     console.log("found glance selector")
-    await page.screenshot({path : pathMaker('downloads', `${year}.png`)});
+    await page.screenshot({path : pathMaker('..','USAID','downloads', `${year}.png`)});
   // }
 
   page.close();
@@ -281,7 +281,7 @@ async function ManualDataScrapper() {
 
   // const effectiveYear = thisMonth > 9 ? thisYear : thisYear - 1;
   const effectiveYear = 2021;
-  const countries = fs.readFileSync(pathMaker('input_data', 'africa_filtered.json'), 'utf8');
+  const countries = fs.readFileSync(pathMaker('..','USAID','input_data', 'africa_filtered.json'), 'utf8');
   const countriesArr = JSON.parse(countries);
   let i = 0
   for (let year = 2014; year <= effectiveYear; i++) {
@@ -300,11 +300,11 @@ async function ManualDataScrapper() {
         const page = await runPage(browser, dataLink);
         const Selector = '#selected_bar_height > div.row.sb-details-wrapper > div.column.small-12.medium-5.xlarge-6 > div > div > div.quicklook-container > div > div:nth-child(4) > div'
         console.log('taking a screenshot')
-        await page.screenshot({ path: pathMaker('downloads', `${year}.png`) });
+        await page.screenshot({ path: pathMaker('..','USAID','downloads', `${year}.png`) });
         console.log('awaiting selector');
         await page.waitForSelector(Selector);
         console.log('found selector');
-        await page.screenshot({ path: pathMaker('downloads', `${year}${country}.png`) });
+        await page.screenshot({ path: pathMaker('..','USAID','downloads', `${year}${country}.png`) });
         const info = await page.evaluate(() => {
           const selector = '#selected_bar_height > div.row.sb-details-wrapper > div.column.small-12.medium-5.xlarge-6 > div > div > div.quicklook-container > div > div:nth-child(4) > div';
           const element = document.querySelector(selector);
@@ -335,7 +335,7 @@ async function ManualDataScrapper() {
   }
   console.log('done', AllData);
 
-  fs.writeFileSync(pathMaker('downloads', 'human-development-index.json'), JSON.stringify(AllData, null, 2));
+  fs.writeFileSync(pathMaker('..','USAID','downloads', 'human-development-index.json'), JSON.stringify(AllData, null, 2));
   //write all data to json
   
   browser.close();

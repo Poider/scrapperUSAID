@@ -1,0 +1,1 @@
+Sales file should be changed after insertion to work only on updating the last one

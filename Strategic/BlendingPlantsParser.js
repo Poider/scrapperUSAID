@@ -1,4 +1,4 @@
-const { pathMaker } = require('../USAID/path.js');
+const { pathMaker } = require('../utils/path.js');
 const path = require('path');
 // const XLSX = require('xlsx');
 const XlsxPopulate = require('xlsx-populate');
@@ -32,8 +32,29 @@ async function writingJson(jsonizedPath, xlsxData) {
     console.log(`Data written to ${jsonizedFilePath}`);
 
 }
+/**
+ * Plant
 
+Year established
 
+Position
+
+status
+
+Prod Capacity
+	Nameplate Capacity Value
+	Nameplate Capacity Units
+products
+Country
+Latitude
+Longitude
+ */
+
+function field_wanted(field)
+{
+	if (field == 'Plant' || field == 'Year established' || field == 'Position' || field == 'Status' || field == 'Prod Capacity' || field == 'Nameplate Capacity Value' || field == 'Nameplate Capacity Units' || field == 'Products Produced' || field == 'Country' || field == 'Latitude' || field == 'Longitude')
+		return true;
+}
 
 async function main() {
 	const fileName = 'Blending plants Africa[1].xlsx';
@@ -48,8 +69,19 @@ async function main() {
 		if(!blendingPlants[i][3])
 			continue;
 		for(let j = 0; j < titles.length  ; j++) {
-			obj[titles[j]] = blendingPlants[i][j]? blendingPlants[i][j] : null;
+			if(field_wanted(titles[j]))
+				obj[titles[j]] = blendingPlants[i][j]? blendingPlants[i][j] : null;
 		}
+		let products =  obj['Products Produced'].split('\r\n');
+		for(let j = 0; j < products.length; j++)
+		{
+			if (products[j].startsWith(', ')) {
+				products[j] = products[j].substring(2);
+			  }
+		}
+
+		products= products.filter((item) => item);
+		obj['Products Produced'] = products;
 		allData.push(obj);
 	}
 

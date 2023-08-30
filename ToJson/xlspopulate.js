@@ -1,4 +1,4 @@
-const { pathMaker } = require('../USAID/path.js');
+const { pathMaker } = require('../utils/path.js');
 const path = require('path');
 const XlsxPopulate = require('xlsx-populate');
 const fs = require('fs');

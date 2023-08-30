@@ -1,9 +1,10 @@
 const fs = require('fs');
-const { pathMaker } = require('./path');
+const {pathMaker} = require('../utils/path.js');
 
 
-filePath  = pathMaker('input_data','africa.json')
-filteredPath = pathMaker('input_data','africa_filtered.json')
+
+filePath  = pathMaker('..','USAID','input_data','africa.json')
+filteredPath = pathMaker('..','USAID','input_data','africa_filtered.json')
 
 fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {

@@ -1,8 +1,8 @@
 const fs = require('fs');
-const {pathMaker} = require('./path')
+const {pathMaker} = require('../utils/path.js');
 
 
-const data = fs.readFileSync(pathMaker('downloads','jsonized','data.json'), 'utf-8');
+const data = fs.readFileSync(pathMaker('..','USAID','downloads','jsonized','data.json'), 'utf-8');
 const dataObj = JSON.parse(data);
 
 for(let year = 2014; year <=2021 ;year++){
@@ -14,5 +14,5 @@ filtered = filtered.map((item) => {
 });
 filtered = [...new Set(filtered)];
 const jsonized = JSON.stringify(filtered);
-fs.writeFileSync(pathMaker('test',`${year}`), jsonized, 'utf-8'); 
+fs.writeFileSync(pathMaker('..','USAID','test',`${year}`), jsonized, 'utf-8'); 
 }

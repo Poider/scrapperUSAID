@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const ExcelJS = require('exceljs');
-const {pathMaker} = require('../USAID/path.js');
+const {pathMaker} = require('../utils/path.js');
 
 async function jsonize(jsonizedPath, filePath) {
   // try {
