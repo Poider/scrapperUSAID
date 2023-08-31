@@ -32,23 +32,7 @@ async function writingJson(jsonizedPath, xlsxData) {
     console.log(`Data written to ${jsonizedFilePath}`);
 
 }
-/**
- * Plant
 
-Year established
-
-Position
-
-status
-
-Prod Capacity
-	Nameplate Capacity Value
-	Nameplate Capacity Units
-products
-Country
-Latitude
-Longitude
- */
 
 function field_wanted(field)
 {
@@ -56,10 +40,8 @@ function field_wanted(field)
 		return true;
 }
 
-async function main() {
-	const fileName = 'Blending plants Africa[1].xlsx';
-	const jsonizedPath = pathMaker('..', 'Strategic', 'json');
-	const filePath = pathMaker('..', 'Strategic', 'xlsx');
+module.exports = async function BlendingPlantsParser(fileName, jsonizedPath, filePath) {
+
 	const pageNum = 0;
 	let blendingPlants = await openSheet(jsonizedPath, filePath, [fileName], pageNum);
 	const titles = blendingPlants[6];
@@ -86,7 +68,6 @@ async function main() {
 	}
 
 	//   console.log(JSON.stringify(allData,null,2));
-  await writingJson(jsonizedPath, allData);
+//   await writingJson(jsonizedPath, allData);
+	return allData
 }
-
-main();

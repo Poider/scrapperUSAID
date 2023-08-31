@@ -105,15 +105,13 @@ function mapper(saleObj)
 	}
 }
 
-async function main() {	
-  const fileName = 'Sales 13-23[1].xlsx';
-  const jsonizedPath = pathMaker('..', 'Strategic', 'json');
-  const filePath = pathMaker('..', 'Strategic', 'xlsx');
+async function salesParser(fileName, jsonizedPath, filePath) {
   const pageNum = 1;
   let sales = await openSheet(jsonizedPath, filePath, [fileName], pageNum);
   sales = sales.map(mapper);
 //   console.log(JSON.stringify(sales,null,2));
-  await writingJson(jsonizedPath, sales);
+//   await writingJson(jsonizedPath, sales);
+   return sales
 }
 
-main();
+module.exports = salesParser

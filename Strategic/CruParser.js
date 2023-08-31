@@ -45,11 +45,9 @@ const excelSerialNumberToJsDate = (serialNumber) => {
   
 	return `${day}/${month}/${year}`;
   };
-async function main() {
+
+async function CruParser(fileName, jsonizedPath, filePath) {
   // TO BE SET
-  const fileName = 'CRU FERTILIZER WEEK-Historical Prices Averages-Weekly Report (20230707)-60431[1].xlsx';
-  const jsonizedPath = pathMaker('..', 'Strategic', 'json');
-  const filePath = pathMaker('..', 'Strategic', 'xlsx');
   const pageNum = 1;
   const CruData = await openSheet(jsonizedPath, filePath, [fileName], pageNum);
   let Product = [...CruData[0]]
@@ -89,12 +87,13 @@ let allData = []
 			j++;
 		}
 	}
-	// console.log(JSON.stringify(allData, null, 2))
+	
 	//their count is 317 elements each
   //! Check if data is like usual, if not throw error
 
+	return allData
   
-  writingJson(jsonizedPath, allData);
+//   writingJson(jsonizedPath, allData);
 }
 
-main();
+module.exports = CruParser;

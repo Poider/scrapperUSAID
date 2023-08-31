@@ -27,41 +27,44 @@ add excel date extract from the number
 create parsers for each file
 check integrity of the data (check if I converted any percentages)
 filtering jsons of excels
+make a handler on top of all the parsers
+check if filtering is all ok
 
 
 >> questionable
 	worldbank from js? faostat too? -> exists
-
+	if data is big in files swap to streaming data instead of reading it in heap at once
 >>on going
+add env
+make version for updating (IN PRODUCTION PHASE)
 
 
 
 >>> TODO
-check if filtering is all ok
+fix blending : "NPK 15-15-15, NPK 20-10-10, NPK 12-12-17 + 2MgO, Rice specific, Cocoa specific"
 contract
-make a handler on top of all the parsers
 ERROR HANDLIN IN PARSERS IN CASE ITS OUT OF ORDINARY
 name and structure convention docs
+	2017 NAN
 
-
-make version for updating
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.2rbnzs7qh
 check how to integrate that data map interactive into tableau
-whats ifdc
-chEcK ppt
 
 >>Questions
 	-Sales :
 	Null Check :  Product Category , Quantité facturée réajustée, Sub region 
-	I save dates dd/mm/yyyy or mm/dd/yyyy (whats in some files but it looks weird)
-	sub region? am I to google which is east countries and west ones?
-	2017 NAN
-	FOB can be negative? AMEROPA AG 2017
+	I save dates dd/mm/yyyy or mm/dd/yyyy (whats in some files but it looks weird) ->> dd/mm -> if none null reajustee -> subregion, keep africa or from google for now, later we get real subregions
+
+
+	FOB can be negative? AMEROPA AG 2017 -> I guess?
 	Montant FOB vs prix FOB / montant? also which is that in 2023 file 
 
 	-blending : status??
+	-prod not workin
 
-----PHASE DATABASE FILLING after having the grouping and the schema so I can define the database tables schema
+	- which of these files will update, and what will change in the update then Ill make the new updating code, cus this is for inserting, NOT PRIORITY
+----PHASE DATABASE FILLING after having the grouping and the schema so I can define the database tables schema for TABLEAU dude
+--docker or on their server, we create the database or we get a ready one
 
 
 >>sales Product name changes
@@ -72,3 +75,4 @@ chEcK ppt
 	TSP
 	MCP
 	jfc5? (f ocp khana)
+	FOB is paid price to get all the way to my port its on em how much to pay the ship waits in port price

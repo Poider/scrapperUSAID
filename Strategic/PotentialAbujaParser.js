@@ -34,10 +34,8 @@ async function writingJson(jsonizedPath, xlsxData) {
 
 
 
-async function main() {
-	const fileName = 'Potential consumption (Abuja + Agronomy)[1].xlsx';
-	const jsonizedPath = pathMaker('..', 'Strategic', 'json');
-	const filePath = pathMaker('..', 'Strategic', 'xlsx');
+module.exports = async function AbujaParser(fileName, jsonizedPath, filePath) {
+
 	const pageNum = 0;
 	let PotentialConsumption = await openSheet(jsonizedPath, filePath, [fileName], pageNum);
 	// console.log(JSON.stringify(PotentialConsumption,null,2));
@@ -68,7 +66,7 @@ async function main() {
 		allData.push(obj);
 	}
 	//   console.log(JSON.stringify(allData,null,2));
-  await writingJson(jsonizedPath, allData);
+//   await writingJson(jsonizedPath, allData);
+return allData
 }
 
-main();

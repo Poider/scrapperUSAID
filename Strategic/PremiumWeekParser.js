@@ -41,12 +41,10 @@ async function writingJson(jsonizedPath, xlsxData) {
 
 
 
-async function main() {	
-  const fileName = 'Fertilizer Week Premium - report[1].xlsx';
-  const jsonizedPath = pathMaker('..', 'Strategic', 'json');
-  const filePath = pathMaker('..', 'Strategic', 'xlsx');
+module.exports = async function premiumWeekParser(fileName, jsonizedPath, filePath) {
   const pageNum = 0;
-  let premiumData = await openSheet(jsonizedPath, filePath, [fileName], pageNum);
+  let premiumData = await openSheet(jsonizedPath, filePath, [fileName], pageNum)
+  if(!premiumData) return undefined;
   premiumData= premiumData.filter((obj) => !hasOnlyOneField(obj));
   
   const mappedArray = premiumData.flatMap((originalObj) => {
@@ -82,7 +80,7 @@ async function main() {
 	}));
   });
 //   console.log(JSON.stringify(mappedArray,null,2));
-  await writingJson(jsonizedPath, mappedArray);
+//   await writingJson(jsonizedPath, mappedArray);
+  return mappedArray
 }
 
-main();
