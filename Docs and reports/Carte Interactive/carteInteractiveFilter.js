@@ -4,6 +4,20 @@ const XlsxPopulate = require('xlsx-populate');
 const XLSX = require('xlsx');
 
 
+async function writingJson(jsonizedPath, xlsxData, jsonFileName) {
+	const stringifiedXlsxData = JSON.stringify(xlsxData, null, 2);
+
+	if (!fs.existsSync(jsonizedPath))
+		fs.mkdirSync(jsonizedPath, { recursive: true });
+
+	const jsonizedFilePath = path.join(jsonizedPath, jsonFileName);
+	fs.writeFileSync(jsonizedFilePath, stringifiedXlsxData);
+	console.log(`Data written to ${jsonizedFilePath}`);
+
+}
+
+
+
 async function openPrograms(jsonizedPath, unzipPath, xls_unzipped_files, pageNum) {
 	jsonizedPath = jsonizedPath; // hehe
 	const filePath = path.join(unzipPath, xls_unzipped_files[0]);
@@ -43,33 +57,9 @@ async function openSheet( unzipPath, xls_unzipped_files) {
 	// }
 
     
-//   } catch (err) {
-//     console.log(`Error: openSheet can't find the folder ${unzipPath} or the file ${xls_unzipped_files[0]}`);
-//   }
+
 }
 
-
-// const mapParser = function (data) {
-
-
-// data.forEach((item) => {
-// 	if(item == undefined || item == null)
-// 	return
-// // console.log('hi')
-// 	if(item.icon)
-// 	delete item['icon']
-// 	if(item.photo)
-// 	delete item['photo']
-// 	if(item["Geolocalisation"] !== undefined)
-// 	{
-// 	const split_ = item["Geolocalisation"].split(',')
-// 	item["longitude"] = parseFloat(split_[0])
-// 	item["latitude"] = parseFloat(split_[1])
-// 	}
-// })
-// // console.log(data)
-// return data
-// }
 
 
 const hasAllNullExceptFirst = (arr) => {
@@ -77,7 +67,7 @@ const hasAllNullExceptFirst = (arr) => {
 	return allNullExceptFirst && arr[0] !== null;
   };
 //CIV Tanzania Ghana Kenya Nigeria Senegal
-const isDefinedCountry = (countryLine, i) => {
+const isDefinedCountry = (countryLine) => {
 	// if(countryLine === undefined || countryLine === null)
 	// 	return false
 	country = countryLine[0]
@@ -86,30 +76,78 @@ const isDefinedCountry = (countryLine, i) => {
 	return false
 }
 
+const isMapDefinedCountry = (country) => {
+	if(country === `Côte d'Ivoire` || country === 'Tanzania' || country === 'Ghana' || country === 'Kenya' || country === 'Nigeria' || country === 'Sénégal')
+		return true
+	return false
+}
+
+function getMapCountry()
+{
+	const mapCountry = {
+		'CIV': `Côte d'Ivoire`,
+		'Tanzania': 'Tanzania',
+		'Ghana': 'Ghana',
+		'Kenya': 'Kenya',
+		'Nigeria': 'Nigeria',
+		'Senegal': 'Sénégal'
+	}
+	return mapCountry[country]
+}
+
+const mapParser = function (data, programData) {
+
+
+	data.forEach((item) => {
+		if (item == undefined || item == null)
+			return
+		// console.log('hi')
+		if (item.icon)
+			delete item['icon']
+		if (item.photo)
+			delete item['photo']
+		if (item["Geolocalisation"] !== undefined) {
+			const split_ = item["Geolocalisation"].split(',')
+			item["longitude"] = parseFloat(split_[0])
+			item["latitude"] = parseFloat(split_[1])
+		}
+		item['country'] = item['tag 1( country )']
+		delete item['tag 1( country )']
+
+		if (item['main _ entry'] === 'OCP OFFICE' && isMapDefinedCountry(item['country'])) {
+			item['programs data'] = programData.filter((program) => program.country === item['country'])[0]['programs']
+		}
+	})
+
+	return data
+}
+	
+	
+
+
+
+//! this is program parser until 2022 only, use env variable to change it
 const parsePrograms = function (data) {
 
 	data =  data.filter(item => item.some(i => i !== undefined && i !== null));
 
 	const mappedData = []
-	//parse first table
-
-	// const subsidiaries = []
-	// for( let i = 0; data[i] && !isDefinedCountry(data[i]); i++)
-	// {
-	// 	subsidiaries.push(data[i])
-	// }
-	// mappedData.push({'subsidiaries': subsidiaries})
 
 	let currentCountry = null;
 	currentTitles = null;
 	for(let i = 0; i < data.length; i++)
 	{
+	
 		while(i < data.length && !isDefinedCountry(data[i]))
+		{
+			// console.log(data[i])
 			i++
+		}
 		if(i >= data.length)
 			break
 		let item = data[i]
-		if(isDefinedCountry(item,i))
+		//takes the country line and titles line after it
+		if(isDefinedCountry(item))
 		{
 			currentCountry = item[0]
 			i++;
@@ -118,23 +156,43 @@ const parsePrograms = function (data) {
 		}
 			
 		let obj = {}
-		obj['country'] = currentCountry
+		obj['country'] = getMapCountry(currentCountry)
 		let programs = []
-		item = data[i]
-		while(!isDefinedCountry(item))
+
+		while(i < data.length && !isDefinedCountry(data[i]))
 		{
+			item = data[i]
+			let secondObj = {}
 			for(let j = 0; j < item.length; j++)
 			{
 				if(item[j] !== null && item[j] !== undefined)
 				{
-					obj[currentTitles[j]] = item[j]
+					if(j === 0)
+					{
+						secondObj["project"] = item[j]
+						secondObj['project type'] = currentTitles[j]
+						continue;
+					}
+					secondObj[currentTitles[j]] = item[j]
 				}
 			}
-			
-			programs.push(obj)
+			for(let j = 2016 ; j <= 2022; j++)
+			{
+				if(secondObj[j.toString()] === 0)
+					delete secondObj[j.toString()]
+			}
+			if(secondObj["Total"] === undefined)
+				secondObj["Total"] = null
+			if(secondObj["project"] === undefined)
+				secondObj["project"] = null
+			if(secondObj["project"] !== "TOTAL" && secondObj["project"] !== null)
+				programs.push(secondObj)
+		
+			if( i + 1 < data.length && isDefinedCountry(data[i + 1]))
+				break
 			i++;
-			item = data[i]
 		}
+
 		obj['programs'] = programs
 		mappedData.push(obj)
 	}
@@ -144,13 +202,16 @@ const parsePrograms = function (data) {
 async function main()
 {
 	const workingDir = path.dirname(__filename)
-	// let mapData = await openSheet(workingDir, ['Carte interactive_Data _ LIFEMOZ _ OCPA.xlsx'])
-	// mapData = mapParser(mapData)
-	
-	let data = await openPrograms(null,workingDir, ['BD Projects  - Numbers.xlsx'], 0)
 
-	data = parsePrograms(data);
-	console.log(JSON.stringify(data, null, 2))
+	let programData = await openPrograms(null,workingDir, ['BD Projects  - Numbers.xlsx'], 0)
+	programData = parsePrograms(programData);
+
+	let mapData = await openSheet(workingDir, ['Carte interactive_Data _ LIFEMOZ _ OCPA.xlsx'])
+	mapData = mapParser(mapData, programData)
+	
+	const jsonizedPath = workingDir
+	const jsonFileName = 'mapData.json';
+	await writingJson(jsonizedPath, mapData, jsonFileName);
 
 } 
 

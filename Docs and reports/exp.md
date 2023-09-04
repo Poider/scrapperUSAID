@@ -37,6 +37,9 @@ added the prod parser
 	if data is big in files swap to streaming data instead of reading it in heap at once
 
 >>on going
+	//parse first table
+
+lifemoz handle nigeria null stuff line
 lifemoz mergin with the programs data -> each has its kpis
 getting geolocation for prod
 
@@ -50,6 +53,7 @@ and tableau dude tomorrow
 
 
 >>> TODO
+finish mayssoun's work
 design after she send agri -> she sent design pattern to follow
 report about trademaps
 sales products rename?
@@ -64,8 +68,9 @@ check how to integrate that data map interactive into tableau
 
 
 
->>
-	design dial strategy, do we just make yes, this is the dashboard profile of stragtegy things
+>>Questions
+	-programs data I linked em, but which is it we wanna show, right now theyre all there
+	-design dial strategy, do we just make one dashboard, this is the dashboard profile of stragtegy things
 
 
 >>sales Product name changes
