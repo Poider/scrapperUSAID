@@ -18,10 +18,6 @@ excel files give them formulas
 translating some excel to data
 is it avg we take in week premium > it is
 tell her she needs to know that there's diffference f african-fert graphs
-
-
-
->>>>DONE
 fix percentage abuja
 add excel date extract from the number
 create parsers for each file
@@ -30,41 +26,46 @@ filtering jsons of excels
 make a handler on top of all the parsers
 check if filtering is all ok
 
+added the prod parser
+
+
+>>>>DONE
+
 
 >> questionable
 	worldbank from js? faostat too? -> exists
 	if data is big in files swap to streaming data instead of reading it in heap at once
+
 >>on going
-add env
+lifemoz mergin with the programs data -> each has its kpis
+getting geolocation for prod
+
+add env for insert
 make version for updating (IN PRODUCTION PHASE)
+
+
+>>yassine
+and tableau dude tomorrow
 
 
 
 >>> TODO
-fix blending : "NPK 15-15-15, NPK 20-10-10, NPK 12-12-17 + 2MgO, Rice specific, Cocoa specific"
+design after she send agri -> she sent design pattern to follow
+report about trademaps
+sales products rename?
+add bcg stuff
 contract
-ERROR HANDLIN IN PARSERS IN CASE ITS OUT OF ORDINARY
+ERROR HANDLIN IN PARSERS IN CASE ITS OUT OF ORDINARY (in the db insertion code)
 name and structure convention docs
 	2017 NAN
 
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.2rbnzs7qh
 check how to integrate that data map interactive into tableau
 
->>Questions
-	-Sales :
-	Null Check :  Product Category , Quantité facturée réajustée, Sub region 
-	I save dates dd/mm/yyyy or mm/dd/yyyy (whats in some files but it looks weird) ->> dd/mm -> if none null reajustee -> subregion, keep africa or from google for now, later we get real subregions
 
 
-	FOB can be negative? AMEROPA AG 2017 -> I guess?
-	Montant FOB vs prix FOB / montant? also which is that in 2023 file 
-
-	-blending : status??
-	-prod not workin
-
-	- which of these files will update, and what will change in the update then Ill make the new updating code, cus this is for inserting, NOT PRIORITY
-----PHASE DATABASE FILLING after having the grouping and the schema so I can define the database tables schema for TABLEAU dude
---docker or on their server, we create the database or we get a ready one
+>>
+	design dial strategy, do we just make yes, this is the dashboard profile of stragtegy things
 
 
 >>sales Product name changes
@@ -74,5 +75,5 @@ check how to integrate that data map interactive into tableau
 	BG4  -> rock phosphate
 	TSP
 	MCP
-	jfc5? (f ocp khana)
+	jfc5? (f ocp col)
 	FOB is paid price to get all the way to my port its on em how much to pay the ship waits in port price

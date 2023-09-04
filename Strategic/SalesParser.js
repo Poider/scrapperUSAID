@@ -17,12 +17,12 @@ async function openSheet(jsonizedPath, unzipPath, xls_unzipped_files) {
 		const workbook = XLSX.readFile(filePath);
 		const sheet_name_list = workbook.SheetNames;
 		const allData = [];
-		for(let pageNum = 0; pageNum < sheet_name_list.length; pageNum++) {
+		for(let pageNum = 3; pageNum < sheet_name_list.length; pageNum++) {
 		const sheetName = sheet_name_list[pageNum]
 		const worksheet = workbook.Sheets[sheetName];
 		const xslxJsonData = XLSX.utils.sheet_to_json(worksheet, { raw: true });
 		allData.push(...xslxJsonData);
-		pageNum++;
+		// pageNum++;
 
 	}
 	return allData;
@@ -77,10 +77,12 @@ function mapper(saleObj)
 	const dateBL = formatDate (excelSerialNumberToJsDate( getValueIgnoreCase(saleObj, "Date BL")));
 	const product = getValueIgnoreCase(saleObj, "Produit");
 	const productCategory = getValueIgnoreCase(saleObj, "Famille du produit");
-	const quantity = getValueIgnoreCase(saleObj, "Quantité facturée réajustée");
+	let quantity = getValueIgnoreCase(saleObj, "Quantité facturée réajustée");
+	if(!quantity)
+		quantity = getValueIgnoreCase(saleObj, "Quantité FACTURÉ/NET");
 	let montantFOB = getValueIgnoreCase(saleObj, "Montant FOB");
 	if(!montantFOB)
-		montantFOB = getValueIgnoreCase(saleObj, "Prix FOB");
+		montantFOB = +getValueIgnoreCase(saleObj, "Prix FOB") * quantity;
 	let countryOfTheClient = getValueIgnoreCase(saleObj, "Pays du client");
 	const subRegion = getValueIgnoreCase(saleObj, "Secteur de Vente");
 	const portDeDechargement = getValueIgnoreCase(saleObj, "Port de déchargement");
@@ -91,6 +93,8 @@ function mapper(saleObj)
 		const country = portDataSplit.length > 1 ? portDataSplit[1] : null;
 		countryOfTheClient = country
 	}
+	if(countryOfTheClient == 'Djibouti')
+		countryOfTheClient = 'Ethiopia';
 	return{
 		"client" : client ? client : null,
 		"date BL" : dateBL ? dateBL : null,
@@ -108,7 +112,11 @@ function mapper(saleObj)
 async function salesParser(fileName, jsonizedPath, filePath) {
   const pageNum = 1;
   let sales = await openSheet(jsonizedPath, filePath, [fileName], pageNum);
-  sales = sales.map(mapper);
+  sales = sales.map(mapper).filter((item) => {
+	if((item['Montant FOB'] && item['Montant FOB'] <= 0) || item['date BL'] == "NaN/NaN/NaN")
+		return false;
+	return true;
+  });
 //   console.log(JSON.stringify(sales,null,2));
 //   await writingJson(jsonizedPath, sales);
    return sales

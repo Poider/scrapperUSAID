@@ -63,6 +63,8 @@ module.exports = async function AbujaParser(fileName, jsonizedPath, filePath) {
 		}
 		if(obj['Average P2O5 %'])
 			obj['Average P2O5 %'] *= 100;
+		if(obj['Country'] == 'Djibouti')
+			obj['Country'] = 'Ethiopia';
 		allData.push(obj);
 	}
 	//   console.log(JSON.stringify(allData,null,2));

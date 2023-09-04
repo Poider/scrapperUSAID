@@ -34,9 +34,11 @@ async function writingJson(jsonizedPath, xlsxData) {
 }
 
 
+
+
 function field_wanted(field)
 {
-	if (field == 'Plant' || field == 'Year established' || field == 'Position' || field == 'Status' || field == 'Prod Capacity' || field == 'Nameplate Capacity Value' || field == 'Nameplate Capacity Units' || field == 'Products Produced' || field == 'Country' || field == 'Latitude' || field == 'Longitude')
+	if (field == 'Plant' || field == 'Parent Company' || field == 'Plant Type' || field == 'City' || field == 'Country' || field == 'Nameplate Capacity Value' || field == 'Nameplate Capacity Units' || field == 'Products Produced' || field == 'Region' || field == 'Latitude' || field == 'Longitude')
 		return true;
 }
 
@@ -54,16 +56,9 @@ module.exports = async function BlendingPlantsParser(fileName, jsonizedPath, fil
 			if(field_wanted(titles[j]))
 				obj[titles[j]] = blendingPlants[i][j]? blendingPlants[i][j] : null;
 		}
-		let products =  obj['Products Produced'].split('\r\n');
-		for(let j = 0; j < products.length; j++)
-		{
-			if (products[j].startsWith(', ')) {
-				products[j] = products[j].substring(2);
-			  }
-		}
 
-		products= products.filter((item) => item);
-		obj['Products Produced'] = products;
+		obj['Products Produced'] = obj['Products Produced'].replace(/\r\n/g,'');
+		obj['Status'] = 'Operational*';
 		allData.push(obj);
 	}
 

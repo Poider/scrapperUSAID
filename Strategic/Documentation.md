@@ -11,3 +11,8 @@ File codes for now
 
 
 idea for cron : put file that'll be automatically known, then added to the db each day at 00:00 then deletes the xlsx
+
+Operational : project is operational status
+Operational* : not known if it is
+
+Djibouti changed to Ethiopia in both abuja + sales
