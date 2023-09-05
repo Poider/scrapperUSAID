@@ -1,32 +1,13 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const fetchDataWithRetry = async () => {
+const fetchDataWithRetry = async (link, body) => {
   const maxRetries = 100; 
   let retries = 0;
 
   while (retries < maxRetries) {
     try {
-      const response = await axios.post('https://admin.vifaakenya.org/api/prices/byProducts', {
-        unit: 'MZN_50_KG',
-        dates: ['2023-06-01', '2023-06-30'],
-        zoneSelected: false,
-        treePlantation: false,
-        zoomLevel: 6,
-        years: [2023],
-        yearSelected: 2023,
-        townsSelected: [
-          738669, 737070, 712598, 729323, 728796, 740167, 749492, 712596, 751110, 721228,
-          713003, 713909, 712582, 717415, 712594, 737763, 733647, 725086, 724967, 712589,
-          717413, 716317, 740936, 734717, 734385, 751128, 751017, 728501, 739985, 760656,
-          760575, 760609, 740240, 760571, 727705, 760573, 760661, 716801, 760751, 727387,
-          760812
-        ],
-        currencyCode: 'MZN',
-        compoundProductSelected: '281',
-        countryIso: 'MZ',
-        lang: 'en'
-      }, {
+      const response = await axios.post(link, body, {
         headers: {
           Accept: 'application/json, text/plain, */*',
           'Accept-Language': 'en-US,en;q=0.9',
@@ -69,8 +50,16 @@ const fetchDataWithRetry = async () => {
 
 
 (async function main() {
-  
-    const data = await fetchDataWithRetry();
-  
-    fs.writeFileSync("MonthlyInternationalPrice.json", JSON.stringify(data, null, 2));
+  const link = "https://admin.vifaakenya.org/api/fob/historicalSeriesByProducts"
+  const body = {
+    "productOriginsSelected": [2041604, 22030, 22033, 22035, 82621, 22047, 22049, 22051, 22031, 22055, 22039, 22038, 22041, 22037, 22043, 22045],
+    "dates": [],
+    "unit": "USD_MT",
+    "currencyCode": "USD",
+    "lang": "en"
+  }
+
+    const data = await fetchDataWithRetry(link , body);
+    console.log(JSON.stringify(data, null, 2))
+    // fs.writeFileSync("MonthlyInternationalPrice.json", JSON.stringify(data, null, 2));
 })();

@@ -35,32 +35,32 @@ lifemoz handle nigeria null stuff line
 lifemoz mergin with the programs data -> each has its kpis
 finish mayssoun's work
 getting geolocation for prod
+add bcg stuff
+get africa fertilizer links
+report about trademaps
 
 >> questionable
 	worldbank from js? faostat too? -> exists
 	if data is big in files swap to streaming data instead of reading it in heap at once
 
 >>on going
-add bcg stuff
-get africa fertilizer links
-report about trademaps
 
+
+contract
 
 add env for insert
+
 make version for updating (IN PRODUCTION PHASE)
 
 
 
 
-
 >>> TODO
-get africa fertilizer links
-
 design after she send agri -> she sent design pattern to follow
-report about trademaps
+
 sales products rename?
-add bcg stuff
-contract
+
+
 ERROR HANDLIN IN PARSERS IN CASE ITS OUT OF ORDINARY (in the db insertion code)
 name and structure convention docs
 
