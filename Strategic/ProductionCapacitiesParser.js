@@ -1,16 +1,14 @@
 const { pathMaker } = require('../utils/path.js');
 const path = require('path');
-// const XLSX = require('xlsx');
-const ExcelJS = require('exceljs');
 const XLSX = require('xlsx');
-const XlsxPopulate = require('xlsx-populate');
 const fs = require('fs');
+const { get } = require('http');
 
 
 async function openSheet(jsonizedPath, unzipPath, xls_unzipped_files, givenPageNum) {
 	const filePath = path.join(unzipPath, xls_unzipped_files[0]);
 	console.log(filePath)
-	// try{
+	try{
 	
 		const workbook = XLSX.readFile(filePath);
 		const sheet_name_list = workbook.SheetNames;
@@ -23,20 +21,43 @@ async function openSheet(jsonizedPath, unzipPath, xls_unzipped_files, givenPageN
 
 	}
 	return allData;
-	// } catch (err) {
-	//   console.log((`Error: jsonize can't find the folder ${unzipPath} or the file ${xls_unzipped_files[0]}`));
-	// }
+	} catch (err) {
+	  console.log((`Error: jsonize can't find the folder ${unzipPath} or the file ${xls_unzipped_files[0]}`));
+	}
 
     
-//   } catch (err) {
-//     console.log(`Error: openSheet can't find the folder ${unzipPath} or the file ${xls_unzipped_files[0]}`);
-//   }
+
+}
+
+function getLocation(company_name ,company_location ,companies_geolocation, fertilizer_type){
+
+	for (const key in companies_geolocation) {
+		let company,location;
+		company = key.trim()
+		if (key.indexOf("/") > 0)
+		{
+			company = key.split("/")[0].trim()
+			location = key.split("/")[1].trim()
+		}
+
+		if(location === company_location && company === company_name)
+		{
+			if(companies_geolocation[key]['Product_on_sheet'] === fertilizer_type)
+				return companies_geolocation[key]
+			continue;
+		}
+		if(company === company_name && location === undefined)
+		{
+			if(companies_geolocation[key]['Product_on_sheet'] === fertilizer_type)
+				return companies_geolocation[key]
+			continue;
+		}
+	}
+	return undefined
 }
 
 
-
-
-async function ureaParse(jsonData) {
+async function ureaParse(jsonData, companies_geolocation) {
 
 	const translated = jsonData.map((item) => {
 
@@ -50,7 +71,21 @@ async function ureaParse(jsonData) {
 				'Value': item[i],
 				'unit' : "000 metric tons/year",
 				'Status': "Operational*",
+
 			};
+			const geolocation = getLocation(item["Company"],item["Location"],companies_geolocation,"Urea")
+			if(geolocation !== undefined)
+			{
+				smallObject['Latitude'] = geolocation['latitude']
+				smallObject['Longitude'] = geolocation['longitude']
+			}
+			else
+			{
+				console.log(item["Company"] , item["Location"])
+				smallObject['Latitude'] = undefined
+				smallObject['Longitude'] = undefined
+			}
+
 			newObject.push(smallObject);
 		}
 		return newObject;
@@ -65,7 +100,7 @@ async function ureaParse(jsonData) {
 
 
 
-async function PhosphateParse(jsonData) {
+async function PhosphateParse(jsonData, companies_geolocation) {
 
 	const translated = jsonData.map((item) => {
 		newItem = [];
@@ -87,9 +122,22 @@ async function PhosphateParse(jsonData) {
 				'Value': item[i],
 				'unit' : "000 metric tons/year",
 				'Products': newItem.join(', '),
-				
+				'lolo' :"lolo "
 
 			};
+			const geolocation = getLocation(item["Company"],item["Location"],companies_geolocation,"Phosphate")
+			if(geolocation !== undefined)
+			{
+				smallObject['Latitude'] = geolocation['latitude']
+				smallObject['Longitude'] = geolocation['longitude']
+			}
+			else
+			{	console.error(item["Company"] , item["Location"])
+				smallObject['Latitude'] = null
+				smallObject['Longitude'] = null
+			}
+		
+
 			newObject.push(smallObject);
 		}
 		return newObject;
@@ -110,14 +158,17 @@ async function ProductionCapacitiesParser(fileName, jsonizedPath, filePath) {
   catch(err){
   	console.log('production parser error')
   }
-  // console.log("hi")
-  const urea = await ureaParse(ProductionCapacities[0])
-  const phosphate = await PhosphateParse(ProductionCapacities[1])
+  let companies_geolocation =  fs.readFileSync(path.join(__dirname,'Constants','company_location.json'), 'utf8')
+  companies_geolocation = JSON.parse(companies_geolocation)
 
+  // console.log("hi")
+  const urea = await ureaParse(ProductionCapacities[0],companies_geolocation)
+  const phosphate = await PhosphateParse(ProductionCapacities[1],companies_geolocation)
+
+  
   return [urea, phosphate]
 }
 
 // ProductionCapacitiesParser('Prod_capacities_Africa_23.xlsx', pathMaker('..', 'Strategic', 'json'), pathMaker('..', 'Strategic', 'xlsx'))
-
 
 module.exports = ProductionCapacitiesParser

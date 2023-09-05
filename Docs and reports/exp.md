@@ -30,30 +30,32 @@ added the prod parser
 
 
 >>>>DONE
-
+fix the rest of the files,
+lifemoz handle nigeria null stuff line
+lifemoz mergin with the programs data -> each has its kpis
+finish mayssoun's work
+getting geolocation for prod
 
 >> questionable
 	worldbank from js? faostat too? -> exists
 	if data is big in files swap to streaming data instead of reading it in heap at once
 
 >>on going
-	//parse first table
+add bcg stuff
+get africa fertilizer links
+report about trademaps
 
-lifemoz handle nigeria null stuff line
-lifemoz mergin with the programs data -> each has its kpis
-getting geolocation for prod
 
 add env for insert
 make version for updating (IN PRODUCTION PHASE)
 
 
->>yassine
-and tableau dude tomorrow
 
 
 
 >>> TODO
-finish mayssoun's work
+get africa fertilizer links
+
 design after she send agri -> she sent design pattern to follow
 report about trademaps
 sales products rename?
@@ -61,7 +63,7 @@ add bcg stuff
 contract
 ERROR HANDLIN IN PARSERS IN CASE ITS OUT OF ORDINARY (in the db insertion code)
 name and structure convention docs
-	2017 NAN
+
 
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.2rbnzs7qh
 check how to integrate that data map interactive into tableau

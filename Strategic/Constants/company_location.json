@@ -1,0 +1,262 @@
+{
+	"AOA (EDEOLA 1)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Algeria",
+		"latitude": 35.70555866250085,
+		"longitude": -0.6219179890721891
+	},
+	"AOA (EDEOLA 2)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Algeria",
+		"latitude": 35.70555866250085,
+		"longitude": -0.6219179890721891
+	},
+	"Sorfert": {
+		"Product_on_sheet": "Urea",
+		"Country": "Algeria",
+		"latitude": 35.72388977365074,
+		"longitude": -0.6010359994075015
+	},
+	"Abu Qir Ferts & Chemicals": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 31.180742132109938,
+		"longitude": 29.908833882687716
+	},
+	"Alexandria Fertilizers (Alexfert)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 31.27246474514105,
+		"longitude": 30.09334583863459
+	},
+	"Egyptian Chemical Industries (Kima)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 30.162340992170037,
+		"longitude": 31.264088426947826
+	},
+	"Egyptian Fertilizer Co (EFC)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 29.684464333845447,
+		"longitude": 32.28663925821862
+	},
+	"Egyptian Fertilizer Co (EFC2)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 29.684464333845447,
+		"longitude": 32.28663925821862
+	},
+	"Egyptian Nitrogen Products Company (ENPC) 1": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 31.418364371092338,
+		"longitude": 31.81416256017109
+	},
+	"Egyptian Nitrogen Products Company (ENPC) 2": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 31.418364371092338,
+		"longitude": 31.81416256017109
+	},
+	"El Delta Co. for Fertilizers & Chemical Industries": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 31.06633817467464,
+		"longitude": 31.382739767342375
+	},
+	"El Nasr Company for Intermediate Chemicals (NCIC)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 30.077886689638323,
+		"longitude": 31.036277369157283
+	},
+	"Helwan Fertilizer Company (HFC)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 29.760808823212656,
+		"longitude": 31.31576308843545
+	},
+	"Misr Fertilizer Production Company (MOPCO)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Egypt",
+		"latitude": 30.028409145584227,
+		"longitude": 31.462060092167786
+	},
+	"Lifeco": {
+		"Product_on_sheet": "Urea",
+		"Country": "Libya",
+		"latitude": 30.4022858399137,
+		"longitude": 19.59573762287054
+	},
+	"Dangote Fertilizer Ltd": {
+		"Product_on_sheet": "Urea",
+		"Country": "Nigeria",
+		"latitude": 6.439861891122739,
+		"longitude": 4.044340389070521
+	},
+	"Indorama Eleme Fertilizer and Chemicals (IEFCL)": {
+		"Product_on_sheet": "Urea",
+		"Country": "Nigeria",
+		"latitude": 4.859549010275445,
+		"longitude": 7.024906709199738
+	},
+	"Notore Chemical": {
+		"Product_on_sheet": "Urea",
+		"Country": "Nigeria",
+		"latitude": 4.77833184221523,
+		"longitude": 7.112007500469506
+	},
+	"Kynoch Fertilizer Ltd.": {
+		"Product_on_sheet": "Urea",
+		"Country": "South Africa",
+		"latitude": -25.825029144103485,
+		"longitude": 28.059619344349056
+	},
+	"Algerian government + CITIC + Wengfu": {
+		"Product_on_sheet": "Phosphate",
+		"Country": "Algeria",
+		"latitude": 36.89903818557051,
+		"longitude": 7.748561737097865
+	},
+	"Algerian government + Indorama":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Algeria",
+		"latitude": 36.89903818557051,
+		"longitude": 7.748561737097865
+	},
+	"Fertial":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Algeria",
+		"latitude": 36.8655735242637,
+		"longitude": 7.7688805675551125
+	},
+	"Polyserve - Abu Zabaal/ Abu Zaabal":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 30.05277330508963,
+		"longitude": 31.19709622497988
+	},
+	"Polyserve - Abu Zabaal/ Abu Zabaal":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 30.05277330508963,
+		"longitude": 31.19709622497988
+	},
+	"EFIC/Kafr el Zayat":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 30.82820403340907,
+		"longitude": 30.80516009616986
+	},
+	"EFIC/ Mankabad, Assiut":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 27.201624,
+		"longitude": 31.109914
+	},
+	"EFIC - SCFP":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 29.968412781796776,
+		"longitude": 32.5471966778982
+	},
+	"Evergrow":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 30.440890476396326,
+		"longitude": 30.610792052280903
+	},
+	"NCIC/Ain Sokhna":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 29.651575201013735,
+		"longitude": 32.25461982496683
+	},
+	"NCIC/Faiyum":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Egypt",
+		"latitude": 29.52596795238509,
+		"longitude": 30.88060852635805
+	},
+	"OCP/Jorf Lasfar":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Morocco",
+		"latitude": 33.11800003826155,
+		"longitude": -8.602186186428284
+	},
+	"OCP/Laayoune":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Morocco",
+		"latitude": 27.16843218902637,
+		"longitude": -13.208438187592153
+	},
+	"OCP/Safi":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Morocco",
+		"latitude": 32.222497389948224,
+		"longitude": -9.250320631888751
+	},
+	"OCP/Mzinda":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Morocco",
+		"latitude": 32.24358698069196,
+		"longitude": -8.447324628913103
+	},
+	"FSFC Federal Superphosphate Fertilizer Co":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Nigeria",
+		"latitude": 10.50658776100539,
+		"longitude": 7.429609881266699
+	},
+	"Indorama/M'Bao":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Senegal",
+		"latitude": 15.801069868616265,
+		"longitude": -16.517011772295188
+	},
+	"Bosveld Phosphates":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "South Africa",
+		"latitude": -23.976065416633602,
+		"longitude": 31.10136548331537
+	},
+	"Foskor":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "South Africa",
+		"latitude": -23.950129456800866,
+		"longitude": 31.1372961514614
+	},
+	"Omnia Fertilizer":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "South Africa",
+		"latitude": -26.810922184455297,
+		"longitude": 27.858317350278288
+	},
+	"ZimPhos":
+	{
+		"Product_on_sheet": "Phosphate",
+		"Country": "Zimbabwe",
+		"latitude": -17.84844689178828,
+		"longitude": 31.131600014925212
+	}
+}

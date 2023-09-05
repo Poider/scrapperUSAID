@@ -10,6 +10,7 @@ const SalesParser = require('./SalesParser.js');
 const PotentialAbujaParser = require('./PotentialAbujaParser.js');
 const FertlizerWeekPremiumParser = require('./PremiumWeekParser.js');
 const productionCapacitiesParser = require('./ProductionCapacitiesParser.js');
+const bcgParser = require('./bcgParser.js');
 
 const read = readline.createInterface({ input: process.stdin, output: process.stdout });
 
@@ -21,25 +22,31 @@ const jsonNames = ['BlendingPlantsData.json',
 	'FertlizerWeekPremiumData.json',
 	'Potential-consumption-Data.json',
 	'SalesData.json',
+	'BCG_total_P205_demande_unlock_value.json',
+	'OCP_Market_Shares_BCG_Demand_Unlocking_Total_Value.json',
 	'phosphatePlantProd.json',
-	'ureaPlantProd.json',];
-
-// const filesCode = [
-// 	'blendingPlants',
-// 	'CRU_FERTILIZER_WEEK',
-// 	'FertlizerWeekPremium',
-// 	'potentialConsumption',
-// 	'sales'];
+	'ureaPlantProd.json',
+]
 
 const fileNames = ['Blending plants Africa[1].xlsx',
 	'CRU FERTILIZER WEEK-Historical Prices Averages-Weekly Report (20230707)-60431[1].xlsx',
 	'Fertilizer Week Premium - report[1].xlsx',
 	'Potential consumption (Abuja + Agronomy)[1].xlsx',
 	'Sales 13-23[1].xlsx',
-	'Prod_capacities_Africa_23.xlsx'
+	'BCG_total_P205_demande_unlock_value (1).xlsx',
+	'OCP_Market_Shares_BCG_Demand_Unlocking_Total_Value (1).xlsx',
+	'Prod_capacities_Africa_23.xlsx',
 ];
 
-const parsers = [BlendingPlantsParser, CruParser, FertlizerWeekPremiumParser, PotentialAbujaParser, SalesParser, productionCapacitiesParser];
+const parsers = [BlendingPlantsParser, 
+	CruParser, 
+	FertlizerWeekPremiumParser, 
+	PotentialAbujaParser,
+	SalesParser,
+	bcgParser,
+	bcgParser,
+	productionCapacitiesParser,
+];
 
 
 
@@ -109,11 +116,13 @@ async function insert(filename) {
 		};
 		if(fileName !== "Prod_capacities_Africa_23.xlsx")
 		{
+	
 			const jsonFileName = jsonNames[fileNames.indexOf(filename)];
 			await writingJson(jsonizedPath, data, jsonFileName);
 		}
 		else
 		{
+			
 			for(let i = 0; i < data.length; i++)
 			{
 				const jsonFileName = jsonNames[fileNames.indexOf(filename) + i];
