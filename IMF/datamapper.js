@@ -19,7 +19,7 @@ async function dataFetcher(indicator, ...args)
 async function main()
 {
 
-    data = await dataFetcher('DebtForg')
+    data = await dataFetcher('rev','AUS')
     stringified = JSON.stringify(data, null, 2)
     console.log(stringified)
 }

@@ -38,6 +38,7 @@ getting geolocation for prod
 add bcg stuff
 get africa fertilizer links
 report about trademaps
+design after she send agri -> she sent design pattern to follow
 
 >> questionable
 	worldbank from js? faostat too? -> exists
@@ -56,7 +57,8 @@ make version for updating (IN PRODUCTION PHASE)
 
 
 >>> TODO
-design after she send agri -> she sent design pattern to follow
+note data cleaning
+updates frequency
 
 sales products rename?
 
@@ -71,7 +73,27 @@ check how to integrate that data map interactive into tableau
 
 
 >>Questions
-	-programs data I linked em, but which is it we wanna show, right now theyre all there
+	extraction -> transform +? (filtering for the last needed infos) -> loading data
+
+	-can we have a dataset and update on top of it if we link straight to tableau?
+	-there's certain datasets that are uniform and do not really change as theyre from certain databases too that do update on a certain frequency
+	-are we fetchin data from the api each time we try to visualize? cause for that it may be taking more time for data the arrive
+	-currency exchange/navires? and irl api?
+	-we connect a db?
+	-we did extraction and transformation to the data now its time to load it
+	-what she thought bout the ones I picked
+	-data sciences if we dont have the data stored
+
+
+--huge rate limit on imf datasets
+
+
+
+
+
+
+
+	-programs data I linked em to lifemoz, but which is it we wanna show, right now theyre all there
 	-design dial strategy, do we just make one dashboard, this is the dashboard profile of stragtegy things
 
 
