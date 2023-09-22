@@ -1,0 +1,522 @@
+[
+  {
+    "year": 2014,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 38000,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Benin",
+    "country code": "BJ",
+    "region": "Western Africa",
+    "volume": 1005,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Cote D'ivoire",
+    "country code": "CI",
+    "region": "Western Africa",
+    "volume": 49393.595,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Ghana",
+    "country code": "GH",
+    "region": "Western Africa",
+    "volume": 243.416,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 82156.95,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 54406.34,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Niger",
+    "country code": "NE",
+    "region": "Western Africa",
+    "volume": 46,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 82440,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2015,
+    "country": "Togo",
+    "country code": "TG",
+    "region": "Western Africa",
+    "volume": 17865.91,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Benin",
+    "country code": "BJ",
+    "region": "Western Africa",
+    "volume": 12,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Cote D'ivoire",
+    "country code": "CI",
+    "region": "Western Africa",
+    "volume": 31463.184,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Ghana",
+    "country code": "GH",
+    "region": "Western Africa",
+    "volume": 1514.171,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 206437.696,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Malawi",
+    "country code": "MW",
+    "region": "Southern Africa",
+    "volume": 3637,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 28438.26,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 329630,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2016,
+    "country": "Togo",
+    "country code": "TG",
+    "region": "Western Africa",
+    "volume": 31619.5,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2017,
+    "country": "Cote D'ivoire",
+    "country code": "CI",
+    "region": "Western Africa",
+    "volume": 35167.982,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2017,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 74910.618,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2017,
+    "country": "Malawi",
+    "country code": "MW",
+    "region": "Southern Africa",
+    "volume": 6927,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2017,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 42870.92,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2017,
+    "country": "Niger",
+    "country code": "NE",
+    "region": "Western Africa",
+    "volume": 109,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2017,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 659602.763,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2017,
+    "country": "Togo",
+    "country code": "TG",
+    "region": "Western Africa",
+    "volume": 12636.54,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "region": "Western Africa",
+    "volume": 124.645,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Cote D'ivoire",
+    "country code": "CI",
+    "region": "Western Africa",
+    "volume": 15024.594,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Ghana",
+    "country code": "GH",
+    "region": "Western Africa",
+    "volume": 1605.59,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 20236.082,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Malawi",
+    "country code": "MW",
+    "region": "Southern Africa",
+    "volume": 1036.26,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 30015.08,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Niger",
+    "country code": "NE",
+    "region": "Western Africa",
+    "volume": 127.5,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 837435.54,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2018,
+    "country": "Togo",
+    "country code": "TG",
+    "region": "Western Africa",
+    "volume": 72104.04,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "region": "Western Africa",
+    "volume": 901.395,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Cote D'ivoire",
+    "country code": "CI",
+    "region": "Western Africa",
+    "volume": 64112.44,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Ghana",
+    "country code": "GH",
+    "region": "Western Africa",
+    "volume": 369.9582,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 25740.277,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Malawi",
+    "country code": "MW",
+    "region": "Southern Africa",
+    "volume": 4260.15,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 91576.84,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Niger",
+    "country code": "NE",
+    "region": "Western Africa",
+    "volume": 380,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 743707,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2019,
+    "country": "Togo",
+    "country code": "TG",
+    "region": "Western Africa",
+    "volume": 13344,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "region": "Western Africa",
+    "volume": 740,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Cote D'ivoire",
+    "country code": "CI",
+    "region": "Western Africa",
+    "volume": 68506.658,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 34624.45,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Malawi",
+    "country code": "MW",
+    "region": "Southern Africa",
+    "volume": 3239.5752,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 70607.35,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Niger",
+    "country code": "NE",
+    "region": "Western Africa",
+    "volume": 4,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 446850,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2020,
+    "country": "Togo",
+    "country code": "TG",
+    "region": "Western Africa",
+    "volume": 6695,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2021,
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "region": "Western Africa",
+    "volume": 491,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2021,
+    "country": "Cote D'ivoire",
+    "country code": "CI",
+    "region": "Western Africa",
+    "volume": 86560.07,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2021,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 54195.54,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2021,
+    "country": "Malawi",
+    "country code": "MW",
+    "region": "Southern Africa",
+    "volume": 6731.5,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2021,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 84888.69,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2021,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 1348924.011,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2021,
+    "country": "Tanzania",
+    "country code": "TZ",
+    "region": "Eastern Africa",
+    "volume": 112482,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2022,
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "region": "Western Africa",
+    "volume": 11882,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2022,
+    "country": "Ghana",
+    "country code": "GH",
+    "region": "Western Africa",
+    "volume": 31921.95,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2022,
+    "country": "Mali",
+    "country code": "ML",
+    "region": "Western Africa",
+    "volume": 35762.5,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2022,
+    "country": "Malawi",
+    "country code": "MW",
+    "region": "Southern Africa",
+    "volume": 7093,
+    "ftwgValidated": false
+  },
+  {
+    "year": 2022,
+    "country": "Mozambique",
+    "country code": "MZ",
+    "region": "Southern Africa",
+    "volume": 50145.82,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2022,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 2540523.25,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2022,
+    "country": "Senegal",
+    "country code": "SN",
+    "region": "Western Africa",
+    "volume": 514369.4,
+    "ftwgValidated": true
+  },
+  {
+    "year": 2023,
+    "country": "Nigeria",
+    "country code": "NG",
+    "region": "Western Africa",
+    "volume": 1006079.28,
+    "ftwgValidated": false
+  }
+]

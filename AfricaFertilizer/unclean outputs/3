@@ -1,0 +1,3214 @@
+
+multiple years
+[
+  {
+    "year": 2014,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 38000,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 5,
+          "name": "Benin",
+          "nameTrn": {
+            "id": 1947686,
+            "entries": [
+              {
+                "id": 1947687,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Bénin"
+              }
+            ]
+          },
+          "isoCode": "BJ",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 1005,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 10,
+          "name": "Cote D'ivoire",
+          "nameTrn": {
+            "id": 3021069,
+            "entries": [
+              {
+                "id": 3021070,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Cote D'ivoire"
+              }
+            ]
+          },
+          "isoCode": "CI",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 49393.595,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 16,
+          "name": "Ghana",
+          "isoCode": "GH",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 243.416,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 82156.95,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 54406.34,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120450,
+          "name": "Niger",
+          "isoCode": "NE",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 46,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 82440,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 23743,
+          "name": "Togo",
+          "isoCode": "TG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 17865.91,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 5,
+          "name": "Benin",
+          "nameTrn": {
+            "id": 1947686,
+            "entries": [
+              {
+                "id": 1947687,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Bénin"
+              }
+            ]
+          },
+          "isoCode": "BJ",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 12,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 10,
+          "name": "Cote D'ivoire",
+          "nameTrn": {
+            "id": 3021069,
+            "entries": [
+              {
+                "id": 3021070,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Cote D'ivoire"
+              }
+            ]
+          },
+          "isoCode": "CI",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 31463.184,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 16,
+          "name": "Ghana",
+          "isoCode": "GH",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 1514.171,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 206437.696,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120435,
+          "name": "Malawi",
+          "isoCode": "MW",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 3637,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 28438.26,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 329630,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 23743,
+          "name": "Togo",
+          "isoCode": "TG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 31619.5,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 10,
+          "name": "Cote D'ivoire",
+          "nameTrn": {
+            "id": 3021069,
+            "entries": [
+              {
+                "id": 3021070,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Cote D'ivoire"
+              }
+            ]
+          },
+          "isoCode": "CI",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 35167.982,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 74910.618,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120435,
+          "name": "Malawi",
+          "isoCode": "MW",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 6927,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 42870.92,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120450,
+          "name": "Niger",
+          "isoCode": "NE",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 109,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 659602.763,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 23743,
+          "name": "Togo",
+          "isoCode": "TG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 12636.54,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 49493,
+          "name": "Burkina Faso",
+          "isoCode": "BF",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 124.645,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 10,
+          "name": "Cote D'ivoire",
+          "nameTrn": {
+            "id": 3021069,
+            "entries": [
+              {
+                "id": 3021070,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Cote D'ivoire"
+              }
+            ]
+          },
+          "isoCode": "CI",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 15024.594,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 16,
+          "name": "Ghana",
+          "isoCode": "GH",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 1605.59,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 20236.082,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120435,
+          "name": "Malawi",
+          "isoCode": "MW",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 1036.26,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 30015.08,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120450,
+          "name": "Niger",
+          "isoCode": "NE",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 127.5,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 837435.54,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 23743,
+          "name": "Togo",
+          "isoCode": "TG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 72104.04,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 49493,
+          "name": "Burkina Faso",
+          "isoCode": "BF",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 901.395,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 10,
+          "name": "Cote D'ivoire",
+          "nameTrn": {
+            "id": 3021069,
+            "entries": [
+              {
+                "id": 3021070,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Cote D'ivoire"
+              }
+            ]
+          },
+          "isoCode": "CI",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 64112.44,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 16,
+          "name": "Ghana",
+          "isoCode": "GH",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 369.9582,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 25740.277,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120435,
+          "name": "Malawi",
+          "isoCode": "MW",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 4260.15,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 91576.84,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120450,
+          "name": "Niger",
+          "isoCode": "NE",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 380,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 743707,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 23743,
+          "name": "Togo",
+          "isoCode": "TG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 13344,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 49493,
+          "name": "Burkina Faso",
+          "isoCode": "BF",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 740,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 10,
+          "name": "Cote D'ivoire",
+          "nameTrn": {
+            "id": 3021069,
+            "entries": [
+              {
+                "id": 3021070,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Cote D'ivoire"
+              }
+            ]
+          },
+          "isoCode": "CI",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 68506.658,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 34624.45,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120435,
+          "name": "Malawi",
+          "isoCode": "MW",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 3239.5752,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 70607.35,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120450,
+          "name": "Niger",
+          "isoCode": "NE",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 4,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 446850,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 23743,
+          "name": "Togo",
+          "isoCode": "TG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 6695,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 49493,
+          "name": "Burkina Faso",
+          "isoCode": "BF",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 491,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 10,
+          "name": "Cote D'ivoire",
+          "nameTrn": {
+            "id": 3021069,
+            "entries": [
+              {
+                "id": 3021070,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Cote D'ivoire"
+              }
+            ]
+          },
+          "isoCode": "CI",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 86560.07,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 54195.54,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120435,
+          "name": "Malawi",
+          "isoCode": "MW",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 6731.5,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 84888.69,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 1348924.011,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120429,
+          "name": "Tanzania",
+          "isoCode": "TZ",
+          "regions": [
+            {
+              "id": 120413,
+              "name": "Eastern Africa",
+              "label": "Eastern Africa",
+              "nameTrn": {
+                "id": 3423657,
+                "entries": [
+                  {
+                    "id": 3423658,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Est"
+                  },
+                  {
+                    "id": 3423659,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Oriental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637054,
+                "label": "United Nations",
+                "name": "United Nations"
+              }
+            },
+            {
+              "id": 637487,
+              "name": "Eastern Africa",
+              "label": "Eastern Africa",
+              "nameTrn": {
+                "id": 3423757,
+                "entries": [
+                  {
+                    "id": 3423758,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Est"
+                  },
+                  {
+                    "id": 3423759,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Oriental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 112482,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 49493,
+          "name": "Burkina Faso",
+          "isoCode": "BF",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 11882,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 16,
+          "name": "Ghana",
+          "isoCode": "GH",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 31921.95,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120448,
+          "name": "Mali",
+          "isoCode": "ML",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 35762.5,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 120435,
+          "name": "Malawi",
+          "isoCode": "MW",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 7093,
+        "ftwgValidated": false
+      },
+      {
+        "country": {
+          "id": 120437,
+          "name": "Mozambique",
+          "isoCode": "MZ",
+          "regions": [
+            {
+              "id": 120415,
+              "name": "Southern Africa",
+              "label": "Southern Africa",
+              "nameTrn": {
+                "id": 3423735,
+                "entries": [
+                  {
+                    "id": 3423736,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique australe"
+                  },
+                  {
+                    "id": 3423737,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Austral"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 50145.82,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 2540523.25,
+        "ftwgValidated": true
+      },
+      {
+        "country": {
+          "id": 39,
+          "name": "Senegal",
+          "isoCode": "SN",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 514369.4,
+        "ftwgValidated": true
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "countryVolume": [
+      {
+        "country": {
+          "id": 52,
+          "name": "Nigeria",
+          "isoCode": "NG",
+          "regions": [
+            {
+              "id": 1,
+              "name": "Western Africa",
+              "label": "Western Africa",
+              "nameTrn": {
+                "id": 3423553,
+                "entries": [
+                  {
+                    "id": 3423554,
+                    "language": {
+                      "id": 1947012,
+                      "code": "fr",
+                      "label": "French",
+                      "name": "French"
+                    },
+                    "text": "Afrique de l'Ouest"
+                  },
+                  {
+                    "id": 3423555,
+                    "language": {
+                      "id": 3208773,
+                      "code": "pt",
+                      "label": "Portuguese",
+                      "name": "Portuguese"
+                    },
+                    "text": "África Ocidental"
+                  }
+                ]
+              },
+              "type": {
+                "id": 637052,
+                "label": "African Union",
+                "name": "African Union"
+              }
+            }
+          ]
+        },
+        "volume": 1006079.28,
+        "ftwgValidated": false
+      }
+    ]
+  }
+]

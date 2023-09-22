@@ -1,0 +1,2279 @@
+
+selected year
+[
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 21337.59,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 102748.05,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 58866.06,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 127278.59,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 127278.59,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK 14-18-18 + 6S + 1B",
+                    "value": 11000,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 13.5-27-27 + TE",
+                    "value": 18.15,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 17-17-17",
+                    "value": 23.43,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK unspecified",
+                    "value": 398.55,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 5-5-45",
+                    "value": 48,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 13-2-44",
+                    "value": 24,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 28-10-10 + TE",
+                    "value": 48.22,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 17-8-9 + 3MgO",
+                    "value": 11.25,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 19-19-19",
+                    "value": 0.16,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-9-20",
+                    "value": 661.17,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-10-20",
+                    "value": 47.9,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-15-15",
+                    "value": 31101.64,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-10-30",
+                    "value": 348.4,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 23-10-5",
+                    "value": 12032.72,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-15-15 + 6S + 1B",
+                    "value": 71515,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 14795.46,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Potassium Nitrate",
+              "value": 24,
+              "category": "2834210000"
+            },
+            {
+              "name": "NPK 20-10-10 + 2MgO + TE",
+              "value": 14.85,
+              "category": "3105200000"
+            },
+            {
+              "name": "Biostimulant",
+              "value": 278.06,
+              "category": "9999999990"
+            },
+            {
+              "name": "Ammonium Nitrate",
+              "value": 198.4,
+              "category": "3102300000"
+            },
+            {
+              "name": "Phosphate Rock",
+              "value": 4488.98,
+              "category": "2510000000"
+            },
+            {
+              "name": "Other phosphate",
+              "value": 124.5,
+              "category": "3103900000"
+            },
+            {
+              "name": "Other Nitrogen",
+              "value": 141.17,
+              "category": "3102900000"
+            },
+            {
+              "name": "Dolomite",
+              "value": 8776.8,
+              "category": "9999999990"
+            },
+            {
+              "name": "NPK 10-12-32 + TE",
+              "value": 26.4,
+              "category": "3105200000"
+            },
+            {
+              "name": "Enhancers",
+              "value": 30.72,
+              "category": "9999999990"
+            },
+            {
+              "name": "NPK 18 17 17 + 2MgO",
+              "value": 600.75,
+              "category": "3105200000"
+            },
+            {
+              "name": "Monopotassium Phosphate",
+              "value": 10.8,
+              "category": "3105600000"
+            },
+            {
+              "name": "Other Potash fertilizer",
+              "value": 80.03,
+              "category": "3104900000"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 10,
+      "name": "Cote D'ivoire",
+      "nameTrn": {
+        "id": 3021069,
+        "entries": [
+          {
+            "id": 3021070,
+            "language": {
+              "id": 1947012,
+              "code": "fr",
+              "label": "French",
+              "name": "French"
+            },
+            "text": "Cote D'ivoire"
+          }
+        ]
+      },
+      "isoCode": "CI",
+      "regions": [
+        {
+          "id": 1,
+          "name": "Western Africa",
+          "label": "Western Africa",
+          "nameTrn": {
+            "id": 3423553,
+            "entries": [
+              {
+                "id": 3423554,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Ouest"
+              },
+              {
+                "id": 3423555,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Ocidental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 0,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 0,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 0,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 0,
+        "category": "3105200000"
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 110743.56,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Assorted Fertilizers",
+              "value": 110743.56,
+              "category": "null"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 120437,
+      "name": "Mozambique",
+      "isoCode": "MZ",
+      "regions": [
+        {
+          "id": 120415,
+          "name": "Southern Africa",
+          "label": "Southern Africa",
+          "nameTrn": {
+            "id": 3423735,
+            "entries": [
+              {
+                "id": 3423736,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique australe"
+              },
+              {
+                "id": 3423737,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Austral"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 8650.32,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 69142.24,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 637.2,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 158632.7,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 158632.7,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK 16-16-16",
+                    "value": 9443,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 20-10-10",
+                    "value": 60,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 14-18-18 + 6S + 1B",
+                    "value": 21481,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 17-17-17",
+                    "value": 379,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 14-18-18",
+                    "value": 7914,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 25-10-10",
+                    "value": 150,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-15-15",
+                    "value": 19808,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 23-10-5",
+                    "value": 2550,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK unspecified",
+                    "value": 86589.85,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 14-23-14",
+                    "value": 10207.85,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 7-32-20",
+                    "value": 50,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 5632.72,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Other Nitrogen",
+              "value": 4901.72,
+              "category": "3102900000"
+            },
+            {
+              "name": "PK 0-22-16",
+              "value": 100,
+              "category": "null"
+            },
+            {
+              "name": "Other phosphate",
+              "value": 327,
+              "category": "3103900000"
+            },
+            {
+              "name": "Other Potash fertilizer",
+              "value": 304,
+              "category": "3104900000"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 49493,
+      "name": "Burkina Faso",
+      "isoCode": "BF",
+      "regions": [
+        {
+          "id": 1,
+          "name": "Western Africa",
+          "label": "Western Africa",
+          "nameTrn": {
+            "id": 3423553,
+            "entries": [
+              {
+                "id": 3423554,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Ouest"
+              },
+              {
+                "id": 3423555,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Ocidental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 0,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 24505.12,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 10940.96,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 271959.3,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 271959.3,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK 17-3.5-4.4",
+                    "value": 0.37,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 14-18-18 + 6S + 1B",
+                    "value": 10,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 22-5-5",
+                    "value": 19540,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 20-10-10 + 3S",
+                    "value": 10800,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 2-18-16 + 8CaO + 6MgO + 4S + 0.3B2O3 + 0.3Zn",
+                    "value": 20071.74,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 8-17.4-11.4 + 5.8CaO + 2.9MgO + 0.18B + 0.6Zn",
+                    "value": 0.73,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 30-10-10 + TE",
+                    "value": 7,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 20-20-20 + TE",
+                    "value": 29.42,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 5-5-45",
+                    "value": 2714.29,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 20-20-20",
+                    "value": 156.31,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 24-24-18 + TE",
+                    "value": 75.5,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 28-10-10",
+                    "value": 4.8,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 17-7-10 + 4MgO",
+                    "value": 0.01,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-10-5",
+                    "value": 0.01,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-5-30",
+                    "value": 12,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-15-15",
+                    "value": 43247.45,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 23-10-5",
+                    "value": 84346,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-12-36 + TE",
+                    "value": 8,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 8-32-21",
+                    "value": 3.55,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-14-4",
+                    "value": 3.56,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 3-23-17 + 5MgO + 0.16B + 0.4ZN",
+                    "value": 2164.25,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 7-20-13 + 6CaO + 5S + 5MgO + 0.4B + TE",
+                    "value": 3710.27,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK unspecified",
+                    "value": 85.05,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 9-9-9",
+                    "value": 12.22,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 30-10-10",
+                    "value": 12.22,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-15-15 + 10S",
+                    "value": 7077.5,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 5-16-15 + 16CaO + 6S + 3MgO + 0.7Zn + 0.3B",
+                    "value": 43963.7,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 20-10-10",
+                    "value": 7436.66,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 18-18-18",
+                    "value": 7.2,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 19-19-19 + TE",
+                    "value": 60.6,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 13-8-30 + 2MgO + 0.25B",
+                    "value": 1080,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 6-10-6",
+                    "value": 0.6,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 23-10-5 + 6S + 1ZnSO4",
+                    "value": 17791,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 17-9-8 + 4MgO",
+                    "value": 0.01,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 3-20-18 + 6CaO + 7MgO + 4S + 0.5B2O3 + 0.5Zn",
+                    "value": 7527.26,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 1-5-6",
+                    "value": 0.02,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 30023.44,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Agric Lime",
+              "value": 983.19,
+              "category": "9999999990"
+            },
+            {
+              "name": "NK 10.8-0-11.8",
+              "value": 2.07,
+              "category": "3105700000"
+            },
+            {
+              "name": "Potassium Nitrate",
+              "value": 355.34,
+              "category": "2834210000"
+            },
+            {
+              "name": "Other PK Compound",
+              "value": 0.1,
+              "category": "null"
+            },
+            {
+              "name": "NPK 17-8-9 + TE",
+              "value": 0.01,
+              "category": "3105200000"
+            },
+            {
+              "name": "NP 20-20-0",
+              "value": 0.65,
+              "category": "null"
+            },
+            {
+              "name": "Biostimulant",
+              "value": 12.57,
+              "category": "9999999990"
+            },
+            {
+              "name": "NP 10-45-0 + 1S + Zn",
+              "value": 149.4,
+              "category": "3105510000"
+            },
+            {
+              "name": "NPK 10-8-10 + TE",
+              "value": 12,
+              "category": "3105200000"
+            },
+            {
+              "name": "Phosphate Rock",
+              "value": 1393.76,
+              "category": "2510000000"
+            },
+            {
+              "name": "NPK 12-7-5 + TE",
+              "value": 2.02,
+              "category": "3105200000"
+            },
+            {
+              "name": "Other phosphate",
+              "value": 4.05,
+              "category": "3103900000"
+            },
+            {
+              "name": "PK 0-22-16 + 10CaO + 5MGO + 3S + 0.5B2O3",
+              "value": 17500,
+              "category": "3105600000"
+            },
+            {
+              "name": "Other Nitrogen",
+              "value": 1.26,
+              "category": "3102900000"
+            },
+            {
+              "name": "NPK 11-22-21 + 5S + 0.5B + 0.72ZN",
+              "value": 7,
+              "category": "3105200000"
+            },
+            {
+              "name": "NPK 21-21-21-+ TE",
+              "value": 0.03,
+              "category": "3105200000"
+            },
+            {
+              "name": "Enhancers",
+              "value": 4354.97,
+              "category": "9999999990"
+            },
+            {
+              "name": "NPK 3-2-2",
+              "value": 126,
+              "category": "3105200000"
+            },
+            {
+              "name": "Kieserite",
+              "value": 4780.5,
+              "category": "9999999990"
+            },
+            {
+              "name": "Other Potash fertilizer",
+              "value": 338.52,
+              "category": "3104900000"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 16,
+      "name": "Ghana",
+      "isoCode": "GH",
+      "regions": [
+        {
+          "id": 1,
+          "name": "Western Africa",
+          "label": "Western Africa",
+          "nameTrn": {
+            "id": 3423553,
+            "entries": [
+              {
+                "id": 3423554,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Ouest"
+              },
+              {
+                "id": 3423555,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Ocidental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 177776.1,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 0,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 110476.2,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 1.09,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 1.09,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK unspecified",
+                    "value": 1.09,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 43.24,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Potassium Nitrate",
+              "value": 27.11,
+              "category": "2834210000"
+            },
+            {
+              "name": "Biostimulant",
+              "value": 15.26,
+              "category": "9999999990"
+            },
+            {
+              "name": "Enhancers",
+              "value": 0.86,
+              "category": "9999999990"
+            },
+            {
+              "name": "Other phosphate",
+              "value": 0.01,
+              "category": "3103900000"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 52,
+      "name": "Nigeria",
+      "isoCode": "NG",
+      "regions": [
+        {
+          "id": 1,
+          "name": "Western Africa",
+          "label": "Western Africa",
+          "nameTrn": {
+            "id": 3423553,
+            "entries": [
+              {
+                "id": 3423554,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Ouest"
+              },
+              {
+                "id": 3423555,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Ocidental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 152653.18,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 171366.06,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 15222.23,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 96904.61,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 96904.61,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK 22-6-12",
+                    "value": 9709,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 22-21-17",
+                    "value": 5.28,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 24-24-18 + 4Mg + 4S + TE",
+                    "value": 7.8,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 21-21-21",
+                    "value": 13,
+                    "category": "null"
+                  },
+                  {
+                    "name": "NPK 17-17-17",
+                    "value": 19825.83,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 24-6-12",
+                    "value": 30,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-10-45 + 4Mg + 4S + TE",
+                    "value": 7.8,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 30-10-10 + TE",
+                    "value": 44,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 20-20-20 + TE",
+                    "value": 19.2,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "PK 0-44-7.5",
+                    "value": 7828.9,
+                    "category": "3105600000"
+                  },
+                  {
+                    "name": "NPK 20-20-20",
+                    "value": 0.6,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 31-11-15",
+                    "value": 0.75,
+                    "category": "null"
+                  },
+                  {
+                    "name": "NPK 14-9-14",
+                    "value": 1,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 19-19-19 + 2MgO + TE",
+                    "value": 30,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-10-10",
+                    "value": 0.6,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 24-24-18 + TE",
+                    "value": 22.83,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 8-32-4",
+                    "value": 61.86,
+                    "category": "null"
+                  },
+                  {
+                    "name": "NPK 11.2-10.2-11.8",
+                    "value": 7.69,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-9-20",
+                    "value": 8113.72,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 8-5-30",
+                    "value": 10,
+                    "category": "null"
+                  },
+                  {
+                    "name": "NPK 10-5-40",
+                    "value": 14,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-5-35 + TE",
+                    "value": 122.8,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 23-10-5",
+                    "value": 5461,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 31-8-7 + TE",
+                    "value": 0.43,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-15-10",
+                    "value": 16,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 14-11-33",
+                    "value": 68.05,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 11-11-8",
+                    "value": 18.4,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-10-8 + TE",
+                    "value": 66.38,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 18-20-21",
+                    "value": 10.62,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 8-17-2",
+                    "value": 3,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-18-24",
+                    "value": 41495,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-10-40",
+                    "value": 76,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 13-52-5",
+                    "value": 3,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 19-19-19 + TE",
+                    "value": 83.8,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 24-24-18",
+                    "value": 2.67,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 19-19-19",
+                    "value": 111.08,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-25-12",
+                    "value": 10,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-20-40",
+                    "value": 3.28,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 27-10-16 + TE",
+                    "value": 61.24,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-24-12",
+                    "value": 3536,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-12-12",
+                    "value": 2,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 50296.98,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Agric Lime",
+              "value": 0.38,
+              "category": "9999999990"
+            },
+            {
+              "name": "Magnesium Sulphate",
+              "value": 1864,
+              "category": "2833000000"
+            },
+            {
+              "name": "Magnesium Nitrate",
+              "value": 14.2,
+              "category": "2833000000"
+            },
+            {
+              "name": "Potassium Nitrate",
+              "value": 234.75,
+              "category": "2834210000"
+            },
+            {
+              "name": "NP 3-29-0",
+              "value": 1.01,
+              "category": "3105510000"
+            },
+            {
+              "name": "Micronutrients",
+              "value": 5,
+              "category": "9999999990"
+            },
+            {
+              "name": "PK 0-10-30 + TE",
+              "value": 120,
+              "category": "3105600000"
+            },
+            {
+              "name": "Biostimulant",
+              "value": 0.71,
+              "category": "9999999990"
+            },
+            {
+              "name": "NP 3-10-0 + 1B + 0.5MO",
+              "value": 5.23,
+              "category": "3105510000"
+            },
+            {
+              "name": "NP 19-36.4-0 + 6.24S + 0.12B",
+              "value": 9050,
+              "category": "3105510000"
+            },
+            {
+              "name": "NK 14-0-2 + TE",
+              "value": 9,
+              "category": "3105700000"
+            },
+            {
+              "name": "NP 18-38-0",
+              "value": 10,
+              "category": "3105510000"
+            },
+            {
+              "name": "PK 0-29-21.6",
+              "value": 0.59,
+              "category": "null"
+            },
+            {
+              "name": "NP 15-20-0 + 2S + 0.027Zn",
+              "value": 33,
+              "category": "3105510000"
+            },
+            {
+              "name": "Other Nitrogen",
+              "value": 20659.27,
+              "category": "3102900000"
+            },
+            {
+              "name": "Boron",
+              "value": 683.41,
+              "category": "null"
+            },
+            {
+              "name": "NP 12-45-0 +5S +1Zn",
+              "value": 15841,
+              "category": "3105510000"
+            },
+            {
+              "name": "PK 0-50-30",
+              "value": 4.5,
+              "category": "3105600000"
+            },
+            {
+              "name": "Enhancers",
+              "value": 478.26,
+              "category": "9999999990"
+            },
+            {
+              "name": "Gypsum",
+              "value": 0.46,
+              "category": "null"
+            },
+            {
+              "name": "NK 12-0-6 + 40SO3",
+              "value": 264,
+              "category": "null"
+            },
+            {
+              "name": "NK 17-0-2 + TE",
+              "value": 61.25,
+              "category": "3105700000"
+            },
+            {
+              "name": "Other Potash fertilizer",
+              "value": 956.96,
+              "category": "3104900000"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 120429,
+      "name": "Tanzania",
+      "isoCode": "TZ",
+      "regions": [
+        {
+          "id": 120413,
+          "name": "Eastern Africa",
+          "label": "Eastern Africa",
+          "nameTrn": {
+            "id": 3423657,
+            "entries": [
+              {
+                "id": 3423658,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Est"
+              },
+              {
+                "id": 3423659,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Oriental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637054,
+            "label": "United Nations",
+            "name": "United Nations"
+          }
+        },
+        {
+          "id": 637487,
+          "name": "Eastern Africa",
+          "label": "Eastern Africa",
+          "nameTrn": {
+            "id": 3423757,
+            "entries": [
+              {
+                "id": 3423758,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Est"
+              },
+              {
+                "id": 3423759,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Oriental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 4385.58,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 75222.64,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 6182.71,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 8686.96,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 8686.96,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK 18-18-18 + TE",
+                    "value": 24,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-10-18",
+                    "value": 265.2,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 10-20-10",
+                    "value": 6147,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-15-15",
+                    "value": 825.6,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 5-15-32",
+                    "value": 269.02,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK unspecified",
+                    "value": 1100.66,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 4-6-12",
+                    "value": 21.63,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 14-6-5 +TE",
+                    "value": 15.59,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 20-20-20",
+                    "value": 18.26,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 2256.38,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Magnesium Sulphate",
+              "value": 282.13,
+              "category": "2833000000"
+            },
+            {
+              "name": "Other Nitrogen",
+              "value": 82.59,
+              "category": "3102900000"
+            },
+            {
+              "name": "Potassium Nitrate",
+              "value": 443.06,
+              "category": "2834210000"
+            },
+            {
+              "name": "NK 13-0-46",
+              "value": 281.54,
+              "category": "3105700000"
+            },
+            {
+              "name": "Other PK Compound",
+              "value": 44.78,
+              "category": "null"
+            },
+            {
+              "name": "NK 13-0-6",
+              "value": 98.3,
+              "category": "null"
+            },
+            {
+              "name": "Zinc Sulphate",
+              "value": 8.57,
+              "category": "null"
+            },
+            {
+              "name": "Biostimulant",
+              "value": 261.43,
+              "category": "9999999990"
+            },
+            {
+              "name": "Other phosphate",
+              "value": 21.36,
+              "category": "3103900000"
+            },
+            {
+              "name": "Other NP Compound",
+              "value": 21.5,
+              "category": "null"
+            },
+            {
+              "name": "Other Potash fertilizer",
+              "value": 711.12,
+              "category": "3104900000"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 39,
+      "name": "Senegal",
+      "isoCode": "SN",
+      "regions": [
+        {
+          "id": 1,
+          "name": "Western Africa",
+          "label": "Western Africa",
+          "nameTrn": {
+            "id": 3423553,
+            "entries": [
+              {
+                "id": 3423554,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Ouest"
+              },
+              {
+                "id": 3423555,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Ocidental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 46766.44,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 227371.91,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 26647.92,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 50466.06,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 50466.06,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK 12-10-18 + 2MgO",
+                    "value": 48.8,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 17-17-17",
+                    "value": 1185,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 15-15-15",
+                    "value": 205,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK unspecified",
+                    "value": 49027.26,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 9974.32,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Other Nitrogen",
+              "value": 10,
+              "category": "3102900000"
+            },
+            {
+              "name": "Enhancers",
+              "value": 40.08,
+              "category": "9999999990"
+            },
+            {
+              "name": "Phosphate Rock",
+              "value": 9089.85,
+              "category": "2510000000"
+            },
+            {
+              "name": "Other Fertilizers",
+              "value": 15.83,
+              "category": "null"
+            },
+            {
+              "name": "Other phosphate",
+              "value": 4.11,
+              "category": "3103900000"
+            },
+            {
+              "name": "Other Potash fertilizer",
+              "value": 814.45,
+              "category": "3104900000"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 120448,
+      "name": "Mali",
+      "isoCode": "ML",
+      "regions": [
+        {
+          "id": 1,
+          "name": "Western Africa",
+          "label": "Western Africa",
+          "nameTrn": {
+            "id": 3423553,
+            "entries": [
+              {
+                "id": 3423554,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique de l'Ouest"
+              },
+              {
+                "id": 3423555,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Ocidental"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "products": [
+      {
+        "name": "Monoammonium Phosphate",
+        "value": 0,
+        "category": "3105400000"
+      },
+      {
+        "name": "Diammonium Phosphate",
+        "value": 21417,
+        "category": "3105300000"
+      },
+      {
+        "name": "Calcium Nitrate",
+        "value": 0,
+        "category": "3102600000"
+      },
+      {
+        "name": "Ammonium Sulphate",
+        "value": 0,
+        "category": "3102210000"
+      },
+      {
+        "name": "Organic Fertilizer",
+        "value": 0,
+        "category": "3101000000"
+      },
+      {
+        "name": "Calcium Ammonium Nitrate",
+        "value": 0,
+        "category": "3102400000"
+      },
+      {
+        "name": "Urea",
+        "value": 113677.15,
+        "category": "3102100000"
+      },
+      {
+        "name": "Triple Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Muriate of Potash",
+        "value": 4872,
+        "category": "3104200000"
+      },
+      {
+        "name": "NPK",
+        "value": 50401.92,
+        "category": "3105200000",
+        "additionalData": {
+          "data": [
+            {
+              "name": "Others NPK",
+              "value": 50401.92,
+              "additionalData": {
+                "data": [
+                  {
+                    "name": "NPK 10-20-20 + 5S + 0.2B + 0.2Zn",
+                    "value": 120,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-10-8",
+                    "value": 172.98,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 25-5-5 + 5S",
+                    "value": 370,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 9-45-15",
+                    "value": 0.05,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 12-24-12 + 5S + 0.1B",
+                    "value": 128,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 23-10-5",
+                    "value": 30,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK unspecified",
+                    "value": 25610.44,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 25-5-10",
+                    "value": 1700.3,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 8-18-15 + 6S + 0.1B + 0.1Zn",
+                    "value": 65,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 23-10-5 + 6S + 1Zn",
+                    "value": 22173.15,
+                    "category": "3105200000"
+                  },
+                  {
+                    "name": "NPK 8-20-24 + 6S",
+                    "value": 32,
+                    "category": "3105200000"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Single Super Phosphate",
+        "value": 0,
+        "category": "3103100000"
+      },
+      {
+        "name": "Sulphate of Potash",
+        "value": 0,
+        "category": "3104300000"
+      },
+      {
+        "name": "Others",
+        "value": 6079.73,
+        "additionalData": {
+          "data": [
+            {
+              "name": "Limestone Ammonium Nitrate",
+              "value": 4997,
+              "category": "null"
+            },
+            {
+              "name": "Agric Lime",
+              "value": 170,
+              "category": "9999999990"
+            },
+            {
+              "name": "Magnesium Sulphate",
+              "value": 30,
+              "category": "2833000000"
+            },
+            {
+              "name": "Other Nitrogen",
+              "value": 785.48,
+              "category": "3102900000"
+            },
+            {
+              "name": "Micronutrients",
+              "value": 44.25,
+              "category": "9999999990"
+            },
+            {
+              "name": "Biostimulant",
+              "value": 0.52,
+              "category": "9999999990"
+            },
+            {
+              "name": "Enhancers",
+              "value": 52.48,
+              "category": "9999999990"
+            }
+          ]
+        }
+      }
+    ],
+    "total": 0,
+    "ftwgValidated": true,
+    "country": {
+      "id": 120435,
+      "name": "Malawi",
+      "isoCode": "MW",
+      "regions": [
+        {
+          "id": 120415,
+          "name": "Southern Africa",
+          "label": "Southern Africa",
+          "nameTrn": {
+            "id": 3423735,
+            "entries": [
+              {
+                "id": 3423736,
+                "language": {
+                  "id": 1947012,
+                  "code": "fr",
+                  "label": "French",
+                  "name": "French"
+                },
+                "text": "Afrique australe"
+              },
+              {
+                "id": 3423737,
+                "language": {
+                  "id": 3208773,
+                  "code": "pt",
+                  "label": "Portuguese",
+                  "name": "Portuguese"
+                },
+                "text": "África Austral"
+              }
+            ]
+          },
+          "type": {
+            "id": 637052,
+            "label": "African Union",
+            "name": "African Union"
+          }
+        }
+      ]
+    }
+  }
+]

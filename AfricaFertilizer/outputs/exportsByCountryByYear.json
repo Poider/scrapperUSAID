@@ -1,0 +1,3202 @@
+[
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2016,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2016,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2017,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2017,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2018,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2018,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2019,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2019,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2020,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2020,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2021,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2021,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2022,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2022,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 1291.18
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 843.86
+  },
+  {
+    "country": "Zambia",
+    "country code": "ZM",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 96.9
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 3005.56
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 1266
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 19073.25
+  },
+  {
+    "country": "Senegal",
+    "country code": "SN",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 491024.59
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2827.3
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 500
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 32128.2
+  },
+  {
+    "country": "Mali",
+    "country code": "ML",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 307
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 5025
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 1678
+  },
+  {
+    "country": "Malawi",
+    "country code": "MW",
+    "year": 2023,
+    "ftwgValidated": false,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 390
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Urea",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "NPK",
+    "value": 0
+  },
+  {
+    "country": "Mozambique",
+    "country code": "MZ",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Southern Africa",
+    "name": "Others",
+    "value": 50145.82
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 7995
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 100
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 1375
+  },
+  {
+    "country": "Burkina Faso",
+    "country code": "BF",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 2412
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 81
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 4652.5
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 0
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 26415
+  },
+  {
+    "country": "Ghana",
+    "country code": "GH",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 773.45
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Urea",
+    "value": 2522112.89
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Diammonium Phosphate",
+    "value": 0
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Muriate of Potash",
+    "value": 12400
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "NPK",
+    "value": 6010.36
+  },
+  {
+    "country": "Nigeria",
+    "country code": "NG",
+    "year": 2023,
+    "ftwgValidated": true,
+    "total": 0,
+    "region": "Western Africa",
+    "name": "Others",
+    "value": 0
+  }
+]

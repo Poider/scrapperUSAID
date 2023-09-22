@@ -1,0 +1,139 @@
+retries: 0
+[
+  {
+    "id": "Cropland Satellite Imaginary (QED)",
+    "data": [
+      {
+        "x": "2013",
+        "y": 27.42,
+        "sortingDate": "2013-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2014",
+        "y": 19.69,
+        "sortingDate": "2014-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2015",
+        "y": 14.13,
+        "sortingDate": "2015-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2016",
+        "y": 21.93,
+        "sortingDate": "2016-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2017",
+        "y": 35.73,
+        "sortingDate": "2017-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2018",
+        "y": 33.69,
+        "sortingDate": "2018-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2019",
+        "y": 19.7,
+        "sortingDate": "2019-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2020",
+        "y": 32.41,
+        "sortingDate": "2020-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2021",
+        "y": 42.51,
+        "sortingDate": "2021-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2022",
+        "y": 29.69,
+        "sortingDate": "2022-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2023",
+        "y": 30.26,
+        "sortingDate": "2023-01-01",
+        "ftwgValidated": false
+      }
+    ]
+  },
+  {
+    "id": "Cropland (FAO)",
+    "data": [
+      {
+        "x": "2013",
+        "y": 28.2,
+        "sortingDate": "2013-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2014",
+        "y": 20.24,
+        "sortingDate": "2014-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2015",
+        "y": 14.5,
+        "sortingDate": "2015-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2016",
+        "y": 22.5,
+        "sortingDate": "2016-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2017",
+        "y": 36.55,
+        "sortingDate": "2017-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2018",
+        "y": 34.25,
+        "sortingDate": "2018-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2019",
+        "y": 19.82,
+        "sortingDate": "2019-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2020",
+        "y": 32.61,
+        "sortingDate": "2020-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2021",
+        "y": 42.77,
+        "sortingDate": "2021-01-01",
+        "ftwgValidated": true
+      },
+      {
+        "x": "2022",
+        "y": 29.87,
+        "sortingDate": "2022-01-01",
+        "ftwgValidated": true
+      }
+    ]
+  }
+]
