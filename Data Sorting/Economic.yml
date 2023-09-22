@@ -1,0 +1,131 @@
+>Economic Data:
+
+--- Gross Domestic Product (GDP):
+
+  ---- GDP (current US$) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- GDP growth (annual %) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- GDP per capita (current US$) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Foreign Investment and Inflation:
+
+  ---- Foreign direct investment, net inflows (% of GDP) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Inflation, consumer prices (annual %) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Purchasing Power Parity (PPP):
+
+  ---- GDP, PPP (current international $) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- PPP conversion factor, GDP (LCU per international $) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Human development index:
+
+  ---- HDI | (file type : CSV, data-source: hdr.undp.org, type of access: File, automatic update: YES)
+
+>Finance and Grants:
+
+--- International Monetary Fund (IMF) and Debt:
+
+  ---- Use of IMF credit (DOD, current US$) (IMF Used Credit) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Gross public debt, percent of GDP (IMF) | (file type : json, data-source: IMF, type of access: API, automatic update: YES)
+
+  ---- Credit risk | (file type : json, data-source: https://tradingeconomics.com/country-list/rating, type of access: Scraping, automatic update: YES)
+
+--- Official Reserves and Assistance:
+
+  ---- Official reserves assets | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Official Reserve Assets IMF | (Data source: IMF, Access type: file, Auto update bool: False) 
+
+  ---- Net official development assistance received (current US$) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Grants and other revenue (% of revenue) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+>Agriculture/Economic Data:
+
+--- Agricultural and Economic Metrics:
+
+  ---- SSR (production / (production + (imports - exports))) | (calculated fields)
+
+  ---- Surface area (sq. km) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Agriculture, forestry, and fishing, value added (% of GDP) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Risk Assessment | (Data source: https://www.coface.com/Economic-Studies-and-Country-Risks/Comparative-table-of-country-assessments/(geo)/681 , Access type: file, Auto update bool: True) 
+
+>Population Data:
+
+--- Population Metrics:
+
+  ---- Population, total | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Population, female (% of total population) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Population, male (% of total population) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Employment and Education:
+
+  ---- Employment in agriculture, female (% of female employment) (modeled ILO estimate) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Employment in agriculture, male (% of male employment) (modeled ILO estimate) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Employment in agriculture (% of total employment) (modeled ILO estimate) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Age Demographics and Labor Force:
+
+  ---- Population ages 15-64, total | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Population ages 0-14, total | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Population ages 65 and above, total | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Labor force, total | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Labor force, female (% of total labor force) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Urban and Rural Population:
+
+  ---- Urban population (% of the total population) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Rural population (% of total population) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Urban population growth (annual %) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Population Growth and Food Security:
+
+  ---- Population growth (annual %) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Prevalence of undernourishment (% of the population) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Prevalence of moderate or severe food insecurity in the population (%) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Unemployment:
+
+  ---- Unemployment, female (% of female labor force) (modeled ILO estimate) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Unemployment, male (% of male labor force) (modeled ILO estimate) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+  ---- Unemployment, total (% of total labor force) (modeled ILO estimate) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+>Political Instability and Logistics Index:
+
+--- Political Stability and Absence of Violence/Terrorism:
+
+  ---- Political Stability and Absence of Violence/Terrorism: Estimate | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- fragile index:
+
+  ---- fragile index | (Data source: fragile state index, Access type: file, Auto update bool: True) | (Data source: WorldBank, Access type: API, Auto update bool: True)  
+
+--- Logistics Index:
+
+  ---- Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high) | (Data source: WorldBank, Access type: API, Auto update bool: True) 

@@ -1,0 +1,347 @@
+[
+  {
+    "country": "Côte d'Ivoire",
+    "programs": [
+      {
+        "2016": 646,
+        "2017": 9015,
+        "2018": 17818,
+        "2019": 17697,
+        "2020": 8142,
+        "2021": 18939,
+        "2022": 16536,
+        "project": "OSL",
+        "project type": "OCP CIV Projects",
+        "Total": 88793
+      },
+      {
+        "2016": 50,
+        "2019": 2000,
+        "2021": 500,
+        "2022": 1253,
+        "project": "AGRIBOOSTER",
+        "project type": "OCP CIV Projects",
+        "Total": 3803
+      },
+      {
+        "project": "FARMER HUBS - Farmers trained",
+        "project type": "OCP CIV Projects",
+        "Total": null
+      },
+      {
+        "project": "FARMER HUBS - Farmers supplied",
+        "project type": "OCP CIV Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program TV - General audience",
+        "project type": "OCP CIV Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program TV - Farmers audience (hypothesis)",
+        "project type": "OCP CIV Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program Radio - General audience",
+        "project type": "OCP CIV Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program Radio - Farmers audience (hypothesis)",
+        "project type": "OCP CIV Projects",
+        "Total": null
+      }
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "programs": [
+      {
+        "2019": 22132,
+        "2021": "41 093",
+        "2022": 63225,
+        "project": "OSL",
+        "project type": "Tanzania Projects",
+        "Total": 126450
+      },
+      {
+        "project": "AGRIBOOSTER",
+        "project type": "Tanzania Projects",
+        "Total": 0
+      },
+      {
+        "2022": 1150,
+        "project": "FARMER HUBS - Farmers trained",
+        "project type": "Tanzania Projects",
+        "Total": 1150
+      },
+      {
+        "2022": 2065,
+        "project": "FARMER HUBS - Farmers supplied",
+        "project type": "Tanzania Projects",
+        "Total": 2065
+      },
+      {
+        "project": "Media Program TV - General audience",
+        "project type": "Tanzania Projects",
+        "Total": 0
+      },
+      {
+        "project": "Media Program TV - Farmers audience (hypothesis)",
+        "project type": "Tanzania Projects",
+        "Total": 0
+      },
+      {
+        "2022": 275000,
+        "project": "Media Program Radio - General audience",
+        "project type": "Tanzania Projects",
+        "Total": null
+      },
+      {
+        "2019": 50000,
+        "2020": 100000,
+        "2021": 300000,
+        "2022": 600000,
+        "project": "Media Program Radio - Farmers audience (hypothesis)",
+        "project type": "Tanzania Projects",
+        "Total": 1050000
+      }
+    ]
+  },
+  {
+    "country": "Ghana",
+    "programs": [
+      {
+        "2018": 21325,
+        "2019": 55503,
+        "2020": 4613,
+        "2021": 27663,
+        "2022": 30440,
+        "project": "OSL",
+        "project type": "OCP Ghana Projects",
+        "Total": 139544
+      },
+      {
+        "2018": 11685,
+        "2019": 42605,
+        "2020": 73124,
+        "2021": 7500,
+        "2022": 30000,
+        "project": "AGRIBOOSTER",
+        "project type": "OCP Ghana Projects",
+        "Total": 164914
+      },
+      {
+        "project": "FARMER HUBS - Farmers trained",
+        "project type": "OCP Ghana Projects",
+        "Total": null
+      },
+      {
+        "project": "FARMER HUBS - Farmers supplied",
+        "project type": "OCP Ghana Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program TV - General audience",
+        "project type": "OCP Ghana Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program TV - Farmers audience (hypothesis)",
+        "project type": "OCP Ghana Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program Radio - General audience",
+        "project type": "OCP Ghana Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program Radio - Farmers audience (hypothesis)",
+        "project type": "OCP Ghana Projects",
+        "Total": null
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "programs": [
+      {
+        "2017": 2401,
+        "2018": 3094,
+        "2019": 733,
+        "2020": 12,
+        "2022": 17315,
+        "project": "OSL",
+        "project type": "OCP Kenya Projects",
+        "Total": 23555
+      },
+      {
+        "2017": 301,
+        "2022": 10612,
+        "project": "AGRIBOOSTER",
+        "project type": "OCP Kenya Projects",
+        "Total": 10913
+      },
+      {
+        "project": "FARMER HUBS - Farmers trained",
+        "project type": "OCP Kenya Projects",
+        "Total": null
+      },
+      {
+        "project": "FARMER HUBS - Farmers supplied",
+        "project type": "OCP Kenya Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program TV - General audience",
+        "project type": "OCP Kenya Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program TV - Farmers audience (hypothesis)",
+        "project type": "OCP Kenya Projects",
+        "Total": null
+      },
+      {
+        "2020": 700000,
+        "2021": 700000,
+        "2022": 700000,
+        "project": "Media Program Radio - General audience",
+        "project type": "OCP Kenya Projects",
+        "Total": null
+      },
+      {
+        "project": "Media Program Radio - Farmers audience (hypothesis)",
+        "project type": "OCP Kenya Projects",
+        "Total": null
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "programs": [
+      {
+        "2017": 10000,
+        "2018": 77500,
+        "2019": 146717,
+        "2020": 5531,
+        "project": "OSL",
+        "project type": "OCP Nigeria Projects",
+        "Total": 239748
+      },
+      {
+        "2017": 4600,
+        "2018": 40200,
+        "2019": 18704,
+        "2020": 150505,
+        "2021": 130000,
+        "2022": 180226,
+        "project": "AGRIBOOSTER",
+        "project type": "OCP Nigeria Projects",
+        "Total": 524235
+      },
+      {
+        "2021": 260000,
+        "2022": 210698,
+        "project": "FARMER HUBS - Farmers trained",
+        "project type": "OCP Nigeria Projects",
+        "Total": 470698
+      },
+      {
+        "2021": 415000,
+        "2022": 450707,
+        "project": "FARMER HUBS - Farmers supplied",
+        "project type": "OCP Nigeria Projects",
+        "Total": 865707
+      },
+      {
+        "2020": 50000000,
+        "2021": 35000000,
+        "2022": 38000000,
+        "project": "Media Program TV - General audience",
+        "project type": "OCP Nigeria Projects",
+        "Total": 123000000
+      },
+      {
+        "2020": 6357000,
+        "2021": 4850000,
+        "2022": 5300000,
+        "project": "Media Program TV - Farmers audience (hypothesis)",
+        "project type": "OCP Nigeria Projects",
+        "Total": 16507000
+      },
+      {
+        "2020": 28280280,
+        "2021": 37660000,
+        "2022": 44100000,
+        "project": "Media Program Radio - General audience",
+        "project type": "OCP Nigeria Projects",
+        "Total": 110040280
+      },
+      {
+        "2020": 4242042,
+        "2021": 5649000,
+        "2022": 6615000,
+        "project": "Media Program Radio - Farmers audience (hypothesis)",
+        "project type": "OCP Nigeria Projects",
+        "Total": 16506042
+      }
+    ]
+  },
+  {
+    "country": "Sénégal",
+    "programs": [
+      {
+        "2018": 4412,
+        "2019": 7833,
+        "2022": 8379,
+        "project": "OSL",
+        "project type": "OCP SNG Projects",
+        "Total": 20624
+      },
+      {
+        "2017": 40000,
+        "2018": 68000,
+        "2019": 106000,
+        "2020": 75000,
+        "2021": 106,
+        "project": "AGRIBOOSTER",
+        "project type": "OCP SNG Projects",
+        "Total": 289106
+      },
+      {
+        "project": "FARMER HUBS - Farmers trained",
+        "project type": "OCP SNG Projects",
+        "Total": 0
+      },
+      {
+        "project": "FARMER HUBS - Farmers supplied",
+        "project type": "OCP SNG Projects",
+        "Total": 0
+      },
+      {
+        "project": "Media Program TV - General audience",
+        "project type": "OCP SNG Projects",
+        "Total": 0
+      },
+      {
+        "project": "Media Program TV - Farmers audience (hypothesis)",
+        "project type": "OCP SNG Projects",
+        "Total": 0
+      },
+      {
+        "project": "Media Program Radio - General audience",
+        "project type": "OCP SNG Projects",
+        "Total": 0
+      },
+      {
+        "project": "Media Program Radio - Farmers audience (hypothesis)",
+        "project type": "OCP SNG Projects",
+        "Total": 0
+      }
+    ]
+  }
+]

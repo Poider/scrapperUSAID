@@ -40,6 +40,38 @@ async function writingJson(jsonizedPath, xlsxData) {
 }
 
 
+function getProductIncoterms(product) {
+	const productIncoterms = ["FOB", "CFR", "CIF", "EXW", "FCA", "DEL", "CPT", "FOT", "DAP"];
+	for (let i = 0; i < productIncoterms.length; i++) {
+		if (product.includes(productIncoterms[i])) {
+			return productIncoterms[i];
+		}
+	}
+}
+
+function splitProduct(productArray) {
+
+	productArray = productArray.map((product) => {
+		const productIncoterm = getProductIncoterms(product);
+		if (productIncoterm) {
+			
+			const productAlone = product.replace(productIncoterm, "").trim();
+			const incoterm = productIncoterm
+			return {
+				product : productAlone,
+				incoterm
+			};
+		} else {
+			console.log("no incoterm found for product: ", product)
+			return {
+				product: productAlone,
+				incoterm: null
+			};
+		}
+	})
+	return productArray
+}
+
 
 module.exports = async function premiumWeekParser(fileName, jsonizedPath, filePath) {
   const pageNum = 0;
@@ -66,12 +98,14 @@ module.exports = async function premiumWeekParser(fileName, jsonizedPath, filePa
 		avg = (parseFloat(avg.split("-")[0]) + parseFloat(avg.split("-")[1]))/2;
 		quarter = Math.ceil(month/3);
 		dateValuePairs.push({ price_date, avg });
-		// console.log(date)
 	  }
 	}
+	const product = splitProduct([originalObj["Product Group"]])[0];
+
 	return dateValuePairs.map((pair) => ({
-	  "product": originalObj["Product Group"],
-	  "spot": originalObj["Price Name"],
+	  "product": product.product.replace("- ",""),
+			"incoterm": product.incoterm,
+	  "index": originalObj["Price Name"],
 	  "year": year ? year : null,
 	  "month" : month ? month : null,
 	  "quarter": quarter ? quarter : null,
@@ -81,6 +115,7 @@ module.exports = async function premiumWeekParser(fileName, jsonizedPath, filePa
   });
 //   console.log(JSON.stringify(mappedArray,null,2));
 //   await writingJson(jsonizedPath, mappedArray);
+
   return mappedArray
 }
 

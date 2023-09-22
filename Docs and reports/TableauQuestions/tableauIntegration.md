@@ -5,20 +5,27 @@ ETL
 
 extraction -> transform +? (filtering for the last needed infos) -> loading data
 
+For these you make the choice that per file do we feed you the raw excel or the formatted jsons that transformed the excel to json through the scripts
 <Some files changes include :>
-	-files parsed from weird formats OR transformed into a certain format (CRU BCG)
-	-null check. > later will be handled by models (the vision)
-	-fields changed for others on certain versions -> (eg. quantite facturee reajustee)
-	-if negative FOB -> eliminate data row
+	-files parsed from weird formats OR transformed into a certain format (CRU/ BCG files)
+	-empty data filling > later will be handled by models (the vision)
+	-fields changed for others on certain versions -> (eg. quantite facturee reajustee -> use of quantite facturee on last version, FOB negative -> elimnate the data row, Djibouti renamed Ethiopia, if no montant fob given then calculate it through Prix * quantity)
+	-have one name for each product across all files (example P2O5 same as Phosphorus pentoxide elsewhere)
+	-for Prod_ file, units are 000 metric tons/year for urea and kt/y for phosphate
+	-fields can have different names per versions(Capitals, extra spaces)
 	-add subregion for each country
-	-added extra fields(project is operational or not,)
-	-data aggregation
-	-merge geolocations
-	-added indicating data such as units for values
-	-get bulk data show avg each year(doable in TAB)
-	> tough :
+	-added extra fields (project is operational or not (consider all plants as projects -may or may not be operational-), calculate avg from a string like "230 - 300")
+	-data aggregation (Cru Data / Premium week data)
+	-merge geolocations of companies with prod_ companie
 	-files may have different versions structures + fields names
-	-files need to update a dataset may differ for one dataset update
+	-files to update a dataset may differ between two structures
+	-lifemoz map data blended with the OSL/AGRIBOOSTERS... programs that are given on the excel attached to map data excel 
+	-save dates dd/mm/yyyy
+	-each file filtered for the data given in the json file structures
+
+
+
+
 	-its been requested by many persons we may wanna have models and such later for prediction and such from the data, will this be possible through tableau
 
 	-mr. jamali's vision: "« « outre le besoin de données et d’info Agri en Afrique et ce en temps réel – est aussi pour pouvoir centraliser une base de données regroupant notre Knowledge sur les fermiers Africains. Avouons qu’a date d’aujourd’hui, ce savoir-faire est éparpillé sur des laptops et des serveurs dans les 12 pays de présence + HQ. Je fais allusion à la data des OSL, Agribosster, Farmer Hub, Partenaires, et je passe) »
@@ -58,7 +65,7 @@ Sources internes :
 
 >update frequency
 imf:
-	IMF updated monthly or quarterly
+	IMF updated monthly / quarterly
 
 VIFA:
 	Market Prices: Updated weekly
@@ -70,3 +77,5 @@ files:
 	plants : annual
 	capacities : quarterly
 	CRU + premium : weekly
+	sales :? to be discussed with saad
+	bcg :? to be discussed with saad

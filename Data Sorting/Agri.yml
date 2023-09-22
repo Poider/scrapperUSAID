@@ -1,0 +1,94 @@
+<AGRICULTURE DATA>
+>Land Use Data:
+--- Overview:
+		---- Total Land Area (sq. km) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+		---- Rural Land Area (sq. km) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+		---- Urban Land Area (sq. km) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Agricultural Land:
+		---- Agricultural Land (sq. km) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+		---- Agricultural Land (% of land area) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Arable Land:
+		---- Arable Land (hectares) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+		---- Arable Land per Person (hectares) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+		---- Arable Land (% of land area) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Irrigated Agriculture:
+		---- Agricultural Irrigated Land (% of Total Agricultural Land) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Climate Data:
+		---- Average Precipitation (mm per year) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+
+--- Environmental Data:
+		---- Forest Area (% of Land Area) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+		---- Carbon Stock in Living Biomass | (Data source: Foastat, Access type: API, Auto update bool: True) 
+
+--- Share Data:
+		---- Share in Agricultural Land | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Share in Land Area | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Share in Forest Land | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Share in Cropland | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Area per Capita | (Data source: Foastat, Access type: API, Auto update bool: True) 
+
+>Crops Data:
+--- Crop Statistics:
+		---- Area Harvested per Crop (hectares) | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Yield per Crop (kg per hectare) | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Production Quantity per Crop | (Data source: Foastat, Access type: API, Auto update bool: True) 
+
+--- Production Index and Value:
+		---- Gross Production Index (2014-2016 = 100) | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Gross Production Value (current thousand US) | (Data source: Foastat, Access type: API, Auto update bool: True) 
+
+--- Cash and Staple Crops:
+		---- Main Cash Crops per Country | (to be calculated)
+		---- Main Staple Crops per Country | (to be calculated)
+
+--- Crops Calendar:
+		---- Main Crops Calendar per Country | (Data source: CropCalender, Access type: API, Auto update bool: True) 
+
+>Trade Profile:
+--- Imports and Exports of Agricultural Products per Year:
+		---- Import Value and Quantity | (Data source: Foastat, Access type: API, Auto update bool: True) 
+		---- Export Value and Quantity | (Data source: Foastat, Access type: API, Auto update bool: True) 
+
+--- Import Data:
+		---- Import Value and Quantity total | (Data source: Foastat, Access type: API, Auto update bool: True) (to be discussed)
+		---- Fertilizers Total Import Volumes by Country Over Time | (Data source: Vifa, Access type: API, Auto update bool: True)
+		---- Fertilizers Annual Import Volumes by Product | (Data source: Vifa, Access type: API, Auto update bool: True)
+
+--- Export Data:
+		---- Export Value and Quantity total | (Data source: Foastat, Access type: API, Auto update bool: True) (to be discussed)
+		---- Fertilizers Total Export Volumes by Country Over Time | (Data source: Vifa, Access type: API, Auto update bool: True)
+		---- Fertilizers Annual Export Volumes by Product | (Data source: Vifa, Access type: API, Auto update bool: True)
+
+--- Fertilizer Production:
+		---- Total Fertilizer Production Volumes by Country Over Time | (Data source: Vifa, Access type: API, Auto update bool: True)
+		---- Fertilizers Historical International Price Trends | (Data source: Vifa, Access type: API, Auto update bool: True)
+
+>Fertilizers:
+--- Fertilizer Consumption:
+		---- Fertilizer Consumption (kg per hectare of arable land) | (Data source: WorldBank, Access type: API, Auto update bool: True) 
+		---- Fertilizer Consumption by nutrient per country each year | (Data source: IfaStat, Access type: API, Auto update bool: True) 
+
+--- Country-wise Fertilizer Data:
+		---- Apparent Fertilizer Consumption by Country | (Data source: Vifa, Access type: API, Auto update bool: True)
+		---- National Average Fertilizer Consumption | (Data source: Vifa, Access type: API, Auto update bool: True)
+
+--- Nutrient Data:
+		---- Production Quantity by Nutrient | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Import Quantity by Nutrient | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Export Quantity by Nutrient | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Agricultural Use by Nutrient | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Use by Nutrient per Area of Cropland | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Use by Nutrient per Value of Agricultural Production | (Data source: Foastat, Access type: API, Auto update bool: True)
+
+--- Product Data:
+		---- Production Quantity by Fertilizer Product | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Import Quantity by Fertilizer Product | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Export Quantity by Fertilizer Product | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Import Value by Fertilizer Product | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Export Value by Fertilizer Product | (Data source: Foastat, Access type: API, Auto update bool: True)
+		---- Agricultural Use by Fertilizer Product | (Data source: Foastat, Access type: API, Auto update bool: True)
+

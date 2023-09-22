@@ -95,6 +95,23 @@ function getMapCountry()
 	return mapCountry[country]
 }
 
+
+
+const excelSerialNumberToJsDate = (serialNumber) => {
+	// Convert Excel serial number to JavaScript Date, accounting for Excel's incorrect leap year in 1900
+	const jsDate = new Date(Date.UTC(1900, 0, serialNumber - 1));
+	return jsDate;
+};
+
+const formatDate = (date) => {
+	const month = String(date.getMonth() + 1).padStart(2, '0'); // Month is zero-based
+	const day = String(date.getDate()).padStart(2, '0');
+	const year = date.getFullYear();
+
+	return `${day}/${month}/${year}`;
+};
+
+
 const mapParser = function (data, programData) {
 
 
@@ -110,13 +127,17 @@ const mapParser = function (data, programData) {
 			const split_ = item["Geolocalisation"].split(',')
 			item["longitude"] = parseFloat(split_[0])
 			item["latitude"] = parseFloat(split_[1])
+			delete	item["Geolocalisation"]
 		}
 		item['country'] = item['tag 1( country )']
 		delete item['tag 1( country )']
-
-		if (item['main _ entry'] === 'OCP OFFICE' && isMapDefinedCountry(item['country'])) {
-			item['programs data'] = programData.filter((program) => program.country === item['country'])[0]['programs']
+		if(item['date'])
+		{
+			item['date'] = formatDate(excelSerialNumberToJsDate(item['date']));
 		}
+		// if (item['main _ entry'] === 'OCP OFFICE' && isMapDefinedCountry(item['country'])) {
+		// 	item['programs data'] = programData.filter((program) => program.country === item['country'])[0]['programs']
+		// }
 	})
 
 	return data
@@ -207,12 +228,15 @@ async function main()
 	programData = parsePrograms(programData);
 
 	let mapData = await openSheet(workingDir, ['Carte interactive_Data _ LIFEMOZ _ OCPA.xlsx'])
-	mapData = mapParser(mapData, programData)
+	mapData = mapParser(mapData)
 	
 	const jsonizedPath = workingDir
 	const jsonFileName = 'mapData.json';
 	await writingJson(jsonizedPath, mapData, jsonFileName);
 
+	const jsonizedPath2 = workingDir
+	const jsonFileName2 = 'programData.json';
+	await writingJson(jsonizedPath2, programData, jsonFileName2);
 } 
 
 

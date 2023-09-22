@@ -1,0 +1,5986 @@
+[
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2000",
+    "value": 37.929027344944,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2001",
+    "value": 38.04514979746,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2002",
+    "value": 31.800667166907,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2003",
+    "value": 31.514111321867,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2004",
+    "value": 30.733469980326,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2005",
+    "value": 29.637125748503,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2006",
+    "value": 28.030116728567,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2007",
+    "value": 24.325986267238,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2008",
+    "value": 24.044821033293,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2009",
+    "value": 26.994637876853,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2010",
+    "value": 31.185362806088,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2011",
+    "value": 34.742040013261,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2012",
+    "value": 37.407879407299,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2013",
+    "value": 40.355903677554,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2014",
+    "value": 43.253384900794,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2015",
+    "value": 45.195466062311,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2016",
+    "value": 47.134049296625,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2017",
+    "value": 48.588207887415,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2018",
+    "value": 51.676753399481,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2019",
+    "value": 56.216678408847,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2020",
+    "value": 68.999567385939,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "South Africa",
+    "country code": "ZAF",
+    "year": "2021",
+    "value": 68.978426634684,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2000",
+    "value": 58.174820290483,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2001",
+    "value": 58.106670327373,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2002",
+    "value": 63.733888001377,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2003",
+    "value": 66.324068027311,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2004",
+    "value": 65.349381556526,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2005",
+    "value": 60.360725068143,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2006",
+    "value": 58.392513852315,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2007",
+    "value": 56.684607262627,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2008",
+    "value": 59.308789228755,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2009",
+    "value": 29.555120813628,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2010",
+    "value": 27.905700762133,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2011",
+    "value": 25.702200938828,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2012",
+    "value": 25.069528884886,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2013",
+    "value": 24.592881609674,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2014",
+    "value": 26.928684482816,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2015",
+    "value": 40.26048497776,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2016",
+    "value": 45.923306278851,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2017",
+    "value": 47.989780859979,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2018",
+    "value": 48.09402012068,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2019",
+    "value": 42.041481462481,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2020",
+    "value": 43.994110173556,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Djibouti",
+    "country code": "DJI",
+    "year": "2021",
+    "value": 45.952509050472,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2000",
+    "value": 57.960343475203,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2001",
+    "value": 54.267335998675,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2002",
+    "value": 51.276329764747,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2003",
+    "value": 41.38895109571,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2004",
+    "value": 35.210855476411,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2005",
+    "value": 26.311384665432,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2006",
+    "value": 23.635619868682,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2007",
+    "value": 13.505943268977,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2008",
+    "value": 8.0564280246558,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2009",
+    "value": 9.7747363734421,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2010",
+    "value": 10.491601103391,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2011",
+    "value": 9.2543048817602,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2012",
+    "value": 9.3256582889152,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2013",
+    "value": 7.0935111316869,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2014",
+    "value": 7.6583201459202,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2015",
+    "value": 8.7333137124338,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2016",
+    "value": 20.438286858175,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2017",
+    "value": 26.80830308742,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2018",
+    "value": 38.256150760653,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2019",
+    "value": 46.044366164889,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2020",
+    "value": 52.272700197983,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Algeria",
+    "country code": "DZA",
+    "year": "2021",
+    "value": 62.986813544857,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2000",
+    "value": 133.91413964311,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2001",
+    "value": 113.50458385052,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2002",
+    "value": 73.736175031322,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2003",
+    "value": 57.967839676148,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2004",
+    "value": 47.717067303095,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2005",
+    "value": 33.464041827688,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2006",
+    "value": 18.728790332818,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2007",
+    "value": 21.043494453754,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2008",
+    "value": 31.378232429784,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2009",
+    "value": 56.302246947395,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2010",
+    "value": 37.162840249101,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2011",
+    "value": 29.557715017954,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2012",
+    "value": 26.690559676904,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2013",
+    "value": 33.149103637934,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2014",
+    "value": 39.809856914509,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2015",
+    "value": 57.093048224126,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2016",
+    "value": 75.662637315019,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2017",
+    "value": 69.322867576341,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2018",
+    "value": 92.995001210986,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2019",
+    "value": 113.55417481024,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2020",
+    "value": 136.54012460194,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Angola",
+    "country code": "AGO",
+    "year": "2021",
+    "value": 86.41135997692,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2000",
+    "value": 136.42511263317,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2001",
+    "value": 127.38666821657,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2002",
+    "value": 159.08831200243,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2003",
+    "value": 171.96925903371,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2004",
+    "value": 172.73833599619,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2005",
+    "value": 136.98011885017,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2006",
+    "value": 130.25485052294,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2007",
+    "value": 129.61324563072,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2008",
+    "value": 102.51523319493,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2009",
+    "value": 25.69016304384,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2010",
+    "value": 46.911653246244,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2011",
+    "value": 42.705709625251,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2012",
+    "value": 41.430491719948,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2013",
+    "value": 37.857602209011,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2014",
+    "value": 37.970668784393,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2015",
+    "value": 39.925975033306,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2016",
+    "value": 46.1190152423,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2017",
+    "value": 46.902245700643,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2018",
+    "value": 52.970868532438,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2019",
+    "value": 59.987766458943,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2020",
+    "value": 65.965215548524,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burundi",
+    "country code": "BDI",
+    "year": "2021",
+    "value": 66.564673740583,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2000",
+    "value": 82.636759116276,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2001",
+    "value": 79.91384199741,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2002",
+    "value": 82.548421524612,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2003",
+    "value": 81.358894707512,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2004",
+    "value": 83.744572527364,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2005",
+    "value": 85.338578611195,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2006",
+    "value": 77.726919550138,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2007",
+    "value": 64.980957627489,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2008",
+    "value": 63.01368818024,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2009",
+    "value": 64.141831299108,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2010",
+    "value": 72.545521366606,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2011",
+    "value": 78.497220512989,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2012",
+    "value": 91.092430905483,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2013",
+    "value": 102.48987736719,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2014",
+    "value": 115.92351764373,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2015",
+    "value": 126.64855886547,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2016",
+    "value": 128.36478244701,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2017",
+    "value": 127.2168690317,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2018",
+    "value": 114.59005852666,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2019",
+    "value": 113.97957836874,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2020",
+    "value": 145.12645014342,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Cabo Verde",
+    "country code": "CPV",
+    "year": "2021",
+    "value": 142.29811567706,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2000",
+    "value": 94.679123741002,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2001",
+    "value": 103.11494936512,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2002",
+    "value": 98.518256018085,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2003",
+    "value": 95.886290375751,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2004",
+    "value": 99.723518468342,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2005",
+    "value": 102.96240651907,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2006",
+    "value": 46.749964238847,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2007",
+    "value": 47.850796417459,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2008",
+    "value": 35.765994440155,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2009",
+    "value": 20.300304299836,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2010",
+    "value": 19.883381103996,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2011",
+    "value": 19.686290661714,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2012",
+    "value": 31.532794771376,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2013",
+    "value": 51.78958752459,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2014",
+    "value": 62.239950923879,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2015",
+    "value": 59.790414103328,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2016",
+    "value": 53.887300203912,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2017",
+    "value": 50.274732731359,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2018",
+    "value": 50.045782988705,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2019",
+    "value": 47.146882726535,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2020",
+    "value": 43.421945613848,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Central African Republic",
+    "country code": "CAF",
+    "year": "2021",
+    "value": 47.613006776836,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2000",
+    "value": 60.818169156691,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2001",
+    "value": 53.046257194608,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2002",
+    "value": 48.23870377658,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2003",
+    "value": 44.497791121249,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2004",
+    "value": 42.446460332332,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2005",
+    "value": 39.864599666025,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2006",
+    "value": 38.478976932329,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2007",
+    "value": 35.615571167923,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2008",
+    "value": 33.217032117407,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2009",
+    "value": 31.729574093374,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2010",
+    "value": 30.458621703529,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2011",
+    "value": 27.668202887281,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2012",
+    "value": 25.073159817549,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2013",
+    "value": 10.277146162748,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2014",
+    "value": 11.858476393201,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2015",
+    "value": 14.27471077844,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2016",
+    "value": 15.484815743509,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2017",
+    "value": 18.805400515116,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2018",
+    "value": 16.89524522896,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2019",
+    "value": 21.736869723271,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2020",
+    "value": 24.01638852116,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Comoros",
+    "country code": "COM",
+    "year": "2021",
+    "value": 25.998639904363,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2000",
+    "value": 145.01978857926,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2001",
+    "value": 180.08247420129,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2002",
+    "value": 163.51317107024,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2003",
+    "value": 185.30958070114,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2004",
+    "value": 122.59107500688,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2005",
+    "value": 99.751538292832,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2006",
+    "value": 94.724866820268,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2007",
+    "value": 93.757445437013,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2008",
+    "value": 69.598021501858,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2009",
+    "value": 83.835524523284,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2010",
+    "value": 43.48701020938,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2011",
+    "value": 34.389938001294,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2012",
+    "value": 30.19758087963,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2013",
+    "value": 33.939154112504,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2014",
+    "value": 42.325412604251,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2015",
+    "value": 74.190157136392,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2016",
+    "value": 91.047749858886,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2017",
+    "value": 94.224079160546,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2018",
+    "value": 77.134365064357,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2019",
+    "value": 84.804770774495,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2020",
+    "value": 113.98073361032,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Congo, Republic of",
+    "country code": "COG",
+    "year": "2021",
+    "value": 103.63939583383,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2000",
+    "value": 39.591941137866,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2001",
+    "value": 37.986511179043,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2002",
+    "value": 30.768041757581,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2003",
+    "value": 23.38085204229,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2004",
+    "value": 21.50953025393,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2005",
+    "value": 26.978138976202,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2006",
+    "value": 8.3661222980857,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2007",
+    "value": 14.285903708878,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2008",
+    "value": 18.306655524937,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2009",
+    "value": 18.747680497192,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2010",
+    "value": 20.9997650919,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2011",
+    "value": 21.860410541195,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2012",
+    "value": 19.540206385867,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2013",
+    "value": 18.503745998756,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2014",
+    "value": 22.28207466242,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2015",
+    "value": 30.900229829608,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2016",
+    "value": 35.923349756934,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2017",
+    "value": 39.598463159297,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2018",
+    "value": 41.080350699003,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2019",
+    "value": 41.229642352025,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2020",
+    "value": 46.142076683369,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Benin",
+    "country code": "BEN",
+    "year": "2021",
+    "value": 49.937150020194,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2000",
+    "value": 36.627469128777,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2001",
+    "value": 25.47707495608,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2002",
+    "value": 19.446711319163,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2003",
+    "value": 6.713131676531,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2004",
+    "value": 4.5259437691645,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2005",
+    "value": 2.8488714655734,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2006",
+    "value": 1.2201328308808,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2007",
+    "value": 0.75386535987232,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2008",
+    "value": 0.48808586643144,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2009",
+    "value": 4.3369923355158,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2010",
+    "value": 7.8941110933531,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2011",
+    "value": 7.1704248620746,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2012",
+    "value": 7.097239617632,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2013",
+    "value": 6.272055301055,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2014",
+    "value": 12.559933266623,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2015",
+    "value": 31.65670295637,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2016",
+    "value": 41.139413823731,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2017",
+    "value": 36.235134309411,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2018",
+    "value": 41.207373311337,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2019",
+    "value": 43.189554287458,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2020",
+    "value": 48.38161775405,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Equatorial Guinea",
+    "country code": "GNQ",
+    "year": "2021",
+    "value": 42.804695883666,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2000",
+    "value": 93.632600639422,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2001",
+    "value": 97.324757533795,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2002",
+    "value": 107.36277591799,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2003",
+    "value": 103.69072778226,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2004",
+    "value": 103.10411256361,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2005",
+    "value": 78.238784528046,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2006",
+    "value": 67.536614253847,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2007",
+    "value": 39.312239207655,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2008",
+    "value": 32.251020616633,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2009",
+    "value": 29.960088074848,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2010",
+    "value": 38.853432580968,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2011",
+    "value": 44.564936065501,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2012",
+    "value": 39.358315379899,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2013",
+    "value": 44.103874620381,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2014",
+    "value": 44.152450314709,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2015",
+    "value": 50.743119629039,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2016",
+    "value": 51.803215481394,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2017",
+    "value": 55.278047932953,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2018",
+    "value": 58.448870837283,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2019",
+    "value": 54.698545244413,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2020",
+    "value": 53.697092993312,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ethiopia",
+    "country code": "ETH",
+    "year": "2021",
+    "value": 52.949518926692,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2000",
+    "value": 72.496906968281,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2001",
+    "value": 80.979437220889,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2002",
+    "value": 81.070061566458,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2003",
+    "value": 70.241028629574,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2004",
+    "value": 60.301268604652,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2005",
+    "value": 49.32633867852,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2006",
+    "value": 39.597814859834,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2007",
+    "value": 39.237099439497,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2008",
+    "value": 20.053191514484,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2009",
+    "value": 25.991748986075,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2010",
+    "value": 21.295213395541,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2011",
+    "value": 21.424997268711,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2012",
+    "value": 21.442436249268,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2013",
+    "value": 31.112810728679,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2014",
+    "value": 34.062797546339,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2015",
+    "value": 44.703209601973,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2016",
+    "value": 64.198722406032,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2017",
+    "value": 62.885535970695,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2018",
+    "value": 60.913970115325,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2019",
+    "value": 59.778549887745,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2020",
+    "value": 78.281767314033,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Gabon",
+    "country code": "GAB",
+    "year": "2021",
+    "value": 65.771360787738,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2000",
+    "value": 80.170388631254,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2001",
+    "value": 61.919483014489,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2002",
+    "value": 57.959884866205,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2003",
+    "value": 52.847284866252,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2004",
+    "value": 41.107362264218,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2005",
+    "value": 33.992589980644,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2006",
+    "value": 18.508803654865,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2007",
+    "value": 22.548597217209,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2008",
+    "value": 24.64368031378,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2009",
+    "value": 26.7916831776,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2010",
+    "value": 34.507105533022,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2011",
+    "value": 31.264325246444,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2012",
+    "value": 35.351356103311,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2013",
+    "value": 42.930086715004,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2014",
+    "value": 50.110816820841,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2015",
+    "value": 53.89573814156,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2016",
+    "value": 55.942374191073,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2017",
+    "value": 56.983904818603,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2018",
+    "value": 61.976162480821,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2019",
+    "value": 62.694206239864,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2020",
+    "value": 79.063193800378,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Ghana",
+    "country code": "GHA",
+    "year": "2021",
+    "value": 82.124059623639,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2000",
+    "value": 217.13859593903,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2001",
+    "value": 204.44157456366,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2002",
+    "value": 197.47118148911,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2003",
+    "value": 183.38435970626,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2004",
+    "value": 201.95932454981,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2005",
+    "value": 203.65142425348,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2006",
+    "value": 190.40658846315,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2007",
+    "value": 163.97031777202,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2008",
+    "value": 148.81517130344,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2009",
+    "value": 148.25820535728,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2010",
+    "value": 61.725944942274,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2011",
+    "value": 44.826113963279,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2012",
+    "value": 46.581165391844,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2013",
+    "value": 48.856022864878,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2014",
+    "value": 58.442837677037,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2015",
+    "value": 54.872483481162,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2016",
+    "value": 57.709109606125,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2017",
+    "value": 50.660544441368,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2018",
+    "value": 57.933837253782,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2019",
+    "value": 63.989348784849,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2020",
+    "value": 76.514323205092,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea-Bissau",
+    "country code": "GNB",
+    "year": "2021",
+    "value": 78.521567720787,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2000",
+    "value": 91.491823695584,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2001",
+    "value": 90.436484195784,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2002",
+    "value": 82.610227888134,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2003",
+    "value": 81.572275946962,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2004",
+    "value": 86.866168176002,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2005",
+    "value": 97.915279991438,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2006",
+    "value": 95.22179807227,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2007",
+    "value": 60.800095610261,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2008",
+    "value": 58.463416827773,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2009",
+    "value": 61.306074557169,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2010",
+    "value": 68.853016499212,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2011",
+    "value": 58.082232679901,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2012",
+    "value": 27.185401119667,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2013",
+    "value": 33.96696209067,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2014",
+    "value": 35.158097783471,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2015",
+    "value": 44.389274835828,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2016",
+    "value": 43.009276160202,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2017",
+    "value": 41.883957418653,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2018",
+    "value": 39.266744138577,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2019",
+    "value": 38.575854048103,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2020",
+    "value": 47.492483115472,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Guinea",
+    "country code": "GIN",
+    "year": "2021",
+    "value": 42.542560126888,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2000",
+    "value": 73.987131392368,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2001",
+    "value": 71.172105907676,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2002",
+    "value": 62.982052676787,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2003",
+    "value": 56.381244064962,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2004",
+    "value": 56.718035639454,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2005",
+    "value": 58.164366715332,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2006",
+    "value": 57.471032601705,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2007",
+    "value": 53.532966556688,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2008",
+    "value": 51.240256220621,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2009",
+    "value": 46.475895393679,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2010",
+    "value": 45.612146648708,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2011",
+    "value": 50.02883473336,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2012",
+    "value": 24.693005725905,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2013",
+    "value": 24.623856058322,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2014",
+    "value": 26.710174828617,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2015",
+    "value": 29.172198260047,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2016",
+    "value": 31.405612266167,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2017",
+    "value": 33.179224443591,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2018",
+    "value": 35.627645931935,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2019",
+    "value": 38.387619297199,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2020",
+    "value": 47.583268114413,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Côte d'Ivoire",
+    "country code": "CIV",
+    "year": "2021",
+    "value": 52.135781281653,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2000",
+    "value": 43.121135110346,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2001",
+    "value": 41.275525014833,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2002",
+    "value": 42.009619735803,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2003",
+    "value": 43.791642303798,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2004",
+    "value": 40.753994678399,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2005",
+    "value": 37.411179761537,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2006",
+    "value": 37.065220438539,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2007",
+    "value": 34.194516270066,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2008",
+    "value": 34.253918708537,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2009",
+    "value": 35.960598804636,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2010",
+    "value": 36.694669523231,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2011",
+    "value": 35.687277455768,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2012",
+    "value": 37.616242683604,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2013",
+    "value": 39.755672969235,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2014",
+    "value": 41.281030911422,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2015",
+    "value": 45.831722112779,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2016",
+    "value": 50.39855126667,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2017",
+    "value": 53.86556916794,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2018",
+    "value": 56.448928388832,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2019",
+    "value": 59.084645746665,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2020",
+    "value": 67.952625168976,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Kenya",
+    "country code": "KEN",
+    "year": "2021",
+    "value": 67.83437497572,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2000",
+    "value": 95.307612622391,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2001",
+    "value": 118.76415827984,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2002",
+    "value": 87.933653703628,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2003",
+    "value": 59.003971779016,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2004",
+    "value": 52.4768422985,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2005",
+    "value": 56.760517669909,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2006",
+    "value": 58.948094012114,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2007",
+    "value": 54.782707909511,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2008",
+    "value": 47.655201392334,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2009",
+    "value": 36.488239610075,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2010",
+    "value": 34.094875873169,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2011",
+    "value": 36.442841330522,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2012",
+    "value": 39.847623320143,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2013",
+    "value": 41.192818152985,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2014",
+    "value": 41.504439471062,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2015",
+    "value": 45.73929821202,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2016",
+    "value": 40.593938640618,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2017",
+    "value": 40.037799365425,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2018",
+    "value": 49.039887070522,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2019",
+    "value": 50.457894249936,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2020",
+    "value": 54.190349177094,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Lesotho",
+    "country code": "LSO",
+    "year": "2021",
+    "value": 53.517865037351,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2000",
+    "value": 90.211596909919,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2001",
+    "value": 82.143741612212,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2002",
+    "value": 86.692758907405,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2003",
+    "value": 85.861909204365,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2004",
+    "value": 81.895638133768,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2005",
+    "value": 74.366379688999,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2006",
+    "value": 32.226284822058,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2007",
+    "value": 28.210230764474,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2008",
+    "value": 31.010103804453,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2009",
+    "value": 34.856574201082,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2010",
+    "value": 32.341353420129,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2011",
+    "value": 29.94680517173,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2012",
+    "value": 30.435145606161,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2013",
+    "value": 36.242923590014,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2014",
+    "value": 37.848493933256,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2015",
+    "value": 44.062298751657,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2016",
+    "value": 40.280765628954,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2017",
+    "value": 40.135992613962,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2018",
+    "value": 42.892784412323,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2019",
+    "value": 40.616381318379,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2020",
+    "value": 50.82318487041,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Madagascar",
+    "country code": "MDG",
+    "year": "2021",
+    "value": 53.127950300054,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2000",
+    "value": 64.859670670873,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2001",
+    "value": 60.435034026168,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2002",
+    "value": 59.371928557484,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2003",
+    "value": 56.929101895914,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2004",
+    "value": 54.431353048404,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2005",
+    "value": 54.767397039153,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2006",
+    "value": 50.642177361207,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2007",
+    "value": 47.065960755873,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2008",
+    "value": 41.990590622717,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2009",
+    "value": 42.622011399466,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2010",
+    "value": 45.275498831905,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2011",
+    "value": 48.554826894247,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2012",
+    "value": 52.282039779583,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2013",
+    "value": 57.076091784363,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2014",
+    "value": 58.563928048617,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2015",
+    "value": 58.394295991444,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2016",
+    "value": 60.07555318762,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2017",
+    "value": 60.257899982157,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2018",
+    "value": 60.464409987308,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2019",
+    "value": 60.270471255876,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2020",
+    "value": 72.248201392028,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Morocco",
+    "country code": "MAR",
+    "year": "2021",
+    "value": 68.940329586638,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2000",
+    "value": 82.104464269057,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2001",
+    "value": 73.982285155939,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2002",
+    "value": 69.035392462853,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2003",
+    "value": 60.603838838512,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2004",
+    "value": 55.049797513478,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2005",
+    "value": 49.460224949765,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2006",
+    "value": 18.282810905366,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2007",
+    "value": 17.830294638743,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2008",
+    "value": 14.170102907207,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2009",
+    "value": 15.936061801391,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2010",
+    "value": 15.078104215781,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2011",
+    "value": 14.746720095678,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2012",
+    "value": 18.129659746734,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2013",
+    "value": 19.55442182608,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2014",
+    "value": 22.085880261959,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2015",
+    "value": 29.870102999419,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2016",
+    "value": 32.826826585492,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2017",
+    "value": 36.494147202227,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2018",
+    "value": 39.418234292161,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2019",
+    "value": 39.802470907207,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2020",
+    "value": 44.991131411094,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Niger",
+    "country code": "NER",
+    "year": "2021",
+    "value": 51.213934857538,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2000",
+    "value": 57.600391574831,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2001",
+    "value": 53.096503738354,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2002",
+    "value": 43.265691139808,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2003",
+    "value": 42.085122452412,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2004",
+    "value": 35.488000549977,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2005",
+    "value": 18.94016669247,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2006",
+    "value": 9.4041212714412,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2007",
+    "value": 8.1163308195542,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2008",
+    "value": 7.2761080730651,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2009",
+    "value": 8.6172317553584,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2010",
+    "value": 9.3930647444986,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2011",
+    "value": 17.430772177635,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2012",
+    "value": 17.576814989962,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2013",
+    "value": 18.289296548191,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2014",
+    "value": 17.54075038175,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2015",
+    "value": 20.328343060899,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2016",
+    "value": 23.410089471741,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2017",
+    "value": 25.340443585947,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2018",
+    "value": 27.689268351014,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2019",
+    "value": 29.170477775511,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2020",
+    "value": 34.485944845059,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Nigeria",
+    "country code": "NGA",
+    "year": "2021",
+    "value": 36.628110187616,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2000",
+    "value": 85.9906489247,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2001",
+    "value": 84.021289593553,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2002",
+    "value": 92.125536901104,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2003",
+    "value": 79.604202043516,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2004",
+    "value": 80.942805995627,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2005",
+    "value": 58.973367276284,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2006",
+    "value": 22.504117994539,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2007",
+    "value": 22.107866067416,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2008",
+    "value": 18.292860120099,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2009",
+    "value": 18.501835568104,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2010",
+    "value": 18.820830485516,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2011",
+    "value": 18.725402738538,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2012",
+    "value": 19.0943875331,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2013",
+    "value": 26.080525341768,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2014",
+    "value": 28.323370825126,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2015",
+    "value": 32.388615443164,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2016",
+    "value": 36.562695044072,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2017",
+    "value": 41.316542590448,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2018",
+    "value": 44.925794894524,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2019",
+    "value": 49.821746766219,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2020",
+    "value": 65.572390254573,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Rwanda",
+    "country code": "RWA",
+    "year": "2021",
+    "value": 66.575018525483,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2000",
+    "value": 177.83716871585,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2001",
+    "value": 199.78682490796,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2002",
+    "value": 195.85987709162,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2003",
+    "value": 176.9749249962,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2004",
+    "value": 163.22582887427,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2005",
+    "value": 144.06428007804,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2006",
+    "value": 135.0705392577,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2007",
+    "value": 143.99718222556,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2008",
+    "value": 192.10236453853,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2009",
+    "value": 106.12531498913,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2010",
+    "value": 82.223527406303,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2011",
+    "value": 82.50838387285,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2012",
+    "value": 80.069259863269,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2013",
+    "value": 68.198972487836,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2014",
+    "value": 70.394256414458,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2015",
+    "value": 65.321696552063,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2016",
+    "value": 66.144971885841,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2017",
+    "value": 60.338881466582,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2018",
+    "value": 55.910253821273,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2019",
+    "value": 54.204985131862,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2020",
+    "value": 84.844849755284,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Seychelles",
+    "country code": "SYC",
+    "year": "2021",
+    "value": 72.850867679611,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2000",
+    "value": 57.514005598167,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2001",
+    "value": 53.208810699624,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2002",
+    "value": 51.992867700685,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2003",
+    "value": 42.883334410747,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2004",
+    "value": 37.998537897271,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2005",
+    "value": 36.12993508633,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2006",
+    "value": 17.486672644818,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2007",
+    "value": 18.962781860169,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2008",
+    "value": 19.073493265386,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2009",
+    "value": 29.937417938082,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2010",
+    "value": 34.600370627104,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2011",
+    "value": 32.87723618719,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2012",
+    "value": 34.488830523707,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2013",
+    "value": 36.860469302141,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2014",
+    "value": 42.36570882331,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2015",
+    "value": 44.508725715967,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2016",
+    "value": 47.523587403163,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2017",
+    "value": 61.139421725954,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2018",
+    "value": 61.522878835025,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2019",
+    "value": 63.575252481217,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2020",
+    "value": 69.165524495678,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Senegal",
+    "country code": "SEN",
+    "year": "2021",
+    "value": 73.157298346681,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2000",
+    "value": 20.858847820029,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2001",
+    "value": 24.393218251845,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2002",
+    "value": 22.187357804431,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2003",
+    "value": 27.145725008288,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2004",
+    "value": 29.179189687017,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2005",
+    "value": 26.897434111685,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2006",
+    "value": 26.135575492568,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2007",
+    "value": 19.364143410898,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2008",
+    "value": 19.096994938777,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2009",
+    "value": 15.850734372539,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2010",
+    "value": 16.32815921353,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2011",
+    "value": 27.449614810138,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2012",
+    "value": 24.627843229164,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2013",
+    "value": 26.113411365718,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2014",
+    "value": 27.571620017076,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2015",
+    "value": 42.090020835837,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2016",
+    "value": 45.832943493928,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2017",
+    "value": 43.829307832087,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2018",
+    "value": 50.401306503783,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2019",
+    "value": 59.365722279435,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2020",
+    "value": 66.609286799002,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Namibia",
+    "country code": "NAM",
+    "year": "2021",
+    "value": 71.956597817807,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2000",
+    "value": 143.24842034769,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2001",
+    "value": 125.58747112976,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2002",
+    "value": 121.71974932783,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2003",
+    "value": 117.35314694913,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2004",
+    "value": 97.80407083787,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2005",
+    "value": 75.477386461657,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2006",
+    "value": 63.706289691639,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2007",
+    "value": 53.691937469759,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2008",
+    "value": 55.756401213479,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2009",
+    "value": 70.994946236724,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2010",
+    "value": 74.56790681075,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2011",
+    "value": 78.11317292346,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2012",
+    "value": 117.67133257895,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2013",
+    "value": 105.75245753949,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2014",
+    "value": 84.425689235843,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2015",
+    "value": 93.19596519768,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2016",
+    "value": 109.92954521162,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2017",
+    "value": 149.53924750696,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2018",
+    "value": 186.74138319869,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2019",
+    "value": 200.34850432888,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2020",
+    "value": 263.37199159938,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Sudan",
+    "country code": "SDN",
+    "year": "2021",
+    "value": 181.9735785295,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2000",
+    "value": 18.158978350538,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2001",
+    "value": 21.756792799498,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2002",
+    "value": 17.136829374784,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2003",
+    "value": 17.481577286373,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2004",
+    "value": 15.028105460573,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2005",
+    "value": 13.500561697049,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2006",
+    "value": 14.589631958015,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2007",
+    "value": 16.11945258032,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2008",
+    "value": 14.595777394471,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2009",
+    "value": 10.486661196396,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2010",
+    "value": 14.095744164969,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2011",
+    "value": 14.685336860971,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2012",
+    "value": 14.76513435565,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2013",
+    "value": 15.005923168508,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2014",
+    "value": 14.133288926615,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2015",
+    "value": 19.654994999524,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2016",
+    "value": 25.149370174607,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2017",
+    "value": 27.990795281175,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2018",
+    "value": 34.300988913102,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2019",
+    "value": 39.608650787963,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2020",
+    "value": 42.113956649913,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Eswatini",
+    "country code": "SWZ",
+    "year": "2021",
+    "value": 45.823085908545,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2000",
+    "value": 55.359557452215,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2001",
+    "value": 50.770359232016,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2002",
+    "value": 47.371422684064,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2003",
+    "value": 44.375817667182,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2004",
+    "value": 44.521628331148,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2005",
+    "value": 46.091349963426,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2006",
+    "value": 34.461763895143,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2007",
+    "value": 23.76066745395,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2008",
+    "value": 21.743395035192,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2009",
+    "value": 24.013394449348,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2010",
+    "value": 27.553300352752,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2011",
+    "value": 28.382779172571,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2012",
+    "value": 30.045560479525,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2013",
+    "value": 32.720707658983,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2014",
+    "value": 36.088948434225,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2015",
+    "value": 39.211816423292,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2016",
+    "value": 39.797162333374,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2017",
+    "value": 40.732408277801,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2018",
+    "value": 40.543778151441,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2019",
+    "value": 39.035801444381,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2020",
+    "value": 40.527880171178,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tanzania",
+    "country code": "TZA",
+    "year": "2021",
+    "value": 40.670814390801,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2000",
+    "value": 66.490342481379,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2001",
+    "value": 68.489939047119,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2002",
+    "value": 54.835266957153,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2003",
+    "value": 49.977809989835,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2004",
+    "value": 48.703817367637,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2005",
+    "value": 63.082628551479,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2006",
+    "value": 67.744370276738,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2007",
+    "value": 73.801718908348,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2008",
+    "value": 68.734943504208,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2009",
+    "value": 59.710475221948,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2010",
+    "value": 34.321220313598,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2011",
+    "value": 35.090412458624,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2012",
+    "value": 35.57858958453,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2013",
+    "value": 42.418392970939,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2014",
+    "value": 46.46192644772,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2015",
+    "value": 53.308092543822,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2016",
+    "value": 60.145889099208,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2017",
+    "value": 56.609123255165,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2018",
+    "value": 57.004161185944,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2019",
+    "value": 52.352318759757,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2020",
+    "value": 60.280264001606,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Togo",
+    "country code": "TGO",
+    "year": "2021",
+    "value": 63.745264103739,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2000",
+    "value": 62.859369489399,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2001",
+    "value": 52.155055224269,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2002",
+    "value": 51.625206570368,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2003",
+    "value": 52.556324254975,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2004",
+    "value": 51.577536679993,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2005",
+    "value": 49.976617967523,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2006",
+    "value": 45.715139972816,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2007",
+    "value": 42.704381630427,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2008",
+    "value": 45.0534974861,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2009",
+    "value": 44.470721017548,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2010",
+    "value": 43.359989487618,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2011",
+    "value": 46.969845628407,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2012",
+    "value": 51.780182497876,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2013",
+    "value": 46.745042570193,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2014",
+    "value": 50.736851420707,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2015",
+    "value": 55.18344061388,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2016",
+    "value": 60.454181851814,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2017",
+    "value": 69.126468457442,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2018",
+    "value": 74.779294409865,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2019",
+    "value": 69.018343306461,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2020",
+    "value": 82.849219556378,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Tunisia",
+    "country code": "TUN",
+    "year": "2021",
+    "value": 81.785450938599,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2000",
+    "value": 48.544649883964,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2001",
+    "value": 51.352311882595,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2002",
+    "value": 54.710964246342,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2003",
+    "value": 55.139356748195,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2004",
+    "value": 48.966019727706,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2005",
+    "value": 42.562786573278,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2006",
+    "value": 27.758012766985,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2007",
+    "value": 16.975573166917,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2008",
+    "value": 15.653838207214,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2009",
+    "value": 14.792812215973,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2010",
+    "value": 18.354946015431,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2011",
+    "value": 17.95944248464,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2012",
+    "value": 19.491385074463,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2013",
+    "value": 22.079782246602,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2014",
+    "value": 24.767852008191,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2015",
+    "value": 28.459869863846,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2016",
+    "value": 30.996583941783,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2017",
+    "value": 33.633817722501,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2018",
+    "value": 34.945344443767,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2019",
+    "value": 37.640879992618,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2020",
+    "value": 46.31868143016,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Uganda",
+    "country code": "UGA",
+    "year": "2021",
+    "value": 51.763298597484,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2000",
+    "value": 47.479992649552,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2001",
+    "value": 46.627029621494,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2002",
+    "value": 43.286941945784,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2003",
+    "value": 39.673686910507,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2004",
+    "value": 40.740452989043,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2005",
+    "value": 39.214346303648,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2006",
+    "value": 20.088439961947,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2007",
+    "value": 22.814501949606,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2008",
+    "value": 23.030984877825,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2009",
+    "value": 25.871200796043,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2010",
+    "value": 27.763865389481,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2011",
+    "value": 22.465936833909,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2012",
+    "value": 23.221972026854,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2013",
+    "value": 23.784600332732,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2014",
+    "value": 24.877881882946,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2015",
+    "value": 31.112331090244,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2016",
+    "value": 33.429417634379,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2017",
+    "value": 33.33523077349,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2018",
+    "value": 37.805634044555,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2019",
+    "value": 42.538955382212,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2020",
+    "value": 46.369799514576,
+    "unit": "% of GDP"
+  },
+  {
+    "indicator": "Gross public debt, percent of GDP",
+    "country": "Burkina Faso",
+    "country code": "BFA",
+    "year": "2021",
+    "value": 52.3690856244,
+    "unit": "% of GDP"
+  }
+]

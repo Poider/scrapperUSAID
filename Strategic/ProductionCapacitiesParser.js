@@ -122,7 +122,6 @@ async function PhosphateParse(jsonData, companies_geolocation) {
 				'Value': item[i],
 				'unit' : "000 metric tons/year",
 				'Products': newItem.join(', '),
-				'lolo' :"lolo "
 
 			};
 			const geolocation = getLocation(item["Company"],item["Location"],companies_geolocation,"Phosphate")

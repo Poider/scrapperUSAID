@@ -4,12 +4,11 @@ const path = require('path');
 const {pathMaker} = require('../utils/path.js');
 
 
-
 async function openSheet(jsonizedPath, unzipPath, xls_unzipped_files,pageNum) {
 	const filePath = path.join(unzipPath, xls_unzipped_files[0]);
 	console.log(filePath)
 	try {
-
+	
 		const workbook = XLSX.readFile(filePath);
 		const sheet_name_list = workbook.SheetNames;
 
