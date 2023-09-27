@@ -1,0 +1,282 @@
+[
+  {
+    "country": "ALGERIA",
+    "iso_code": "DZ",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "country": "ANGOLA",
+    "iso_code": "AO",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "BENIN",
+    "iso_code": "BJ",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "BOTSWANA",
+    "iso_code": "BW",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "country": "BURKINA FASO",
+    "iso_code": "BF",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "BURUNDI",
+    "iso_code": "BI",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "CABO VERDE",
+    "iso_code": "CV",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "CAMEROON",
+    "iso_code": "CM",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "CENTRAL AFRICAN REPUBLIC",
+    "iso_code": "CF",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "CHAD",
+    "iso_code": "TD",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "COMOROS",
+    "iso_code": "KM",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "CONGO (BRAZZAVILLE)",
+    "iso_code": "CG",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "CONGO (KINSHASA)",
+    "iso_code": "CD",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "COTE D'IVOIRE",
+    "iso_code": "CI",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "CÔTE D'IVOIRE",
+    "iso_code": "CI",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "CIV",
+    "iso_code": "CI",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "DJIBOUTI",
+    "iso_code": "DJ",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "EGYPT",
+    "iso_code": "EG",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "country": "EQUATORIAL GUINEA",
+    "iso_code": "GQ",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "ERITREA",
+    "iso_code": "ER",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "ESWATINI",
+    "iso_code": "SZ",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "country": "ETHIOPIA",
+    "iso_code": "ET",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "GABON",
+    "iso_code": "GA",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "GAMBIA",
+    "iso_code": "GM",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "GHANA",
+    "iso_code": "GH",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "GUINEA",
+    "iso_code": "GN",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "GUINEA-BISSAU",
+    "iso_code": "GW",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "KENYA",
+    "iso_code": "KE",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "LESOTHO",
+    "iso_code": "LS",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "country": "LIBERIA",
+    "iso_code": "LR",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "LIBYA",
+    "iso_code": "LY",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "country": "MADAGASCAR",
+    "iso_code": "MG",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "MALAWI",
+    "iso_code": "MW",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "MALI",
+    "iso_code": "ML",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "MAURITANIA",
+    "iso_code": "MR",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "MAURITIUS",
+    "iso_code": "MU",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "MOROCCO",
+    "iso_code": "MA",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "country": "MOZAMBIQUE",
+    "iso_code": "MZ",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "NAMIBIA",
+    "iso_code": "NA",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "country": "NIGER",
+    "iso_code": "NE",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "NIGERIA",
+    "iso_code": "NG",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "RWANDA",
+    "iso_code": "RW",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "SAO TOME AND PRINCIPE",
+    "iso_code": "ST",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "SENEGAL",
+    "iso_code": "SN",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "SEYCHELLES",
+    "iso_code": "SC",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "SIERRA LEONE",
+    "iso_code": "SL",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "SOMALIA",
+    "iso_code": "SO",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "iso_code": "ZA",
+    "subregion": "SOUTHERN AFRICA"
+  },
+  {
+    "country": "SOUTH SUDAN",
+    "iso_code": "SS",
+    "subregion": "MIDDLE AFRICA"
+  },
+  {
+    "country": "SUDAN",
+    "iso_code": "SD",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "country": "TANZANIA",
+    "iso_code": "TZ",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "TOGO",
+    "iso_code": "TG",
+    "subregion": "WESTERN AFRICA"
+  },
+  {
+    "country": "TUNISIA",
+    "iso_code": "TN",
+    "subregion": "NORTHERN AFRICA"
+  },
+  {
+    "country": "UGANDA",
+    "iso_code": "UG",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "ZAMBIA",
+    "iso_code": "ZM",
+    "subregion": "EASTERN AFRICA"
+  },
+  {
+    "country": "ZIMBABWE",
+    "iso_code": "ZW",
+    "subregion": "SOUTHERN AFRICA"
+  }
+]
