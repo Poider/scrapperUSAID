@@ -117,6 +117,9 @@ async function salesParser(fileName, jsonizedPath, filePath) {
 		return false;
 	return true;
   });
+		let navires = sales.map((item) => item["Navire"])
+		navires = [...new Set(navires)];
+		console.log(JSON.stringify(navires,null,2))
 //   console.log(JSON.stringify(sales,null,2));
 //   await writingJson(jsonizedPath, sales);
    return sales

@@ -1,0 +1,1294 @@
+[
+  {
+    "code": "BOP_2017M06",
+    "description": "Balance of Payments (BOP), 2017 M06"
+  },
+  {
+    "code": "BOP_2020M3",
+    "description": "Balance of Payments (BOP), 2020 M03"
+  },
+  {
+    "code": "BOP_2017M11",
+    "description": "Balance of Payments (BOP), 2017 M11"
+  },
+  {
+    "code": "DOT_2020Q1",
+    "description": "Direction of Trade Statistics (DOTS), 2020 Q1"
+  },
+  {
+    "code": "GFSMAB2016",
+    "description": "Government Finance Statistics Yearbook (GFSY 2016), Main Aggregates and Balances"
+  },
+  {
+    "code": "BOP_2019M12",
+    "description": "Balance of Payments (BOP), 2019 M12"
+  },
+  {
+    "code": "GFSYFALCS2014",
+    "description": "Government Finance Statistics Yearbook (GFSY 2014), Financial Assets and Liabilities by Counterpart Sector"
+  },
+  {
+    "code": "GFSE2016",
+    "description": "Government Finance Statistics Yearbook (GFSY 2016), Expense"
+  },
+  {
+    "code": "FM201510",
+    "description": "Fiscal Monitor (FM) October 2015"
+  },
+  {
+    "code": "GFSIBS2016",
+    "description": "Government Finance Statistics Yearbook (GFSY 2016), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+  },
+  {
+    "code": "IFS_2019M01",
+    "description": "International Financial Statistics (IFS), 2019 M01"
+  },
+  {
+    "code": "DOT_2018Q3",
+    "description": "Direction of Trade Statistics (DOTS), 2018 Q3"
+  },
+  {
+    "code": "FM201604",
+    "description": "Fiscal Monitor (FM) April 2016"
+  },
+  {
+    "code": "WHDREO201504",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) April 2015"
+  },
+  {
+    "code": "DOT_2018Q2",
+    "description": "Direction of Trade Statistics (DOTS), 2018 Q2"
+  },
+  {
+    "code": "DOT_2019Q1",
+    "description": "Direction of Trade Statistics (DOTS), 2019 Q1"
+  },
+  {
+    "code": "GFSYIBS2014",
+    "description": "Government Finance Statistics Yearbook (GFSY 2014), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+  },
+  {
+    "code": "FM201410",
+    "description": "Fiscal Monitor (FM) October 2014"
+  },
+  {
+    "code": "APDREO201910",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) October 2019"
+  },
+  {
+    "code": "GFSSSUC2016",
+    "description": "Government Finance Statistics Yearbook (GFSY 2016), Statement of Sources and Uses of Cash"
+  },
+  {
+    "code": "AFRREO201610",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2016"
+  },
+  {
+    "code": "BOP_2018M04",
+    "description": "Balance of Payments (BOP), 2018 M04"
+  },
+  {
+    "code": "BOP_2018M03",
+    "description": "Balance of Payments (BOP), 2018 M03"
+  },
+  {
+    "code": "FM201904",
+    "description": "Fiscal Monitor (FM) April 2019"
+  },
+  {
+    "code": "IFS_2019M02",
+    "description": "International Financial Statistics (IFS), 2019 M02"
+  },
+  {
+    "code": "HPDD",
+    "description": "Historical Public Debt (HPDD)"
+  },
+  {
+    "code": "IFS_2018M03",
+    "description": "International Financial Statistics (IFS), 2018 M03"
+  },
+  {
+    "code": "GFSMAB2015",
+    "description": "Government Finance Statistics Yearbook (GFSY 2015), Main Aggregates and Balances"
+  },
+  {
+    "code": "IFS_2018M08",
+    "description": "International Financial Statistics (IFS), 2018 M08"
+  },
+  {
+    "code": "DOT_2017Q2",
+    "description": "Direction of Trade Statistics (DOTS), 2017 Q2"
+  },
+  {
+    "code": "BOP_2018M06",
+    "description": "Balance of Payments (BOP), 2018 M06"
+  },
+  {
+    "code": "BOP_2019M10",
+    "description": "Balance of Payments (BOP), 2019 M10"
+  },
+  {
+    "code": "GFSIBS2017",
+    "description": "Government Finance Statistics Yearbook (GFSY 2017), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+  },
+  {
+    "code": "AFRREO201704",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2017"
+  },
+  {
+    "code": "RAFIT2AGG",
+    "description": "Revenue Administration Fiscal Information Tool (RA-FIT) Round 2 Aggregates"
+  },
+  {
+    "code": "FM201704",
+    "description": "Fiscal Monitor (FM) April 2017"
+  },
+  {
+    "code": "BOP_2018M10",
+    "description": "Balance of Payments (BOP), 2018 M10"
+  },
+  {
+    "code": "WHDREO201604",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) April 2016"
+  },
+  {
+    "code": "AFRREO202004",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2020"
+  },
+  {
+    "code": "FM201804",
+    "description": "Fiscal Monitor (FM) April 2018"
+  },
+  {
+    "code": "AFRREO201410",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2014"
+  },
+  {
+    "code": "AFRREO201710",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2017"
+  },
+  {
+    "code": "MCDREO201810",
+    "description": "MCD Regional Economic Outlook (MCDREO) October 2018"
+  },
+  {
+    "code": "MCDREO201510",
+    "description": "MCD Regional Economic Outlook (MCDREO) October 2015"
+  },
+  {
+    "code": "DOT_2018Q1",
+    "description": "Direction of Trade Statistics (DOTS), 2018 Q1"
+  },
+  {
+    "code": "MCDREO201905",
+    "description": "MCD Regional Economic Outlook (MCDREO) May 2019"
+  },
+  {
+    "code": "IFS_2017M08",
+    "description": "International Financial Statistics (IFS), 2017 M08"
+  },
+  {
+    "code": "GENDER_EQUALITY",
+    "description": "Gender Equality"
+  },
+  {
+    "code": "AFRREO201910",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2019"
+  },
+  {
+    "code": "MCDREO201705",
+    "description": "MCD Regional Economic Outlook (MCDREO) May 2017"
+  },
+  {
+    "code": "WHDREO201810",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) October 2018"
+  },
+  {
+    "code": "IFS_2019M05",
+    "description": "International Financial Statistics (IFS), 2019 M05"
+  },
+  {
+    "code": "FAS_2015",
+    "description": "Financial Access Survey (FAS), 2015"
+  },
+  {
+    "code": "IFS_2020M05",
+    "description": "International Financial Statistics (IFS), 2020 M05"
+  },
+  {
+    "code": "IFS_2019M07",
+    "description": "International Financial Statistics (IFS), 2019 M07"
+  },
+  {
+    "code": "BOP_2018M01",
+    "description": "Balance of Payments (BOP), 2018 M01"
+  },
+  {
+    "code": "BOP_2020M05",
+    "description": "Balance of Payments (BOP), 2020 M05"
+  },
+  {
+    "code": "AFRREO201510",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2015"
+  },
+  {
+    "code": "APDREO201804",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) April 2018"
+  },
+  {
+    "code": "GFS01",
+    "description": "Government Finance Statistics (GFS 2001)"
+  },
+  {
+    "code": "GFSE2015",
+    "description": "Government Finance Statistics Yearbook (GFSY 2015), Expense"
+  },
+  {
+    "code": "GFSYMAB2014",
+    "description": "Government Finance Statistics Yearbook (GFSY 2014), Main Aggregates and Balances"
+  },
+  {
+    "code": "BOP_2019M1",
+    "description": "Balance of Payments (BOP), 2019 M01"
+  },
+  {
+    "code": "PGCS",
+    "description": "Private and Public Capital Stock Dataset"
+  },
+  {
+    "code": "BOP_2018M08",
+    "description": "Balance of Payments (BOP), 2018 M08"
+  },
+  {
+    "code": "MCDREO201505",
+    "description": "MCD Regional Economic Outlook May 2015"
+  },
+  {
+    "code": "IFS_2018M12",
+    "description": "International Financial Statistics (IFS), 2018 M12"
+  },
+  {
+    "code": "GFSR2015",
+    "description": "Government Finance Statistics Yearbook (GFSY 2015), Revenue"
+  },
+  {
+    "code": "IFS_2020M01",
+    "description": "International Financial Statistics (IFS), 2020 M01"
+  },
+  {
+    "code": "GENDER_BUDGETING",
+    "description": "Gender Budgeting"
+  },
+  {
+    "code": "IFS_2019M04",
+    "description": "International Financial Statistics (IFS), 2019 M04"
+  },
+  {
+    "code": "GFSCOFOG2015",
+    "description": "Government Finance Statistics Yearbook (GFSY 2015), Expenditure by Function of Government (COFOG)"
+  },
+  {
+    "code": "GFSMAB2017",
+    "description": "Government Finance Statistics Yearbook (GFSY 2017), Main Aggregates and Balances"
+  },
+  {
+    "code": "APDREO201410",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) October 2014"
+  },
+  {
+    "code": "IFS_2019M09",
+    "description": "International Financial Statistics (IFS), 2019 M09"
+  },
+  {
+    "code": "WHDREO201710",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) October 2017"
+  },
+  {
+    "code": "WHDREO201804",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) April 2018"
+  },
+  {
+    "code": "AFRREO201604",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2016"
+  },
+  {
+    "code": "DOT_2019Q4",
+    "description": "Direction of Trade Statistics (DOTS), 2019 Q4"
+  },
+  {
+    "code": "BOP_2020M1",
+    "description": "Balance of Payments (BOP), 2020 M01"
+  },
+  {
+    "code": "DOT_2017Q4",
+    "description": "Direction of Trade Statistics (DOTS), 2017 Q4"
+  },
+  {
+    "code": "GFSSSUC2017",
+    "description": "Government Finance Statistics Yearbook (GFSY 2017), Statement of Sources and Uses of Cash"
+  },
+  {
+    "code": "APDREO201610",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) October 2016"
+  },
+  {
+    "code": "AFRREO201904",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2019"
+  },
+  {
+    "code": "FM201504",
+    "description": "Fiscal Monitor (FM) April 2015"
+  },
+  {
+    "code": "GFSR2016",
+    "description": "Government Finance Statistics Yearbook (GFSY 2016), Revenue"
+  },
+  {
+    "code": "FAS_2017",
+    "description": "Financial Access Survey (FAS), 2017"
+  },
+  {
+    "code": "IFS_2018M06",
+    "description": "International Financial Statistics (IFS), 2018 M06"
+  },
+  {
+    "code": "BOP_2019M3",
+    "description": "Balance of Payments (BOP), 2019 M03"
+  },
+  {
+    "code": "IFS_2017M12",
+    "description": "International Financial Statistics (IFS), 2017 M12"
+  },
+  {
+    "code": "GFSFALCS2016",
+    "description": "Government Finance Statistics Yearbook (GFSY 2016), Financial Assets and Liabilities by Counterpart Sector"
+  },
+  {
+    "code": "IFS_2020M07",
+    "description": "International Financial Statistics (IFS), 2020 M07"
+  },
+  {
+    "code": "GFSCOFOG2016",
+    "description": "Government Finance Statistics Yearbook (GFSY 2016), Expenditure by Function of Government (COFOG)"
+  },
+  {
+    "code": "BOP_2019M4",
+    "description": "Balance of Payments (BOP), 2019 M04"
+  },
+  {
+    "code": "APDREO201510",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) October 2015"
+  },
+  {
+    "code": "FM201810",
+    "description": "Fiscal Monitor (FM) October 2018"
+  },
+  {
+    "code": "BOP_2017M12",
+    "description": "Balance of Payments (BOP), 2017 M12"
+  },
+  {
+    "code": "BOP_2020M07",
+    "description": "Balance of Payments (BOP), 2020 M07"
+  },
+  {
+    "code": "DOT_2019Q2",
+    "description": "Direction of Trade Statistics (DOTS), 2019 Q2"
+  },
+  {
+    "code": "BOP_2018M05",
+    "description": "Balance of Payments (BOP), 2018 M05"
+  },
+  {
+    "code": "IFS_2018M02",
+    "description": "International Financial Statistics (IFS), 2018 M02"
+  },
+  {
+    "code": "APDREO2017M04",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) April 2017"
+  },
+  {
+    "code": "GFSYCOFOG2014",
+    "description": "Government Finance Statistics Yearbook (GFSY 2014), Expenditure by Function of Government (COFOG)"
+  },
+  {
+    "code": "WHDREO201910",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) October 2019"
+  },
+  {
+    "code": "MCDREO201710",
+    "description": "MCD Regional Economic Outlook (MCDREO) October 2017"
+  },
+  {
+    "code": "FM201710",
+    "description": "Fiscal Monitor (FM) October 2017"
+  },
+  {
+    "code": "GFSYSSUC2014",
+    "description": "Government Finance Statistics Yearbook (GFSY 2014), Statement of Sources and Uses of Cash"
+  },
+  {
+    "code": "IFS_2017M11",
+    "description": "International Financial Statistics (IFS), 2017 M11"
+  },
+  {
+    "code": "GFSIBS2015",
+    "description": "Government Finance Statistics Yearbook (GFSY 2015), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+  },
+  {
+    "code": "AFRREO201504",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2015"
+  },
+  {
+    "code": "IFS_2019M06",
+    "description": "International Financial Statistics (IFS), 2019 M06"
+  },
+  {
+    "code": "IFS_2018M05",
+    "description": "International Financial Statistics (IFS), 2018 M05 "
+  },
+  {
+    "code": "BOP_2019M2",
+    "description": "Balance of Payments (BOP), 2019 M02"
+  },
+  {
+    "code": "BOP_2019M5",
+    "description": "Balance of Payments (BOP), 2019 M05"
+  },
+  {
+    "code": "GFSFALCS2015",
+    "description": "Government Finance Statistics Yearbook (GFSY 2015), Financial Assets and Liabilities by Counterpart Sector"
+  },
+  {
+    "code": "BOP_2017M08",
+    "description": "Balance of Payments (BOP), 2017 M08"
+  },
+  {
+    "code": "MCDREO201805",
+    "description": "MCD Regional Economic Outlook (MCDREO) May 2018"
+  },
+  {
+    "code": "APDREO201710",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) October 2017"
+  },
+  {
+    "code": "GFSYR2014",
+    "description": "Government Finance Statistics Yearbook (GFSY 2014), Revenue"
+  },
+  {
+    "code": "DOT_2020Q2",
+    "description": "Direction of Trade Statistics (DOTS), 2020 Q2"
+  },
+  {
+    "code": "BOP_2017M10",
+    "description": "Balance of Payments (BOP), 2017 M10"
+  },
+  {
+    "code": "IFS_2017M10",
+    "description": "International Financial Statistics (IFS), 2017 M10"
+  },
+  {
+    "code": "IFS_2019M11",
+    "description": "International Financial Statistics (IFS), 2019 M11"
+  },
+  {
+    "code": "BOP_2018M09",
+    "description": "Balance of Payments (BOP), 2018 M09"
+  },
+  {
+    "code": "GFSSSUC2015",
+    "description": "Government Finance Statistics Yearbook (GFSY 2015), Statement of Sources and Uses of Cash"
+  },
+  {
+    "code": "CPI",
+    "description": "Consumer Price Index (CPI)"
+  },
+  {
+    "code": "IFS_2018M04",
+    "description": "International Financial Statistics (IFS), 2018 M04"
+  },
+  {
+    "code": "GFSFALCS2017",
+    "description": "Government Finance Statistics Yearbook (GFSY 2017), Financial Assets and Liabilities by Counterpart Sector"
+  },
+  {
+    "code": "BOP_2017M07",
+    "description": "Balance of Payments (BOP), 2017 M07"
+  },
+  {
+    "code": "IFS_2019M03",
+    "description": "International Financial Statistics (IFS), 2019 M03"
+  },
+  {
+    "code": "BOP_2018M07",
+    "description": "Balance of Payments (BOP), 2018 M07"
+  },
+  {
+    "code": "FAS_2016",
+    "description": "Financial Access Survey (FAS), 2016"
+  },
+  {
+    "code": "FM201610",
+    "description": "Fiscal Monitor (FM) October 2016"
+  },
+  {
+    "code": "MCDREO201910",
+    "description": "MCD Regional Economic Outlook (MCDREO) October 2019"
+  },
+  {
+    "code": "WHDREO201704",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) April 2017"
+  },
+  {
+    "code": "WHDREO201904",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) April 2019"
+  },
+  {
+    "code": "AFRREO201804",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2018"
+  },
+  {
+    "code": "BOP_2019M8",
+    "description": "Balance of Payments (BOP), 2019 M08"
+  },
+  {
+    "code": "BOP_2019M9",
+    "description": "Balance of Payments (BOP), 2019 M09"
+  },
+  {
+    "code": "BOP_2018M12",
+    "description": "Balance of Payments (BOP), 2018 M12"
+  },
+  {
+    "code": "IFS_2018M07",
+    "description": "International Financial Statistics (IFS), 2018 M07"
+  },
+  {
+    "code": "IFS_2018M11",
+    "description": "International Financial Statistics (IFS), 2018 M11"
+  },
+  {
+    "code": "DOT_2018Q4",
+    "description": "Direction of Trade Statistics (DOTS), 2018 Q4"
+  },
+  {
+    "code": "DOT_2019Q3",
+    "description": "Direction of Trade Statistics (DOTS), 2019 Q3"
+  },
+  {
+    "code": "BOP_2019M11",
+    "description": "Balance of Payments (BOP), 2019 M11"
+  },
+  {
+    "code": "IFS_2020M03",
+    "description": "International Financial Statistics (IFS), 2020 M03"
+  },
+  {
+    "code": "GFSYE2014",
+    "description": "Government Finance Statistics Yearbook (GFSY 2014), Expense"
+  },
+  {
+    "code": "MCDREO201604",
+    "description": "MCD Regional Economic Outlook (MCDREO) April 2016"
+  },
+  {
+    "code": "BOP_2018M11",
+    "description": "Balance of Payments (BOP), 2018 M11 "
+  },
+  {
+    "code": "MCDREO201501",
+    "description": "MCD Regional Economic Outlook January 2015"
+  },
+  {
+    "code": "DOT_2017Q3",
+    "description": "Direction of Trade Statistics (DOTS), 2017 Q3"
+  },
+  {
+    "code": "APDREO201604",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) April 2016"
+  },
+  {
+    "code": "MCDREO201610",
+    "description": "MCD Regional Economic Outlook (MCDREO) October 2016"
+  },
+  {
+    "code": "IRFCL",
+    "description": "International Reserves and Foreign Currency Liquidity (IRFCL)"
+  },
+  {
+    "code": "FM201910",
+    "description": "Fiscal Monitor (FM) October 2019"
+  },
+  {
+    "code": "WHDREO201510",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) October 2015"
+  },
+  {
+    "code": "IFS_2020M04",
+    "description": "International Financial Statistics (IFS), 2020 M04"
+  },
+  {
+    "code": "BOP_2019M7",
+    "description": "Balance of Payments (BOP), 2019 M07"
+  },
+  {
+    "code": "APDREO201504",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) April 2015"
+  },
+  {
+    "code": "APDREO201904",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) April 2019"
+  },
+  {
+    "code": "GFSCOFOG2017",
+    "description": "Government Finance Statistics Yearbook (GFSY 2017), Expenditure by Function of Government (COFOG)"
+  },
+  {
+    "code": "IFS_2020M02",
+    "description": "International Financial Statistics (IFS), 2020 M02"
+  },
+  {
+    "code": "MCDREO201410",
+    "description": "MCD Regional Economic Outlook October 2014"
+  },
+  {
+    "code": "BOP_2018M02",
+    "description": "Balance of Payments (BOP), 2018 M02"
+  },
+  {
+    "code": "AFRREO201810",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2018"
+  },
+  {
+    "code": "BOP_2020M2",
+    "description": "Balance of Payments (BOP), 2020 M02"
+  },
+  {
+    "code": "IFS_2019M08",
+    "description": "International Financial Statistics (IFS), 2019 M08"
+  },
+  {
+    "code": "GFSE2017",
+    "description": "Government Finance Statistics Yearbook (GFSY 2017), Expense"
+  },
+  {
+    "code": "APDREO201810",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) October 2018"
+  },
+  {
+    "code": "IFS_2018M09",
+    "description": "International Financial Statistics (IFS), 2018 M09"
+  },
+  {
+    "code": "BOP_2019M6",
+    "description": "Balance of Payments (BOP), 2019 M06"
+  },
+  {
+    "code": "DOT_2017Q1",
+    "description": "Direction of Trade Statistics (DOTS), 2017 Q1"
+  },
+  {
+    "code": "IFS_2018M10",
+    "description": "International Financial Statistics (IFS), 2018 M10"
+  },
+  {
+    "code": "IFS_2019M12",
+    "description": "International Financial Statistics (IFS), 2019 M12"
+  },
+  {
+    "code": "IFS_2018M01",
+    "description": "International Financial Statistics (IFS), 2018 M01"
+  },
+  {
+    "code": "FAS_2018",
+    "description": "Financial Access Survey (FAS), 2018"
+  },
+  {
+    "code": "BOP_2017M09",
+    "description": "Balance of Payments (BOP), 2017 M09"
+  },
+  {
+    "code": "IFS_2017M09",
+    "description": "International Financial Statistics (IFS), 2017 M09"
+  },
+  {
+    "code": "BOP_2020M04",
+    "description": "Balance of Payments (BOP), 2020 M04"
+  },
+  {
+    "code": "WHDREO201610",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) October 2016"
+  },
+  {
+    "code": "GFSR2017",
+    "description": "Government Finance Statistics Yearbook (GFSY 2017), Revenue"
+  },
+  {
+    "code": "IFS_2020M06",
+    "description": "International Financial Statistics (IFS), 2020 M06"
+  },
+  {
+    "code": "BOP_2020M06",
+    "description": "Balance of Payments (BOP), 2020 M06"
+  },
+  {
+    "code": "IFS_2019M10",
+    "description": "International Financial Statistics (IFS), 2019 M10"
+  },
+  {
+    "code": "GFSR2019",
+    "description": "Government Finance Statistics Yearbook (GFSY 2019), Revenue"
+  },
+  {
+    "code": "GFSSSUC2019",
+    "description": "Government Finance Statistics Yearbook (GFSY 2019), Statement of Sources and Uses of Cash"
+  },
+  {
+    "code": "GFSE2019",
+    "description": "Government Finance Statistics Yearbook (GFSY 2019), Expense"
+  },
+  {
+    "code": "GFSFALCS2019",
+    "description": "Government Finance Statistics Yearbook (GFSY 2019), Financial Assets and Liabilities by Counterpart Sector"
+  },
+  {
+    "code": "GFSCOFOG2019",
+    "description": "Government Finance Statistics Yearbook (GFSY 2019), Expenditure by Function of Government (COFOG)"
+  },
+  {
+    "code": "GFSIBS2019",
+    "description": "Government Finance Statistics Yearbook (GFSY 2019), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+  },
+  {
+    "code": "GFSMAB2019",
+    "description": "Government Finance Statistics Yearbook (GFSY 2019), Main Aggregates and Balances"
+  },
+  {
+    "code": "IFS_DISCONTINUED",
+    "description": "International Financial Statistics (IFS), Discontinued Series"
+  },
+  {
+    "code": "EQ",
+    "description": "Export Quality"
+  },
+  {
+    "code": "ED",
+    "description": "Export Diversification"
+  },
+  {
+    "code": "RAFIT3P",
+    "description": "RA-FIT Round3 Completion and Participation Rates"
+  },
+  {
+    "code": "IFS_2020M11",
+    "description": "International Financial Statistics (IFS), 2020 M11"
+  },
+  {
+    "code": "BOP_2020M09",
+    "description": "Balance of Payments (BOP), 2020 M09"
+  },
+  {
+    "code": "IFS_2021M03",
+    "description": "International Financial Statistics (IFS), 2021 M03"
+  },
+  {
+    "code": "IFS_2021M02",
+    "description": "International Financial Statistics (IFS), 2021 M02"
+  },
+  {
+    "code": "DOT_2020Q4",
+    "description": "Direction of Trade Statistics (DOTS), 2020 Q4"
+  },
+  {
+    "code": "BOP_2020M08",
+    "description": "Balance of Payments (BOP), 2020 M08"
+  },
+  {
+    "code": "IFS_2021M01",
+    "description": "International Financial Statistics (IFS), 2021 M01"
+  },
+  {
+    "code": "DOT_2020Q3",
+    "description": "Direction of Trade Statistics (DOTS), 2020 Q3"
+  },
+  {
+    "code": "IFS_2020M08",
+    "description": "International Financial Statistics (IFS), 2020 M08"
+  },
+  {
+    "code": "IFS_2020M10",
+    "description": "International Financial Statistics (IFS), 2020 M10"
+  },
+  {
+    "code": "BOP_2020M10",
+    "description": "Balance of Payments (BOP), 2020 M10"
+  },
+  {
+    "code": "IFS_2020M12",
+    "description": "International Financial Statistics (IFS), 2020 M12"
+  },
+  {
+    "code": "IFS_2020M09",
+    "description": "International Financial Statistics (IFS), 2020 M09"
+  },
+  {
+    "code": "FM202010",
+    "description": "Fiscal Monitor (FM) October 2020"
+  },
+  {
+    "code": "APDREO202010",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO) October 2020"
+  },
+  {
+    "code": "AFRREO202010",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2020"
+  },
+  {
+    "code": "WHDREO202010",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO) October 2020"
+  },
+  {
+    "code": "IFS_2021M04",
+    "description": "International Financial Statistics (IFS), 2021 M04"
+  },
+  {
+    "code": "DOT_2021Q1",
+    "description": "Direction of Trade Statistics (DOTS), 2021 Q1"
+  },
+  {
+    "code": "IFS_2021M05",
+    "description": "International Financial Statistics (IFS), 2021 M05"
+  },
+  {
+    "code": "BOPAGG_2017",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates, 2017"
+  },
+  {
+    "code": "BOPAGG_2020",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates, 2020"
+  },
+  {
+    "code": "BOPAGG_2016",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates, 2016"
+  },
+  {
+    "code": "BOPAGG_2019",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates, 2019"
+  },
+  {
+    "code": "BOPAGG_2018",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates, 2018"
+  },
+  {
+    "code": "BOP_2021M04",
+    "description": "Balance of Payments (BOP), 2021 M04"
+  },
+  {
+    "code": "BOP_2020M12",
+    "description": "Balance of Payments (BOP), 2020 M12"
+  },
+  {
+    "code": "BOP_2021M03",
+    "description": "Balance of Payments (BOP), 2021 M03"
+  },
+  {
+    "code": "BOP_2021M05",
+    "description": "Balance of Payments (BOP), 2021 M05"
+  },
+  {
+    "code": "BOP_2020M11",
+    "description": "Balance of Payments (BOP), 2020 M11"
+  },
+  {
+    "code": "BOP_2020M02",
+    "description": "Balance of Payments (BOP), 2021 M02"
+  },
+  {
+    "code": "BOP_2021M01",
+    "description": "Balance of Payments (BOP), 2021 M01"
+  },
+  {
+    "code": "WoRLD",
+    "description": "World Revenue Longitudinal Data (WoRLD)"
+  },
+  {
+    "code": "FISCALDECENTRALIZATION",
+    "description": "Fiscal Decentralization"
+  },
+  {
+    "code": "BOPAGG",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates"
+  },
+  {
+    "code": "CDIS",
+    "description": "Coordinated Direct Investment Survey (CDIS)"
+  },
+  {
+    "code": "CPIS",
+    "description": "Coordinated Portfolio Investment Survey (CPIS)"
+  },
+  {
+    "code": "PSBSFAD",
+    "description": "Public Sector Balance Sheet (PSBS)(FAD)"
+  },
+  {
+    "code": "UNSDG_IMF_INPUTS",
+    "description": "Sustainable Development Goals, IMF Inputs"
+  },
+  {
+    "code": "FM",
+    "description": "Fiscal Monitor (FM)"
+  },
+  {
+    "code": "WHDREO",
+    "description": "Western Hemisphere Regional Economic Outlook (WHDREO)"
+  },
+  {
+    "code": "PCTOT",
+    "description": "Commodity Terms of Trade"
+  },
+  {
+    "code": "AFRREO",
+    "description": "Sub-Saharan Africa Regional Economic Outlook (AFRREO)"
+  },
+  {
+    "code": "APDREO",
+    "description": "Asia and Pacific Regional Economic Outlook (APDREO)"
+  },
+  {
+    "code": "MCDREO",
+    "description": "Middle East and Central Asia Regional Economic Outlook (MCDREO)"
+  },
+  {
+    "code": "IFS_2022M09",
+    "description": "International Financial Statistics (IFS), 2022 M09"
+  },
+  {
+    "code": "BOP_2023M01",
+    "description": "Balance of Payments (BOP), 2023 M01"
+  },
+  {
+    "code": "BOP_2023M05",
+    "description": "Balance of Payments (BOP), 2023 M05"
+  },
+  {
+    "code": "IFS_2023M05",
+    "description": "International Financial Statistics (IFS), 2023 M05"
+  },
+  {
+    "code": "DOT_2022Q3",
+    "description": "Direction of Trade Statistics (DOTS), 2022 Q3"
+  },
+  {
+    "code": "DOT_2023Q1",
+    "description": "Direction of Trade Statistics (DOTS), 2023 Q1"
+  },
+  {
+    "code": "BOP_2021M12",
+    "description": "Balance of Payments (BOP), 2021 M12"
+  },
+  {
+    "code": "GFSMAB2020",
+    "description": "Government Finance Statistics Yearbook (GFSY 2020), Main Aggregates and Balances"
+  },
+  {
+    "code": "BOPAGG_2022",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates, 2022"
+  },
+  {
+    "code": "IFS_2022M03",
+    "description": "International Financial Statistics (IFS), 2022 M03"
+  },
+  {
+    "code": "BOP_2023M02",
+    "description": "Balance of Payments (BOP), 2023 M02"
+  },
+  {
+    "code": "BOP_2021M11",
+    "description": "Balance of Payments (BOP), 2021 M11"
+  },
+  {
+    "code": "DOT_2022Q2",
+    "description": "Direction of Trade Statistics (DOTS), 2022 Q2"
+  },
+  {
+    "code": "BOP_2022M02",
+    "description": "Balance of Payments (BOP), 2022 M02"
+  },
+  {
+    "code": "BOP_2021M09",
+    "description": "Balance of Payments (BOP), 2021 M09"
+  },
+  {
+    "code": "BOP_2022M11",
+    "description": "Balance of Payments (BOP), 2022 M11"
+  },
+  {
+    "code": "IFS_2022M10",
+    "description": "International Financial Statistics (IFS), 2022 M10"
+  },
+  {
+    "code": "BOP_2022M07",
+    "description": "Balance of Payments (BOP), 2022 M07"
+  },
+  {
+    "code": "IFS_2021M12",
+    "description": "International Financial Statistics (IFS), 2021 M12"
+  },
+  {
+    "code": "BOP_2022M04",
+    "description": "Balance of Payments (BOP), 2022 M04"
+  },
+  {
+    "code": "DOT_2022Q1",
+    "description": "Direction of Trade Statistics (DOTS), 2022 Q1"
+  },
+  {
+    "code": "GFSSSUC2020",
+    "description": "Government Finance Statistics Yearbook (GFSY 2020), Statement of Sources and Uses of Cash"
+  },
+  {
+    "code": "DOT_2021Q4",
+    "description": "Direction of Trade Statistics (DOTS), 2021 Q4"
+  },
+  {
+    "code": "IFS_2022M05",
+    "description": "International Financial Statistics (IFS), 2022 M05"
+  },
+  {
+    "code": "BOP_2022M09",
+    "description": "Balance of Payments (BOP), 2022 M09"
+  },
+  {
+    "code": "GFSCOFOG2020",
+    "description": "Government Finance Statistics Yearbook (GFSY 2020), Expenditure by Function of Government (COFOG)"
+  },
+  {
+    "code": "IFS_2023M03",
+    "description": "International Financial Statistics (IFS), 2023 M03"
+  },
+  {
+    "code": "IFS_2022M07",
+    "description": "International Financial Statistics (IFS), 2022 M07"
+  },
+  {
+    "code": "BOP_2021M07",
+    "description": "Balance of Payments (BOP), 2021 M07"
+  },
+  {
+    "code": "BOP_2022M01",
+    "description": "Balance of Payments (BOP), 2022 M01"
+  },
+  {
+    "code": "BOP_2022M10",
+    "description": "Balance of Payments (BOP), 2022 M10"
+  },
+  {
+    "code": "IFS_2022M01",
+    "description": "International Financial Statistics (IFS), 2022 M01"
+  },
+  {
+    "code": "IFS_2021M08",
+    "description": "International Financial Statistics (IFS), 2021 M08"
+  },
+  {
+    "code": "BOPAGG_2021",
+    "description": "Balance of Payments (BOP), World and Regional Aggregates, 2021"
+  },
+  {
+    "code": "IFS_2023M02",
+    "description": "International Financial Statistics (IFS), 2023 M02"
+  },
+  {
+    "code": "IFS_2023M04",
+    "description": "International Financial Statistics (IFS), 2023 M04"
+  },
+  {
+    "code": "BOP_2022M03",
+    "description": "Balance of Payments (BOP), 2022 M03"
+  },
+  {
+    "code": "BOP_2022M05",
+    "description": "Balance of Payments (BOP), 2022 M05"
+  },
+  {
+    "code": "BOP_2022M06",
+    "description": "Balance of Payments (BOP), 2022 M06"
+  },
+  {
+    "code": "IFS_2023M01",
+    "description": "International Financial Statistics (IFS), 2023 M01"
+  },
+  {
+    "code": "IFS_2021M10",
+    "description": "International Financial Statistics (IFS), 2021 M10"
+  },
+  {
+    "code": "DOT_2022Q4",
+    "description": "Direction of Trade Statistics (DOTS), 2022 Q4"
+  },
+  {
+    "code": "BOP_2022M12",
+    "description": "Balance of Payments (BOP), 2022 M12"
+  },
+  {
+    "code": "GFSR2020",
+    "description": "Government Finance Statistics Yearbook (GFSY 2020), Revenue archive"
+  },
+  {
+    "code": "BOP_2023M03",
+    "description": "Balance of Payments (BOP), 2023 M03"
+  },
+  {
+    "code": "BOP_2021M06",
+    "description": "Balance of Payments (BOP), 2021 M06"
+  },
+  {
+    "code": "IFS_2022M02",
+    "description": "International Financial Statistics (IFS), 2022 M02"
+  },
+  {
+    "code": "DOT_2021Q2",
+    "description": "Direction of Trade Statistics (DOTS), 2021 Q2"
+  },
+  {
+    "code": "DOT_2021Q3",
+    "description": "Direction of Trade Statistics (DOTS), 2021 Q3"
+  },
+  {
+    "code": "GFSFALCS2020",
+    "description": "Government Finance Statistics Yearbook (GFSY 2020), Financial Assets and Liabilities by Counterpart Sector"
+  },
+  {
+    "code": "BOP_2023M04",
+    "description": "Balance of Payments (BOP), 2023 M04"
+  },
+  {
+    "code": "GFSIBS2020",
+    "description": "Government Finance Statistics Yearbook (GFSY 2020), Integrated Balance Sheet"
+  },
+  {
+    "code": "IFS_2022M04",
+    "description": "International Financial Statistics (IFS), 2022 M04"
+  },
+  {
+    "code": "IFS_2022M06",
+    "description": "International Financial Statistics (IFS), 2022 M06"
+  },
+  {
+    "code": "IFS_2021M11",
+    "description": "International Financial Statistics (IFS), 2021 M11"
+  },
+  {
+    "code": "IFS_2021M06",
+    "description": "International Financial Statistics (IFS), 2021 M06"
+  },
+  {
+    "code": "IFS_2021M09",
+    "description": "International Financial Statistics (IFS), 2021 M09"
+  },
+  {
+    "code": "BOP_2022M08",
+    "description": "Balance of Payments (BOP), 2022 M08"
+  },
+  {
+    "code": "BOP_2021M10",
+    "description": "Balance of Payments (BOP), 2021 M10"
+  },
+  {
+    "code": "IFS_2021M07",
+    "description": "International Financial Statistics (IFS), 2021 M07"
+  },
+  {
+    "code": "BOP_2021M08",
+    "description": "Balance of Payments (BOP), 2021 M08"
+  },
+  {
+    "code": "GFSE2020",
+    "description": "Government Finance Statistics Yearbook (GFSY 2020), Expense"
+  },
+  {
+    "code": "IFS_2022M08",
+    "description": "International Financial Statistics (IFS), 2022 M08"
+  },
+  {
+    "code": "IFS_2022M11",
+    "description": "International Financial Statistics (IFS), 2022 M11"
+  },
+  {
+    "code": "COFER",
+    "description": "Currency Composition of Official Foreign Exchange Reserves (COFER)"
+  },
+  {
+    "code": "BOP",
+    "description": "Balance of Payments (BOP)"
+  },
+  {
+    "code": "FDI",
+    "description": "Financial Development Index"
+  },
+  {
+    "code": "DOT",
+    "description": "Direction of Trade Statistics (DOTS)"
+  },
+  {
+    "code": "PCPS",
+    "description": "Primary Commodity Price System (PCPS)"
+  },
+  {
+    "code": "FAS",
+    "description": "Financial Access Survey (FAS)"
+  },
+  {
+    "code": "BOPSDMXUSD",
+    "description": "Balance of Payments (BOP), Global SDMX (US Dollars)"
+  },
+  {
+    "code": "NAMAIN_IDC_N",
+    "description": "System of National Accounts (SNA), NA_MAIN"
+  },
+  {
+    "code": "GFSR",
+    "description": "Government Finance Statistics (GFS), Revenue"
+  },
+  {
+    "code": "GFSSSUC",
+    "description": "Government Finance Statistics (GFS), Statement of Sources and Uses of Cash"
+  },
+  {
+    "code": "GFSCOFOG",
+    "description": "Government Finance Statistics (GFS), Expenditure by Function of Government (COFOG)"
+  },
+  {
+    "code": "GFSFALCS",
+    "description": "Government Finance Statistics (GFS), Financial Assets and Liabilities by Counterpart Sector"
+  },
+  {
+    "code": "GFSIBS",
+    "description": "Government Finance Statistics (GFS), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+  },
+  {
+    "code": "GFSMAB",
+    "description": "Government Finance Statistics (GFS), Main Aggregates and Balances"
+  },
+  {
+    "code": "GFSE",
+    "description": "Government Finance Statistics (GFS), Expense"
+  },
+  {
+    "code": "IFS",
+    "description": "International Financial Statistics (IFS)"
+  },
+  {
+    "code": "MFS",
+    "description": "Monetary and Financial Statistics (MFS)"
+  },
+  {
+    "code": "FSI",
+    "description": "Financial Soundness Indicators (FSIs)"
+  },
+  {
+    "code": "FSIRE",
+    "description": "Financial Soundness Indicators: Reporting entities"
+  }
+]

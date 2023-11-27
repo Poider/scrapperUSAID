@@ -150,7 +150,7 @@ async function run() {
 	{
 		for (const file of files) {
 			await insert(file);
-			deleteFile(pathMaker('..', 'Strategic', 'xlsx', file))
+			// deleteFile(pathMaker('..', 'Strategic', 'xlsx', file))
 		}
 	}
 	read.close();

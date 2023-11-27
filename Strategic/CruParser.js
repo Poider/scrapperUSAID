@@ -112,6 +112,7 @@ async function CruParser(fileName, jsonizedPath, filePath) {
 			if(Product[j])
 			{
 				let object = {};
+
 				object['year'] = year;
 				object['quarter'] = quarter;
 				object['month'] = month;
@@ -119,10 +120,15 @@ async function CruParser(fileName, jsonizedPath, filePath) {
 				object['product'] = Product[j]['product'];
 				object['incoterm'] = Product[j]['incoterm'];
 				object['index'] = Spot[j];
-				object['bulkPricing'] = bulkPricing[j];
+				object['unit'] = bulkPricing[j];
+				
 				// object['Max'] = CruData[i][n]? CruData[i][n] : null;
 				// object['Min'] = CruData[i][n+1] ? CruData[i][n+1] : null;
 				object['Avg'] = CruData[i][n + 2] ? CruData[i][n + 2] : null;
+				object["indicator"] = "Fertilizer prices";
+				object["source"] = "Internal";
+				object["api_url"] = "Internal";
+				object["extracted_on"] = new Date().toISOString().slice(0, 10);
 				allData.push(object);
 			}
 			j++;

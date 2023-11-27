@@ -1,13 +1,7 @@
 
 const path = require('path');
 const fs = require('fs');
-[
-    {
-      "country": "Algeria",
-      "iso_code": "DZ",
-      "subregion": "Northern Africa"
-    }
-]
+
 
 function UppercasingJson()
 {

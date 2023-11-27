@@ -1,0 +1,110 @@
+[
+  {
+    "id": "FMB_PC_PP_PT",
+    "name": "Broad Money, Percent change, Previous period, Percent"
+  },
+  {
+    "id": "FMB_GDP_PT",
+    "name": "Broad Money, Percent of GDP, Percent"
+  },
+  {
+    "id": "FDSAOP_PC_PP_PT",
+    "name": "Claims on Private Sector, Percent change, Previous period, Percent"
+  },
+  {
+    "id": "FDSAOP_GDP_PT",
+    "name": "Claims on Private Sector, Percent of GDP, Percent"
+  },
+  {
+    "id": "PCPI_PC_PP_PT",
+    "name": "Consumer Prices, All items, Percent change, Previous period, Percent"
+  },
+  {
+    "id": "PCPI_EOP_PC_PP_PT",
+    "name": "Consumer Prices, End of Period, Percent change, Previous period, Percent"
+  },
+  {
+    "id": "BCA_BP6_GDP_PT",
+    "name": "Current Account, Total, Net, Percent of GDP, Percent"
+  },
+  {
+    "id": "ENEER_IX",
+    "name": "Exchange Rates, Nominal Effective Exchange Rate , based on Consumer Price Index, Index"
+  },
+  {
+    "id": "EREER_IX",
+    "name": "Exchange Rates, Real Effective Exchange Rate , based on Consumer Price Index, Index"
+  },
+  {
+    "id": "NGDPRPC_PC_PP_PT",
+    "name": "GDP per Capita, Real, Percent change, Previous period, Percent"
+  },
+  {
+    "id": "BXGS_BP6_GDP_PT",
+    "name": "Goods and Services, Credit, Percent of GDP, Percent"
+  },
+  {
+    "id": "BMGS_BP6_GDP_PT",
+    "name": "Goods and Services, Debit, Percent of GDP, Percent"
+  },
+  {
+    "id": "NI_GDP_PT",
+    "name": "Gross Capital Formation, Nominal, Percent of GDP, Percent"
+  },
+  {
+    "id": "GGXWDG_G01_GDP_PT",
+    "name": "Gross debt position (Gen. Govt.), Percent of GDP, Percent"
+  },
+  {
+    "id": "NGDP_R_PC_PP_PT",
+    "name": "Gross Domestic Product, Real, Percent change, Previous period, Percent"
+  },
+  {
+    "id": "NGS_GDP_PT",
+    "name": "Gross National Saving, Nominal, Percent of GDP, Percent"
+  },
+  {
+    "id": "BFD_BP6_GDP_PT",
+    "name": "Net lending (+) / net borrowing (-) (balance from financial account), Direct investment, Percent of GDP, Percent"
+  },
+  {
+    "id": "GGXCNL_G01_GDP_PT",
+    "name": "Net lending/borrowing (Gen. Govt.), Percent of GDP, Percent"
+  },
+  {
+    "id": "GGXCNLXG_G01_GDP_PT",
+    "name": "Net lending/borrowing excluding Grants (Gen. Govt.), Percent of GDP, Percent"
+  },
+  {
+    "id": "NGDPXO_R_PC_PP_PT",
+    "name": "Non-Oil GDP, Real, Percent change, Previous period, Percent"
+  },
+  {
+    "id": "D_G_GDP_PT",
+    "name": "Official Debt, Debtor, Percent of GDP, Percent"
+  },
+  {
+    "id": "GGR_G01_GDP_PT",
+    "name": "Revenue (Gen. Govt.), Percent of GDP, Percent"
+  },
+  {
+    "id": "TTT_IX",
+    "name": "Terms of Trade for Goods, Index"
+  },
+  {
+    "id": "GGX_G01_GDP_PT",
+    "name": "Total Expenditure (Gen. Govt.), Percent of GDP, Percent"
+  },
+  {
+    "id": "All_Indicators",
+    "name": "All Indicators"
+  },
+  {
+    "id": "BG_BP6_GDP_PT",
+    "name": "Goods and Services, Goods, Net, Percent of GDP, Percent"
+  },
+  {
+    "id": "IAR_BP6_MI_MH",
+    "name": "Reserves, Net, Months of imported goods and services, Months"
+  }
+]

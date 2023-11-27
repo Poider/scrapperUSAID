@@ -1,0 +1,286 @@
+http://dataservices.imf.org/REST/SDMX_JSON.svc/GenericMetadata/BOP/A.GB.IAOCD_BP6_XDC.?startPeriod=2002&endPeriod=2022
+{
+  "GenericMetadata": {
+    "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xmlns": "http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message",
+    "@xsi:schemaLocation": "http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message https://registry.sdmx.org/schemas/v2_0/SDMXMessage.xsd",
+    "Header": {
+      "ID": "3db53090-965b-4ad2-8507-685f16856527",
+      "Test": "false",
+      "Prepared": "2023-10-05T11:19:32",
+      "Sender": {
+        "@id": "1C0",
+        "Name": {
+          "@xml:lang": "en",
+          "#text": "IMF"
+        },
+        "Contact": {
+          "URI": "http://www.imf.org",
+          "Telephone": "+ 1 (202) 623-6220"
+        }
+      },
+      "Receiver": {
+        "@id": "ZZZ"
+      },
+      "DataSetID": "BOP"
+    },
+    "MetadataSet": {
+      "@xmlns": "http://www.SDMX.org/resources/SDMXML/schemas/v2_0/genericmetadata",
+      "MetadataStructureRef": "MDSD_BOP",
+      "MetadataStructureAgencyRef": "IMF",
+      "ReportRef": "OBSERVATION_REPORT",
+      "AttributeValueSet": [
+        {
+          "TargetRef": "DATA_STRUCTURE_DEFINITION",
+          "TargetValues": {
+            "ComponentValue": {
+              "@object": "KeyFamily",
+              "@component": "DSD",
+              "#text": "BOP"
+            }
+          },
+          "ReportedAttribute": [
+            {
+              "@conceptID": "OBS_IFS_KEY",
+              "ReportedAttribute": {
+                "@conceptID": "FREQ",
+                "Value": {
+                  "@xml:lang": "en",
+                  "#text": "1"
+                }
+              }
+            },
+            {
+              "@conceptID": "FREQ",
+              "ReportedAttribute": [
+                {
+                  "@conceptID": "FREQ_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "Annual"
+                  }
+                },
+                {
+                  "@conceptID": "FREQ_ID",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "YEAR"
+                  }
+                },
+                {
+                  "@conceptID": "FREQ_MNEMO",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "A"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "TargetRef": "DATA_STRUCTURE_DEFINITION",
+          "TargetValues": {
+            "ComponentValue": {
+              "@object": "KeyFamily",
+              "@component": "DSD",
+              "#text": "BOP"
+            }
+          },
+          "ReportedAttribute": [
+            {
+              "@conceptID": "OBS_IFS_KEY",
+              "ReportedAttribute": {
+                "@conceptID": "REF_AREA",
+                "Value": {
+                  "@xml:lang": "en",
+                  "#text": "GB"
+                }
+              }
+            },
+            {
+              "@conceptID": "REF_AREA",
+              "ReportedAttribute": [
+                {
+                  "@conceptID": "REF_AREA_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "United Kingdom"
+                  }
+                },
+                {
+                  "@conceptID": "REF_AREA_CODE",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "112"
+                  }
+                },
+                {
+                  "@conceptID": "REF_AREA_SHORT_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "United Kingdom"
+                  }
+                },
+                {
+                  "@conceptID": "REF_AREA_FULL_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "United Kingdom"
+                  }
+                },
+                {
+                  "@conceptID": "REF_AREA_ISO__CODE",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "GB"
+                  }
+                },
+                {
+                  "@conceptID": "REF_AREA_ISO__CODE_1",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "GBR"
+                  }
+                },
+                {
+                  "@conceptID": "REF_AREA_SDMX_CODE",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "GB"
+                  }
+                },
+                {
+                  "@conceptID": "REF_AREA_SDMX_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "United Kingdom"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "TargetRef": "DATA_STRUCTURE_DEFINITION",
+          "TargetValues": {
+            "ComponentValue": {
+              "@object": "KeyFamily",
+              "@component": "DSD",
+              "#text": "BOP"
+            }
+          },
+          "ReportedAttribute": [
+            {
+              "@conceptID": "OBS_IFS_KEY",
+              "ReportedAttribute": {
+                "@conceptID": "INDICATOR",
+                "Value": {
+                  "@xml:lang": "en",
+                  "#text": "IAOCD_BP6_XDC"
+                }
+              }
+            },
+            {
+              "@conceptID": "INDICATOR",
+              "ReportedAttribute": [
+                {
+                  "@conceptID": "INDICATOR_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "Assets, Other Investment, Currency and Deposits, National Currency"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_CODE",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "IAOCD_BP6_XDC"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_SHORT_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "Assets, Other Investment, Currency and Deposits, National Currency"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_FULL_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "International Investment Position, Assets, Other investment, Currency and deposits [BPM6], Domestic Currency"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_CTS_CODE",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "IAOCD_BP6_XDC"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_CONCEPT",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "International Investment Position, Assets, Other Investment, Currency and Deposits"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_METHODOLOGY",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "Balance of Payments Manual, 6th Edition"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_UNIT",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "Domestic Currency"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_TOPIC",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "External Sector"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_KEY_INDICATOR",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "Other Indicator"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_SDMX_CODE",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "IAOCD_BP6_XDC"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_SDMX_NAME",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": "Assets, Other Investment, Currency and Deposits, National Currency"
+                  }
+                },
+                {
+                  "@conceptID": "INDICATOR_ALTERNATE_PUBLICATION_CODES",
+                  "Value": {
+                    "@xml:lang": "en",
+                    "#text": ".8DB000.A.A.A.2"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

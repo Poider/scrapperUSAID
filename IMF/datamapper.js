@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { get } = require('express/lib/response');
+
 const fs = require('fs');
 const path = require('path')
 async function dataFetcher(indicator, ...args) {
@@ -55,7 +55,8 @@ const imfCountriesChanged = new Map([
     ["CONGO, REPUBLIC OF",'Congo (Brazzaville)'],
     ["CONGO, DEM. REP. OF THE", 'Congo (Kinshasa)'],
     ["SÃO TOMÉ AND PRÍNCIPE", 'Sao Tome and Principe'],
-    ["SOUTH SUDAN, REPUBLIC OF", "South Sudan"]
+    ["SOUTH SUDAN, REPUBLIC OF", "South Sudan"],
+    ["CÔTE D'IVOIRE", "COTE D'IVOIRE"]
 ])
 function getCountryDataToInsert(country, countriesRef)
 {
@@ -141,8 +142,30 @@ async function getFilesReady(indicator, fileName) {
 }
 
 async function main() {
-    const indicators = ['d', 'BRASS_MI']
-    const fileNames = ["Gross public debt, percent of GDP.json", "Reserves (Months of Imports).json"]
+    const indicators = [
+     'd',
+     'BRASS_MI',
+     'DG_GDP', 
+     'EREER',
+     "GGXCNL_GDP", 
+     "GGXCNLXG_GDP", 
+     "GGRXG_GDP", 
+     "GGX_GDP", 
+     "GGXWDG_GDP", 
+     "ENEER"
+    ]
+    const fileNames = [
+        "Gross public debt, percent of GDP.json", 
+        "Reserves (Months of Imports).json",
+        "External Debt, Official Debt, Debtor Based (% of GDP).json",
+        "Real Effective Exchange Rates (2010=100).json",
+        "Overall Fiscal Balance, Including Grants (% of GDP).json",
+        "Overall Fiscal Balance, Excluding Grants (% of GDP).json",
+        "Government Revenue, Excluding Grants (% of GDP).json", 
+        "Government Expenditure (% of GDP.json", 
+        "Government Debt (% of GDP).json", 
+        "Nominal Effective Exchange Rates (2010=100).json"
+    ]
     await getFilesReady(indicators, fileNames)
 
 }

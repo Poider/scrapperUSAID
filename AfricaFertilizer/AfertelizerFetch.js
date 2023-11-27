@@ -242,6 +242,117 @@ function getConsumptionData(data) {
 
 
 
+
+function getCountriesRef() {
+  const jsonPath = path.join(__dirname, '..', 'Regions','African_regions.json'); 
+  const countriesRef = fs.readFileSync(jsonPath, 'utf-8');
+  const parsedCountriesRef = JSON.parse(countriesRef);
+
+  const countriesRegions = parsedCountriesRef.map(countryData => {
+      const { country, iso_code } = countryData;
+      return [country.toUpperCase() , iso_code];
+  });
+  return new Map(countriesRegions);
+
+}
+ const CountriesChanged = new Map([
+  ["CONGO, REPUBLIC OF",'Congo (Brazzaville)'],
+  ["CONGO, DEM. REP. OF THE", 'Congo (Kinshasa)'],
+  ["SÃO TOMÉ AND PRÍNCIPE", 'Sao Tome and Principe'],
+  ["SOUTH SUDAN, REPUBLIC OF", "South Sudan"],
+  ["EGYPT, ARAB REP. OF", "Egypt"],
+  ["CÔTE D'IVOIRE", "COTE D'IVOIRE"]
+])
+function getCountryDataToInsert(country, countriesRef)
+{
+  country = country.toUpperCase();
+  if(countriesRef.get(country))
+  {
+      const iso_code = countriesRef.get(country);
+      return {country, iso_code};
+  }
+  else
+  {
+      if(CountriesChanged.get(country))
+      {
+          const updatedCountry = CountriesChanged.get(country).toUpperCase();
+          const iso_code = countriesRef.get(updatedCountry);
+          // console.log(country, iso_code)
+          return {country : updatedCountry, iso_code};
+      }
+      else
+      {
+        console.log("country not found in regions.json", country)
+      return {country, iso_code : null};
+      }
+  }    
+}
+
+
+function transformResults(jsonData, indicatorName, unit)
+{
+
+const regionData = getCountriesRef()
+const parsedRegionData = regionData
+
+
+ const fixedData = jsonData.map(countryData => {
+   let {  date ,year, value, price,volume, ftwgValidated} = countryData;
+   const inputCountry = countryData["country"];
+   //handle country
+    //extract from object all other keys that arent  {country,date ,year, value, price,volume, ftwgValidated}
+     const restOfObject = Object.keys(countryData).filter(key => key !== "country" && key !== 
+                            "date" && key !== "year" && key !== "value" && key !== "price" &&
+                            key !== "volume" && key !== "ftwgValidated" && key !== "region"
+                            && key !== "country code")
+                            
+   if(!value)
+    value = price ? price : volume;
+   if(date && !year)
+    { 
+      const dateObject = new Date(date);
+      year = dateObject.getFullYear();
+    }
+    let country = undefined, iso_code = undefined;
+    if(inputCountry){
+      ({ country, iso_code } = getCountryDataToInsert(inputCountry, parsedRegionData));
+    }
+    
+    const finalobj = {};
+    for (const key of restOfObject) {
+      finalobj[key] = countryData[key];
+    }
+    let total = undefined;
+    if(finalobj.total)
+    {
+      total = finalobj.total;
+      delete finalobj.total;
+    }
+    finalobj.country = country;
+    finalobj["country code"] = iso_code;
+    finalobj.ftwgValidated = ftwgValidated;
+    finalobj.indicator = indicatorName;
+    finalobj.year = year;
+    finalobj.value = value;
+    finalobj.unit = unit;
+    finalobj.total= total;
+    finalobj.source = "AfricaFertilizer";
+    finalobj.api_url = "https://africafertilizer.org/#/en";
+    finalobj.extracted_on = new Date().toISOString().slice(0, 10);
+
+    return finalobj;
+    
+  }
+ );
+ return fixedData;
+}
+
+
+
+
+
+
+
 const consumptionInputs = [
   {input : _8_1, country : "Kenya"},
   {input : _8_2, country : "Nigeria"},
@@ -261,8 +372,18 @@ const otherDataInputs = [
   {input : _6, indicator : "historicalSeriesByProducts", byYear : false, parser: series_X_Y_Parser},
   {input : _7, indicator : "apparentConsumptionByCountryByYear",  byYear : true, parser: selectedYearByProductsParser},
 ]
+
+const units = ["Total imported in MT",
+                "Total imported in MT",
+                "Total exported in MT",
+                "Total exported in MT",
+                "Total production in MT",
+                "Price in USD/MT",
+                "apparent consumption in MT"
+
+]
 async function consumptionFetcher () {
-  const consumptionData = [];
+  let consumptionData = [];
   for( consumptionInput of consumptionInputs){ 
     const {input, country} = consumptionInput;
     const {link, body} = input();
@@ -270,7 +391,7 @@ async function consumptionFetcher () {
     const formattedData = consumptionByProduct_X_Y_Parser(data, country);
     consumptionData.push(...formattedData);
   }
-
+  consumptionData = transformResults(consumptionData,"National Average Fertilizer Consumption","Average feritilzer use in kg/ha");
   const filepath = path.join(__dirname,"outputs" ,"consumption.json");
   fs.writeFileSync(filepath, JSON.stringify(consumptionData, null, 2));
 }
@@ -302,7 +423,7 @@ const fetchingFromInput  = async (otherDataInput) => {
     const data = await fetchDataWithRetry(link , body);
     formattedData = parser(data);
   }
- 
+  formattedData = transformResults(formattedData, indicator, units[otherDataInputs.indexOf(otherDataInput)]);
   const filepath = path.join(__dirname,"outputs" ,`${indicator}.json`);
   fs.writeFileSync(filepath, JSON.stringify(formattedData, null, 2));
   console.log("----finished :" + indicator)
@@ -313,6 +434,12 @@ async function otherDataFetcher () {
     await fetchingFromInput(otherDataInput);
   }
 }
+
+
+
+
+
+
 
 (async function main() {
 
